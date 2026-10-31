@@ -1,0 +1,1658 @@
+{
+ "bounds": [
+  [
+   41.985283585734,
+   -124.84897400000001
+  ],
+  [
+   49.002439,
+   -104.0395004433713
+  ]
+ ],
+ "size": [
+  4633,
+  2233
+ ],
+ "hot_files": [
+  {
+   "file": "hot1.png",
+   "categories": [
+    "agate_jasper",
+    "geode_thunderegg",
+    "quartz_crystal"
+   ]
+  },
+  {
+   "file": "hot2.png",
+   "categories": [
+    "petrified_wood",
+    "fossils",
+    "opal"
+   ]
+  },
+  {
+   "file": "hot3.png",
+   "categories": [
+    "garnet",
+    "pegmatite_gems",
+    "copper_minerals"
+   ]
+  },
+  {
+   "file": "hot4.png",
+   "categories": [
+    "uv_minerals",
+    "placer_gold",
+    "lode_gold"
+   ]
+  },
+  {
+   "file": "hot5.png",
+   "categories": [
+    "lead_zinc_silver",
+    "calcite_barite",
+    "iron_minerals"
+   ]
+  },
+  {
+   "file": "hot6.png",
+   "categories": [
+    "molybdenite",
+    "epidote",
+    "staurolite_kyanite"
+   ]
+  },
+  {
+   "file": "hot7.png",
+   "categories": [
+    "serpentine_jade",
+    "fluorite",
+    "zeolites"
+   ]
+  }
+ ],
+ "cell_m": 350,
+ "river_files": [],
+ "river_groups": {},
+ "categories": {
+  "agate_jasper": {
+   "label": "Agate, jasper & chalcedony",
+   "method": "mix",
+   "presences": 166,
+   "map": "jasper_mix",
+   "capture_top5": 0.17,
+   "held_out_top5": {
+    "WA": 0.179,
+    "ID": 0.0,
+    "MT": 0.353,
+    "OR": 0.155
+   },
+   "held_out_n": {
+    "WA": 56,
+    "ID": 21,
+    "MT": 17,
+    "OR": 71
+   },
+   "held_out_auc": {
+    "WA": 0.778,
+    "ID": 0.698,
+    "MT": 0.827,
+    "OR": 0.721
+   },
+   "esm": false,
+   "drivers": [
+    [
+     "eff_logd_site",
+     -1.702
+    ],
+    [
+     "chem_ta",
+     -0.513
+    ],
+    [
+     "emit_dolomite_depth",
+     0.457
+    ],
+    [
+     "w_ultra",
+     -0.448
+    ],
+    [
+     "gp_grav",
+     0.427
+    ],
+    [
+     "recipe",
+     0.422
+    ]
+   ]
+  },
+  "geode_thunderegg": {
+   "label": "Geodes & thundereggs",
+   "method": "mix",
+   "presences": 27,
+   "map": "geode_thunderegg_mix",
+   "capture_top5": 0.32,
+   "held_out_top5": {
+    "WA": 0.125,
+    "ID": 0.5,
+    "OR": 0.333
+   },
+   "held_out_n": {
+    "WA": 8,
+    "ID": 4,
+    "OR": 15
+   },
+   "held_out_auc": {
+    "WA": 0.812,
+    "ID": 0.841,
+    "OR": 0.844
+   },
+   "esm": true,
+   "drivers": [
+    [
+     "eff_logd_site",
+     -2.653
+    ],
+    [
+     "emit_seen",
+     -1.257
+    ],
+    [
+     "aef_05",
+     0.955
+    ],
+    [
+     "rw_sericite",
+     -0.904
+    ],
+    [
+     "aef_40",
+     -0.836
+    ],
+    [
+     "gp_k",
+     0.827
+    ]
+   ]
+  },
+  "quartz_crystal": {
+   "label": "Quartz crystals & amethyst",
+   "method": "mix",
+   "presences": 160,
+   "map": "quartz_crystal_mix",
+   "capture_top5": 0.2,
+   "held_out_top5": {
+    "WA": 0.081,
+    "ID": 0.0,
+    "MT": 0.724,
+    "OR": 0.0
+   },
+   "held_out_n": {
+    "WA": 86,
+    "ID": 25,
+    "MT": 29,
+    "OR": 20
+   },
+   "held_out_auc": {
+    "WA": 0.563,
+    "ID": 0.665,
+    "MT": 0.895,
+    "OR": 0.576
+   },
+   "esm": false,
+   "drivers": [
+    [
+     "eff_logd_site",
+     -1.507
+    ],
+    [
+     "eff_logd_road",
+     -0.537
+    ],
+    [
+     "relief_max",
+     0.439
+    ],
+    [
+     "eff_logd_town",
+     0.426
+    ],
+    [
+     "near_dike",
+     -0.355
+    ],
+    [
+     "rw_adv_arg",
+     0.318
+    ]
+   ]
+  },
+  "petrified_wood": {
+   "label": "Petrified & opalized wood",
+   "method": "mix",
+   "presences": 34,
+   "map": "petrified_wood_mix",
+   "capture_top5": 0.05,
+   "held_out_top5": {
+    "WA": 0.059,
+    "ID": 0.0,
+    "MT": 0.0,
+    "OR": 0.125
+   },
+   "held_out_n": {
+    "WA": 17,
+    "ID": 3,
+    "MT": 5,
+    "OR": 8
+   },
+   "held_out_auc": {
+    "WA": 0.626,
+    "ID": 0.839,
+    "MT": 0.555,
+    "OR": 0.619
+   },
+   "esm": true,
+   "drivers": [
+    [
+     "eff_logd_site",
+     -1.384
+    ],
+    [
+     "recipe",
+     0.81
+    ],
+    [
+     "logd_dike",
+     0.587
+    ],
+    [
+     "eff_logd_road",
+     -0.575
+    ],
+    [
+     "w_rhy",
+     0.52
+    ],
+    [
+     "aef_05",
+     0.487
+    ]
+   ]
+  },
+  "fossils": {
+   "label": "Fossils (plants & invertebrates)",
+   "method": "mix",
+   "presences": 1229,
+   "map": "fossils_mix",
+   "capture_top5": 0.32,
+   "held_out_top5": {
+    "WA": 0.515,
+    "ID": 0.495,
+    "MT": 0.053,
+    "OR": 0.216
+   },
+   "held_out_n": {
+    "WA": 305,
+    "ID": 182,
+    "MT": 432,
+    "OR": 310
+   },
+   "held_out_auc": {
+    "WA": 0.889,
+    "ID": 0.887,
+    "MT": 0.651,
+    "OR": 0.731
+   },
+   "esm": false,
+   "drivers": [
+    [
+     "eff_logd_site",
+     -1.979
+    ],
+    [
+     "recipe",
+     0.564
+    ],
+    [
+     "logd_dike",
+     0.447
+    ],
+    [
+     "bed_intrusive_felsic",
+     -0.294
+    ],
+    [
+     "gp_k",
+     -0.282
+    ],
+    [
+     "lith_intrusive_felsic",
+     -0.279
+    ]
+   ]
+  },
+  "opal": {
+   "label": "Opal",
+   "method": "mix",
+   "presences": 120,
+   "map": "opal_mix",
+   "capture_top5": 0.14,
+   "held_out_top5": {
+    "WA": 0.314,
+    "ID": 0.049,
+    "MT": 0.143,
+    "OR": 0.054
+   },
+   "held_out_n": {
+    "WA": 35,
+    "ID": 41,
+    "MT": 7,
+    "OR": 37
+   },
+   "held_out_auc": {
+    "WA": 0.795,
+    "ID": 0.573,
+    "MT": 0.633,
+    "OR": 0.699
+   },
+   "esm": false,
+   "drivers": [
+    [
+     "eff_logd_site",
+     -1.947
+    ],
+    [
+     "aef_25",
+     -0.616
+    ],
+    [
+     "recipe",
+     0.536
+    ],
+    [
+     "aef_09",
+     -0.534
+    ],
+    [
+     "chem_au",
+     -0.412
+    ],
+    [
+     "eff_logd_road",
+     -0.41
+    ]
+   ]
+  },
+  "garnet": {
+   "label": "Garnet",
+   "method": "mix",
+   "presences": 454,
+   "map": "garnet_mix",
+   "capture_top5": 0.31,
+   "held_out_top5": {
+    "WA": 0.204,
+    "ID": 0.216,
+    "MT": 0.417,
+    "OR": 0.4
+   },
+   "held_out_n": {
+    "WA": 93,
+    "ID": 231,
+    "MT": 115,
+    "OR": 15
+   },
+   "held_out_auc": {
+    "WA": 0.723,
+    "ID": 0.721,
+    "MT": 0.812,
+    "OR": 0.696
+   },
+   "esm": false,
+   "drivers": [
+    [
+     "eff_logd_site",
+     -1.401
+    ],
+    [
+     "recipe",
+     0.42
+    ],
+    [
+     "aef_24",
+     -0.279
+    ],
+    [
+     "aef_62",
+     0.262
+    ],
+    [
+     "rw_ferrous",
+     0.252
+    ],
+    [
+     "logd_fault",
+     0.246
+    ]
+   ]
+  },
+  "pegmatite_gems": {
+   "label": "Pegmatite & metamorphic gems",
+   "method": "mix",
+   "presences": 1138,
+   "map": "pegmatite_gems_mix",
+   "capture_top5": 0.08,
+   "held_out_top5": {
+    "WA": 0.029,
+    "ID": 0.007,
+    "MT": 0.249,
+    "OR": 0.034
+   },
+   "held_out_n": {
+    "WA": 239,
+    "ID": 294,
+    "MT": 225,
+    "OR": 378
+   },
+   "held_out_auc": {
+    "WA": 0.454,
+    "ID": 0.529,
+    "MT": 0.712,
+    "OR": 0.496
+   },
+   "esm": false,
+   "drivers": [
+    [
+     "eff_logd_site",
+     -2.48
+    ],
+    [
+     "aef_33",
+     -0.399
+    ],
+    [
+     "aef_34",
+     0.366
+    ],
+    [
+     "w_ultra",
+     -0.364
+    ],
+    [
+     "aef_07",
+     -0.36
+    ],
+    [
+     "aef_41",
+     0.333
+    ]
+   ]
+  },
+  "copper_minerals": {
+   "label": "Malachite, azurite & chrysocolla",
+   "method": "mix",
+   "presences": 848,
+   "map": "copper_minerals_mix",
+   "capture_top5": 0.31,
+   "held_out_top5": {
+    "WA": 0.272,
+    "ID": 0.314,
+    "MT": 0.338,
+    "OR": 0.317
+   },
+   "held_out_n": {
+    "WA": 206,
+    "ID": 303,
+    "MT": 213,
+    "OR": 126
+   },
+   "held_out_auc": {
+    "WA": 0.764,
+    "ID": 0.74,
+    "MT": 0.834,
+    "OR": 0.737
+   },
+   "esm": false,
+   "drivers": [
+    [
+     "eff_logd_site",
+     -1.602
+    ],
+    [
+     "dem",
+     0.285
+    ],
+    [
+     "cover_log",
+     -0.242
+    ],
+    [
+     "w_rhy",
+     0.236
+    ],
+    [
+     "lith_water",
+     -0.232
+    ],
+    [
+     "chem_li",
+     -0.22
+    ]
+   ]
+  },
+  "uv_minerals": {
+   "label": "Fluorescent minerals (UV night hunting)",
+   "method": "mix",
+   "presences": 710,
+   "map": "uv_minerals_mix",
+   "capture_top5": 0.21,
+   "held_out_top5": {
+    "WA": 0.159,
+    "ID": 0.123,
+    "MT": 0.29,
+    "OR": 0.27
+   },
+   "held_out_n": {
+    "WA": 157,
+    "ID": 236,
+    "MT": 279,
+    "OR": 37
+   },
+   "held_out_auc": {
+    "WA": 0.667,
+    "ID": 0.624,
+    "MT": 0.697,
+    "OR": 0.706
+   },
+   "esm": false,
+   "drivers": [
+    [
+     "eff_logd_site",
+     -2.323
+    ],
+    [
+     "lith_clastic_sedimentary",
+     0.556
+    ],
+    [
+     "logd_dike",
+     -0.49
+    ],
+    [
+     "logd_fault",
+     0.411
+    ],
+    [
+     "lith_surficial_other",
+     -0.37
+    ],
+    [
+     "w_ash",
+     -0.354
+    ]
+   ]
+  },
+  "placer_gold": {
+   "label": "Placer gold (panning)",
+   "method": "mix",
+   "presences": 1778,
+   "map": "placer_gold_mix",
+   "capture_top5": 0.21,
+   "held_out_top5": {
+    "WA": 0.156,
+    "ID": 0.324,
+    "MT": 0.274,
+    "OR": 0.076
+   },
+   "held_out_n": {
+    "WA": 77,
+    "ID": 1051,
+    "MT": 310,
+    "OR": 340
+   },
+   "held_out_auc": {
+    "WA": 0.787,
+    "ID": 0.754,
+    "MT": 0.761,
+    "OR": 0.646
+   },
+   "esm": false,
+   "drivers": [
+    [
+     "eff_logd_site",
+     -2.227
+    ],
+    [
+     "gp_grav_up30",
+     -0.72
+    ],
+    [
+     "aef_27",
+     0.577
+    ],
+    [
+     "aef_13",
+     0.456
+    ],
+    [
+     "dem",
+     -0.408
+    ],
+    [
+     "aef_18",
+     -0.408
+    ]
+   ]
+  },
+  "lode_gold": {
+   "label": "Lode gold (gold in quartz veins)",
+   "method": "mix",
+   "presences": 8457,
+   "map": "lode_gold_mix",
+   "capture_top5": 0.13,
+   "held_out_top5": {
+    "WA": 0.139,
+    "ID": 0.144,
+    "MT": 0.113,
+    "OR": 0.125
+   },
+   "held_out_n": {
+    "WA": 1279,
+    "ID": 2910,
+    "MT": 2227,
+    "OR": 2037
+   },
+   "held_out_auc": {
+    "WA": 0.681,
+    "ID": 0.606,
+    "MT": 0.726,
+    "OR": 0.601
+   },
+   "esm": false,
+   "drivers": [
+    [
+     "eff_logd_site",
+     -2.143
+    ],
+    [
+     "aef_43",
+     -0.187
+    ],
+    [
+     "aef_38",
+     -0.185
+    ],
+    [
+     "aef_34",
+     -0.182
+    ],
+    [
+     "cover_log",
+     0.179
+    ],
+    [
+     "recipe",
+     0.172
+    ]
+   ]
+  },
+  "lead_zinc_silver": {
+   "label": "Galena, sphalerite & silver ores",
+   "method": "mix",
+   "presences": 2388,
+   "map": "lead_zinc_silver_mix",
+   "capture_top5": 0.22,
+   "held_out_top5": {
+    "WA": 0.166,
+    "ID": 0.177,
+    "MT": 0.195,
+    "OR": 0.351
+   },
+   "held_out_n": {
+    "WA": 602,
+    "ID": 930,
+    "MT": 625,
+    "OR": 231
+   },
+   "held_out_auc": {
+    "WA": 0.793,
+    "ID": 0.678,
+    "MT": 0.803,
+    "OR": 0.791
+   },
+   "esm": false,
+   "drivers": [
+    [
+     "eff_logd_site",
+     -1.591
+    ],
+    [
+     "recipe",
+     0.36
+    ],
+    [
+     "aef_26",
+     -0.31
+    ],
+    [
+     "aef_35",
+     -0.252
+    ],
+    [
+     "eff_logd_town",
+     -0.24
+    ],
+    [
+     "gp_k",
+     0.231
+    ]
+   ]
+  },
+  "calcite_barite": {
+   "label": "Calcite & barite crystals",
+   "method": "mix",
+   "presences": 1105,
+   "map": "calcite_barite_mix",
+   "capture_top5": 0.12,
+   "held_out_top5": {
+    "WA": 0.064,
+    "ID": 0.149,
+    "MT": 0.133,
+    "OR": 0.142
+   },
+   "held_out_n": {
+    "WA": 327,
+    "ID": 296,
+    "MT": 256,
+    "OR": 225
+   },
+   "held_out_auc": {
+    "WA": 0.572,
+    "ID": 0.632,
+    "MT": 0.538,
+    "OR": 0.62
+   },
+   "esm": false,
+   "drivers": [
+    [
+     "eff_logd_site",
+     -1.741
+    ],
+    [
+     "recipe",
+     0.254
+    ],
+    [
+     "aef_45",
+     0.252
+    ],
+    [
+     "aef_47",
+     0.23
+    ],
+    [
+     "eff_logd_road",
+     -0.204
+    ],
+    [
+     "aef_18",
+     0.191
+    ]
+   ]
+  },
+  "iron_minerals": {
+   "label": "Magnetite & specular hematite",
+   "method": "mix",
+   "presences": 550,
+   "map": "iron_minerals_mix",
+   "capture_top5": 0.18,
+   "held_out_top5": {
+    "WA": 0.2,
+    "ID": 0.066,
+    "MT": 0.12,
+    "OR": 0.338
+   },
+   "held_out_n": {
+    "WA": 160,
+    "ID": 211,
+    "MT": 108,
+    "OR": 71
+   },
+   "held_out_auc": {
+    "WA": 0.694,
+    "ID": 0.594,
+    "MT": 0.605,
+    "OR": 0.718
+   },
+   "esm": false,
+   "drivers": [
+    [
+     "eff_logd_site",
+     -1.649
+    ],
+    [
+     "w_pegm",
+     -0.312
+    ],
+    [
+     "lith_clastic_sedimentary",
+     -0.266
+    ],
+    [
+     "recipe",
+     0.213
+    ],
+    [
+     "bed_intrusive_felsic",
+     0.203
+    ],
+    [
+     "lith_volcanic_undivided",
+     0.192
+    ]
+   ]
+  },
+  "molybdenite": {
+   "label": "Molybdenite",
+   "method": "mix",
+   "presences": 361,
+   "map": "molybdenite_mix",
+   "capture_top5": 0.32,
+   "held_out_top5": {
+    "WA": 0.163,
+    "ID": 0.125,
+    "MT": 0.593,
+    "OR": 0.396
+   },
+   "held_out_n": {
+    "WA": 147,
+    "ID": 80,
+    "MT": 81,
+    "OR": 53
+   },
+   "held_out_auc": {
+    "WA": 0.744,
+    "ID": 0.703,
+    "MT": 0.847,
+    "OR": 0.832
+   },
+   "esm": false,
+   "drivers": [
+    [
+     "eff_logd_site",
+     -2.072
+    ],
+    [
+     "chem_th",
+     0.679
+    ],
+    [
+     "gp_eu",
+     -0.628
+    ],
+    [
+     "aef_04",
+     -0.578
+    ],
+    [
+     "recipe",
+     0.548
+    ],
+    [
+     "aef_57",
+     -0.475
+    ]
+   ]
+  },
+  "epidote": {
+   "label": "Epidote",
+   "method": "mix",
+   "presences": 324,
+   "map": "epidote_mix",
+   "capture_top5": 0.26,
+   "held_out_top5": {
+    "WA": 0.217,
+    "ID": 0.058,
+    "MT": 0.492,
+    "OR": 0.259
+   },
+   "held_out_n": {
+    "WA": 106,
+    "ID": 103,
+    "MT": 61,
+    "OR": 54
+   },
+   "held_out_auc": {
+    "WA": 0.7,
+    "ID": 0.625,
+    "MT": 0.813,
+    "OR": 0.76
+   },
+   "esm": false,
+   "drivers": [
+    [
+     "eff_logd_site",
+     -1.484
+    ],
+    [
+     "recipe",
+     0.408
+    ],
+    [
+     "logd_dike",
+     -0.366
+    ],
+    [
+     "cover_log",
+     0.333
+    ],
+    [
+     "chem_fe",
+     0.307
+    ],
+    [
+     "w_pillow",
+     0.296
+    ]
+   ]
+  },
+  "staurolite_kyanite": {
+   "label": "Staurolite & kyanite (fairy crosses)",
+   "method": "mix",
+   "presences": 124,
+   "map": "staurolite_kyanite_mix",
+   "capture_top5": 0.19,
+   "held_out_top5": {
+    "WA": 0.125,
+    "ID": 0.2,
+    "MT": 0.255
+   },
+   "held_out_n": {
+    "WA": 32,
+    "ID": 45,
+    "MT": 47
+   },
+   "held_out_auc": {
+    "WA": 0.743,
+    "ID": 0.611,
+    "MT": 0.818
+   },
+   "esm": false,
+   "drivers": [
+    [
+     "eff_logd_site",
+     -1.291
+    ],
+    [
+     "aef_07",
+     -0.523
+    ],
+    [
+     "aef_05",
+     -0.492
+    ],
+    [
+     "aef_59",
+     0.482
+    ],
+    [
+     "gp_k",
+     -0.419
+    ],
+    [
+     "aef_63",
+     0.403
+    ]
+   ]
+  },
+  "serpentine_jade": {
+   "label": "Serpentine & jade",
+   "method": "mix",
+   "presences": 465,
+   "map": "serpentine_jade_mix",
+   "capture_top5": 0.5,
+   "held_out_top5": {
+    "WA": 0.413,
+    "ID": 0.833,
+    "MT": 0.153,
+    "OR": 0.599
+   },
+   "held_out_n": {
+    "WA": 138,
+    "ID": 6,
+    "MT": 111,
+    "OR": 207
+   },
+   "held_out_auc": {
+    "WA": 0.753,
+    "ID": 0.935,
+    "MT": 0.688,
+    "OR": 0.833
+   },
+   "esm": false,
+   "drivers": [
+    [
+     "eff_logd_site",
+     -1.928
+    ],
+    [
+     "gp_grav",
+     0.673
+    ],
+    [
+     "dem",
+     0.658
+    ],
+    [
+     "recipe",
+     0.545
+    ],
+    [
+     "emit_hematite",
+     -0.48
+    ],
+    [
+     "bed_metamorphic_high",
+     0.436
+    ]
+   ]
+  },
+  "fluorite": {
+   "label": "Fluorite",
+   "method": "mix",
+   "presences": 373,
+   "map": "fluorite_mix",
+   "capture_top5": 0.28,
+   "held_out_top5": {
+    "WA": 0.275,
+    "ID": 0.151,
+    "MT": 0.031,
+    "OR": 0.667
+   },
+   "held_out_n": {
+    "WA": 40,
+    "ID": 139,
+    "MT": 191,
+    "OR": 3
+   },
+   "held_out_auc": {
+    "WA": 0.714,
+    "ID": 0.739,
+    "MT": 0.611,
+    "OR": 0.928
+   },
+   "esm": false,
+   "drivers": [
+    [
+     "eff_logd_site",
+     -2.355
+    ],
+    [
+     "logd_fault",
+     0.826
+    ],
+    [
+     "lith_clastic_sedimentary",
+     0.721
+    ],
+    [
+     "aef_43",
+     0.682
+    ],
+    [
+     "aef_45",
+     0.58
+    ],
+    [
+     "logd_dike",
+     -0.578
+    ]
+   ]
+  },
+  "zeolites": {
+   "label": "Zeolites (crystals in basalt pockets)",
+   "method": "mix",
+   "presences": 353,
+   "map": "zeolites_mix",
+   "capture_top5": 0.21,
+   "held_out_top5": {
+    "WA": 0.19,
+    "ID": 0.273,
+    "MT": 0.152,
+    "OR": 0.209
+   },
+   "held_out_n": {
+    "WA": 100,
+    "ID": 33,
+    "MT": 33,
+    "OR": 187
+   },
+   "held_out_auc": {
+    "WA": 0.733,
+    "ID": 0.814,
+    "MT": 0.713,
+    "OR": 0.692
+   },
+   "esm": false,
+   "drivers": [
+    [
+     "eff_logd_site",
+     -1.747
+    ],
+    [
+     "w_ultra",
+     -0.499
+    ],
+    [
+     "aef_47",
+     0.422
+    ],
+    [
+     "aef_43",
+     0.42
+    ],
+    [
+     "aef_45",
+     0.36
+    ],
+    [
+     "aef_24",
+     -0.351
+    ]
+   ]
+  }
+ },
+ "lith": {
+  "0": {
+   "label": "Unmapped",
+   "color": "#cccccc"
+  },
+  "1": {
+   "label": "Water",
+   "color": "#7fb3d5"
+  },
+  "2": {
+   "label": "Basalt lava flows",
+   "color": "#6e6a7c"
+  },
+  "3": {
+   "label": "Andesite / dacite volcanics",
+   "color": "#9b7a98"
+  },
+  "4": {
+   "label": "Rhyolite, tuff & ash",
+   "color": "#d98aa1"
+  },
+  "5": {
+   "label": "Volcanic rocks (type not mapped)",
+   "color": "#b593ad"
+  },
+  "6": {
+   "label": "Granite & related intrusions",
+   "color": "#e8a7a0"
+  },
+  "7": {
+   "label": "Gabbro, diorite & ultramafic",
+   "color": "#5f8d6b"
+  },
+  "8": {
+   "label": "Schist, gneiss & marble",
+   "color": "#a58fbd"
+  },
+  "9": {
+   "label": "Quartzite, argillite & slate",
+   "color": "#b9a27a"
+  },
+  "10": {
+   "label": "Sandstone, shale & lake beds",
+   "color": "#d8c38f"
+  },
+  "11": {
+   "label": "Limestone & dolomite",
+   "color": "#8fb8c9"
+  },
+  "12": {
+   "label": "River & stream gravels",
+   "color": "#e0cf86"
+  },
+  "13": {
+   "label": "Ice Age flood gravels",
+   "color": "#c4a77d"
+  },
+  "14": {
+   "label": "Ice Age flood silts",
+   "color": "#d9cfb0"
+  },
+  "15": {
+   "label": "Glacial till & outwash",
+   "color": "#c7d3d9"
+  },
+  "16": {
+   "label": "Wind-blown silt (loess) & dunes",
+   "color": "#e9dfc4"
+  },
+  "17": {
+   "label": "Landslide & other loose cover",
+   "color": "#cfc6b8"
+  }
+ },
+ "age": {
+  "0": "Unknown",
+  "1": "Ice Age to present (<2.6 Ma)",
+  "2": "Miocene-Pliocene (2.6-23 Ma)",
+  "3": "Eocene-Oligocene (23-66 Ma)",
+  "4": "Dinosaur era (66-252 Ma)",
+  "5": "Paleozoic (252-539 Ma)",
+  "6": "Precambrian (>539 Ma)",
+  "7": "Older than 66 Ma"
+ },
+ "legal": {
+  "1": {
+   "key": "ok",
+   "color": "#2e9d4f",
+   "text": "Public land open to hobby hand-collecting for personal use. Follow the manager's limits (BLM: 25 lb + 1 piece/day petrified wood, 250 lb/yr; Forest Service limits vary by forest). No vertebrate fossils or artifacts.",
+   "grade": 1
+  },
+  "2": {
+   "key": "check",
+   "color": "#e3b505",
+   "text": "Public land where collecting rules are unclear or need a permit or licence (state trust lands in ID/MT/OR, wildlife areas, reclamation lands, Alberta). Check with the manager before collecting.",
+   "grade": 3
+  },
+  "3": {
+   "key": "claim",
+   "color": "#e07a1f",
+   "text": "Active or filed mining claim. The claimant holds the mineral rights; get permission before collecting minerals.",
+   "grade": 4
+  },
+  "4": {
+   "key": "no",
+   "color": "#c0392b",
+   "text": "Collecting prohibited: national/state/local parks, national recreation areas (e.g. Lake Roosevelt), wildlife refuges, DOE land, private conservation preserves, BC parks and ecological reserves.",
+   "grade": 5
+  },
+  "5": {
+   "key": "tribal",
+   "color": "#8e44ad",
+   "text": "Tribal reservation or trust land. Collecting needs permission from the tribe (and the owner, for private land inside it).",
+   "grade": 4
+  },
+  "6": {
+   "key": "private",
+   "color": "#7f8c8d",
+   "text": "Private or municipal land. Collecting needs the owner's permission.",
+   "grade": 4
+  },
+  "7": {
+   "key": "hazard",
+   "color": "#111111",
+   "text": "Contamination hazard zone (approximate). Do not collect: heavy-metal or asbestos-contaminated ground.",
+   "grade": 5
+  },
+  "8": {
+   "key": "river_open",
+   "color": "#2e9d4f",
+   "text": "Bed of a large (likely navigable) Idaho river: the state owns the bed below the ordinary high-water mark, and unleased beds are open to casual collecting and recreational mining, first come (IDL, IDAPA 20.03.05). Stay below the high-water line; the bank above it belongs to the landowner.",
+   "grade": 1
+  },
+  "9": {
+   "key": "river_grey",
+   "color": "#9ccc3d",
+   "text": "Bed of a large (likely navigable) Washington river: state-owned aquatic land managed by DNR, not the bank owner. No rule clearly allows or bans hobby collecting here; DNR suggests asking its Mining & Minerals program. Stay below the high-water line; parks and private banks still apply.",
+   "grade": 2
+  },
+  "10": {
+   "key": "state_license",
+   "color": "#9ccc3d",
+   "text": "Montana state trust land (DNRC): open to recreation with legal access and a State Lands recreational use licence; rockhounding is not specifically addressed. Low-key hand collecting is a grey zone: ask DNRC.",
+   "grade": 2
+  },
+  "11": {
+   "key": "state_permit",
+   "color": "#e3b505",
+   "text": "State land where taking rocks likely needs authorization: Idaho endowment land (valuable rocks or minerals need IDL authorization), Oregon state land (DSL permit system for semiprecious stones, petrified wood, fossils), Montana navigable riverbeds (state law requires a lease or licence to use the bed). Ask the agency first.",
+   "grade": 3
+  },
+  "12": {
+   "key": "agency_permit",
+   "color": "#e07a1f",
+   "text": "Agency land where removing rocks is prohibited without a permit: state fish & wildlife areas (Washington: WAC 232-12-251) and Bureau of Reclamation land (43 CFR 423.29). Permits are rarely for hobbyists.",
+   "grade": 4
+  }
+ },
+ "grades": {
+  "1": {
+   "label": "Go",
+   "color": "#2e9d4f",
+   "text": "A clear rule allows hobby hand-collecting for personal use."
+  },
+  "2": {
+   "label": "Likely OK",
+   "color": "#9ccc3d",
+   "text": "Grey zone leaning yes: no rule against it, but no clear permission either."
+  },
+  "3": {
+   "label": "Ask first",
+   "color": "#e3b505",
+   "text": "A permit or the agency's OK is probably needed, or the rules are unknown."
+  },
+  "4": {
+   "label": "Permission",
+   "color": "#e07a1f",
+   "text": "Only with the owner's, claimant's, tribe's or agency's permission."
+  },
+  "5": {
+   "label": "No",
+   "color": "#c0392b",
+   "text": "Collecting is prohibited, or the ground is a hazard."
+  }
+ },
+ "grade_sources": [
+  "https://dnr.wa.gov/node/457",
+  "https://www.idl.idaho.gov/mining-minerals/rockhounding/",
+  "https://dnrc.mt.gov/TrustLand/public-use/RecreationalUseRules",
+  "https://www.blm.gov/sites/default/files/docs/2024-07/orwa-rock-collect-guide.pdf",
+  "https://www.oregon.gov/dogami/learnmore/pages/fossilsmineralsgems.aspx"
+ ],
+ "find_files": {
+  "agate_jasper": "finds_agate_jasper.geojson",
+  "geode_thunderegg": "finds_geode_thunderegg.geojson",
+  "quartz_crystal": "finds_quartz_crystal.geojson",
+  "petrified_wood": "finds_petrified_wood.geojson",
+  "fossils": "finds_fossils.geojson",
+  "opal": "finds_opal.geojson",
+  "garnet": "finds_garnet.geojson",
+  "pegmatite_gems": "finds_pegmatite_gems.geojson",
+  "copper_minerals": "finds_copper_minerals.geojson",
+  "uv_minerals": "finds_uv_minerals.geojson",
+  "placer_gold": "finds_placer_gold.geojson",
+  "lode_gold": "finds_lode_gold.geojson",
+  "lead_zinc_silver": "finds_lead_zinc_silver.geojson",
+  "calcite_barite": "finds_calcite_barite.geojson",
+  "iron_minerals": "finds_iron_minerals.geojson",
+  "molybdenite": "finds_molybdenite.geojson",
+  "epidote": "finds_epidote.geojson",
+  "staurolite_kyanite": "finds_staurolite_kyanite.geojson",
+  "serpentine_jade": "finds_serpentine_jade.geojson",
+  "fluorite": "finds_fluorite.geojson",
+  "zeolites": "finds_zeolites.geojson"
+ },
+ "counts": {
+  "agate_jasper": 302,
+  "geode_thunderegg": 56,
+  "quartz_crystal": 216,
+  "petrified_wood": 94,
+  "fossils": 1687,
+  "opal": 200,
+  "garnet": 694,
+  "pegmatite_gems": 1998,
+  "copper_minerals": 1263,
+  "uv_minerals": 1168,
+  "placer_gold": 3030,
+  "lode_gold": 24835,
+  "lead_zinc_silver": 4634,
+  "calcite_barite": 1407,
+  "iron_minerals": 761,
+  "molybdenite": 563,
+  "epidote": 428,
+  "staurolite_kyanite": 184,
+  "serpentine_jade": 722,
+  "fluorite": 632,
+  "zeolites": 466
+ },
+ "targets": {
+  "agate_jasper": {
+   "look": "Gravel bars on the big rivers and gravel pits dug in that gravel; the rubble under basalt cliffs and road cuts where the flow tops are full of gas pockets.",
+   "kinds": {
+    "gravel_bar": 1.0,
+    "gravel_pit": 1.0,
+    "road_cut": 0.8,
+    "cliff": 0.7,
+    "scree": 0.7,
+    "creek_bed": 0.6,
+    "iron_stain": 0.5,
+    "quarry": 0.5,
+    "crag": 0.4,
+    "outcrop": 0.4
+   }
+  },
+  "geode_thunderegg": {
+   "look": "Weathered rhyolite and ash beds: crags and road cuts in the pale volcanic rock, the slopes below them, and dry washes draining them.",
+   "kinds": {
+    "road_cut": 1.0,
+    "crag": 0.9,
+    "outcrop": 0.9,
+    "scree": 0.8,
+    "creek_bed": 0.6,
+    "cliff": 0.6,
+    "quarry": 0.6,
+    "gravel_bar": 0.3
+   }
+  },
+  "quartz_crystal": {
+   "look": "Veins and pockets in granite and schist: outcrops, crags and road cuts, the scree below them, and old prospect dumps.",
+   "kinds": {
+    "crag": 1.0,
+    "outcrop": 1.0,
+    "road_cut": 0.9,
+    "scree": 0.9,
+    "workings": 0.8,
+    "dump_bare": 0.8,
+    "dump_overgrown": 0.6,
+    "cliff": 0.6,
+    "iron_stain": 0.5,
+    "creek_bed": 0.3
+   }
+  },
+  "petrified_wood": {
+   "look": "Cut banks and road cuts through the sediment layers between lava flows (Ellensburg, Latah, Vantage beds), and the gravel pits and bars of the Columbia and Yakima.",
+   "kinds": {
+    "road_cut": 1.0,
+    "gravel_pit": 0.9,
+    "gravel_bar": 0.9,
+    "cliff": 0.7,
+    "outcrop": 0.6,
+    "creek_bed": 0.6,
+    "crag": 0.5,
+    "scree": 0.5,
+    "iron_stain": 0.3
+   }
+  },
+  "fossils": {
+   "look": "Fresh faces through sedimentary rock: road cuts, cliffs and cut banks in shale and limestone, and the broken slabs below them.",
+   "kinds": {
+    "road_cut": 1.0,
+    "cliff": 0.9,
+    "outcrop": 0.9,
+    "quarry": 0.8,
+    "crag": 0.7,
+    "scree": 0.7,
+    "creek_bed": 0.4
+   }
+  },
+  "opal": {
+   "look": "Road cuts and crags where basalt meets ash or old lake beds, and the rubble below those contacts.",
+   "kinds": {
+    "road_cut": 1.0,
+    "crag": 0.9,
+    "outcrop": 0.9,
+    "cliff": 0.8,
+    "scree": 0.7,
+    "quarry": 0.6,
+    "creek_bed": 0.4
+   }
+  },
+  "garnet": {
+   "look": "Gravel and sand in the creeks draining schist: bar heads and the inside of bends, plus the schist outcrops and road cuts themselves.",
+   "kinds": {
+    "creek_bed": 1.0,
+    "gravel_bar": 1.0,
+    "road_cut": 0.7,
+    "crag": 0.6,
+    "outcrop": 0.6,
+    "scree": 0.6
+   }
+  },
+  "pegmatite_gems": {
+   "look": "Coarse pink-and-white pegmatite showing in crags, road cuts and old prospect pits; big books of mica mark the right rock.",
+   "kinds": {
+    "crag": 1.0,
+    "outcrop": 1.0,
+    "road_cut": 0.9,
+    "workings": 0.9,
+    "dump_bare": 0.8,
+    "scree": 0.7,
+    "dump_overgrown": 0.6,
+    "quarry": 0.5
+   }
+  },
+  "copper_minerals": {
+   "look": "Old mine dumps and prospect pits, and rusty or green-stained rock in road cuts and crags near them.",
+   "kinds": {
+    "dump_bare": 1.0,
+    "workings": 0.9,
+    "dump_overgrown": 0.8,
+    "iron_stain": 0.8,
+    "road_cut": 0.6,
+    "crag": 0.5,
+    "outcrop": 0.5
+   }
+  },
+  "uv_minerals": {
+   "look": "Mine dumps (take the UV lamp at dusk) and limestone or marble outcrops and quarries.",
+   "kinds": {
+    "dump_bare": 1.0,
+    "dump_overgrown": 0.8,
+    "workings": 0.8,
+    "quarry": 0.8,
+    "road_cut": 0.6,
+    "crag": 0.5,
+    "outcrop": 0.5
+   }
+  },
+  "placer_gold": {
+   "look": "The upstream head and inside bends of gravel bars, bedrock cracks in dry creek beds, and old placer workings.",
+   "kinds": {
+    "gravel_bar": 1.0,
+    "creek_bed": 1.0,
+    "workings": 0.7,
+    "dump_overgrown": 0.4
+   }
+  },
+  "lode_gold": {
+   "look": "Old mine dumps and workings, and rusty quartz-veined rock in crags and road cuts.",
+   "kinds": {
+    "dump_bare": 1.0,
+    "workings": 0.9,
+    "dump_overgrown": 0.8,
+    "iron_stain": 0.8,
+    "crag": 0.6,
+    "road_cut": 0.6,
+    "outcrop": 0.6
+   }
+  },
+  "lead_zinc_silver": {
+   "look": "Old mine dumps and workings: heavy grey rock in the spoil.",
+   "kinds": {
+    "dump_bare": 1.0,
+    "workings": 0.9,
+    "dump_overgrown": 0.8,
+    "iron_stain": 0.6,
+    "road_cut": 0.4,
+    "crag": 0.4
+   }
+  },
+  "calcite_barite": {
+   "look": "Limestone quarries and road cuts, old mine dumps, and veins in crags.",
+   "kinds": {
+    "quarry": 1.0,
+    "road_cut": 0.9,
+    "dump_bare": 0.8,
+    "workings": 0.7,
+    "crag": 0.7,
+    "outcrop": 0.7,
+    "cliff": 0.5
+   }
+  },
+  "iron_minerals": {
+   "look": "Rusty ground around old iron prospects and dumps, and dark heavy rock in road cuts.",
+   "kinds": {
+    "iron_stain": 1.0,
+    "dump_bare": 0.9,
+    "workings": 0.8,
+    "road_cut": 0.6,
+    "crag": 0.5,
+    "outcrop": 0.5
+   }
+  },
+  "molybdenite": {
+   "look": "Old mine and prospect dumps in granite country, and quartz veins in crags and road cuts.",
+   "kinds": {
+    "dump_bare": 1.0,
+    "workings": 0.9,
+    "dump_overgrown": 0.7,
+    "crag": 0.6,
+    "road_cut": 0.6,
+    "outcrop": 0.6
+   }
+  },
+  "epidote": {
+   "look": "Pistachio-green seams in altered volcanic and granite rock: crags, road cuts and the scree below.",
+   "kinds": {
+    "crag": 1.0,
+    "outcrop": 1.0,
+    "road_cut": 0.9,
+    "scree": 0.8,
+    "quarry": 0.6,
+    "creek_bed": 0.4
+   }
+  },
+  "staurolite_kyanite": {
+   "look": "Weathered schist: road cuts, crags and the gravelly slopes and creek beds below them, where the crosses weather out whole.",
+   "kinds": {
+    "road_cut": 1.0,
+    "crag": 0.9,
+    "outcrop": 0.9,
+    "scree": 0.9,
+    "creek_bed": 0.8,
+    "gravel_bar": 0.6
+   }
+  },
+  "serpentine_jade": {
+   "look": "Creek beds and gravel bars draining serpentinite, and the dark greasy outcrops and road cuts of the serpentinite itself.",
+   "kinds": {
+    "creek_bed": 1.0,
+    "gravel_bar": 0.9,
+    "crag": 0.8,
+    "outcrop": 0.8,
+    "road_cut": 0.8,
+    "scree": 0.6,
+    "quarry": 0.5
+   }
+  },
+  "fluorite": {
+   "look": "Old mine dumps and workings, and veins in limestone or granite crags and road cuts.",
+   "kinds": {
+    "dump_bare": 1.0,
+    "workings": 0.9,
+    "dump_overgrown": 0.7,
+    "road_cut": 0.6,
+    "crag": 0.6,
+    "quarry": 0.6
+   }
+  },
+  "zeolites": {
+   "look": "Fresh basalt faces: road cuts, quarries and cliffs where the gas-pocket zone at a flow top is exposed, and the rubble below.",
+   "kinds": {
+    "road_cut": 1.0,
+    "quarry": 1.0,
+    "cliff": 0.9,
+    "crag": 0.8,
+    "scree": 0.8,
+    "outcrop": 0.7
+   }
+  }
+ },
+ "area": "Washington, Idaho, Montana and Oregon",
+ "built": "2026-10-31"
+}

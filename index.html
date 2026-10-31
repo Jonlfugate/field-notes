@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="theme-color" content="#1a2023" />
+    <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+    <link rel="apple-touch-icon" href="icon-192.png" />
+    <title>Rockhound Atlas</title>
+    <script type="module" crossorigin src="./assets/index-BfA1yxkn.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-lxt59zPM.css">
+  <link rel="manifest" href="./manifest.webmanifest"></head>
+  <body>
+    <div class="app">
+      <nav class="cats" id="cats" aria-label="What to look for"></nav>
+      <div id="map" role="application" aria-label="Map"></div>
+      <button id="nav" class="nav" hidden aria-live="polite" aria-label="Distance to the selected spot. Tap to show you both on the map.">
+        <svg class="nav-arrow" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2 20 21 12 16.5 4 21Z" /></svg>
+        <span class="nav-text"><b id="nav-dist"></b><small id="nav-sub"></small></span>
+      </button>
+      <aside id="sheet" class="sheet" data-size="peek">
+        <button class="grip" id="grip" aria-label="Expand or collapse the panel"><span></span></button>
+        <div class="tabs" role="tablist" aria-label="Panel">
+          <button role="tab" data-tab="spot">Spot</button>
+          <button role="tab" data-tab="favs">Favorites</button>
+          <button role="tab" data-tab="layers">Layers</button>
+          <button role="tab" data-tab="bets">Best bets</button>
+          <button role="tab" data-tab="gems">Gems</button>
+          <button role="tab" data-tab="visits">Visits</button>
+          <button role="tab" data-tab="offline">Offline</button>
+          <button role="tab" data-tab="guide">Guide</button>
+        </div>
+        <div class="panes">
+          <section class="pane" data-pane="spot"><div id="favbox"></div><div id="info"></div></section>
+          <section class="pane" data-pane="favs" hidden><div id="favs"></div></section>
+          <section class="pane" data-pane="layers" hidden><div id="layers"></div></section>
+          <section class="pane" data-pane="bets" hidden><div id="bets"></div></section>
+          <section class="pane" data-pane="gems" hidden><div id="gems"></div></section>
+          <section class="pane" data-pane="visits" hidden><div id="visits"></div></section>
+          <section class="pane" data-pane="offline" hidden><div id="offline"></div></section>
+          <section class="pane read" data-pane="guide" hidden><div id="guide"></div></section>
+        </div>
+      </aside>
+    </div>
+  </body>
+</html>

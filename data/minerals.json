@@ -1,0 +1,403 @@
+{
+ "_about": "Field cards for minerals on mine dumps, used by the app's mine spot guide. Keys are lower-case mineral names as they appear in USGS MRDS ore/gangue lists. look = how to spot it, test = quick field check, care = handling caution, uv = fluorescence. Hazard facts: US Forest Service, Wyoming DEQ, Colorado Geological Survey, Arizona State Mine Inspector, EPA (sources below). Mineral properties: standard mineralogy (Mindat). Fluorescence: uvminerals.org and CAMEO.",
+ "general": {
+  "look_for": [
+   "Work the waste piles, not the workings. The dump is what the miners threw away, which is often exactly the crystals and colourful minerals collectors want.",
+   "Break open pieces of white quartz and look in cavities (vugs) for crystals and metallic flecks.",
+   "Green and blue stains (copper), rusty boxwork (weathered sulphides) and heavy-for-their-size rocks are all worth a closer look.",
+   "Look along the edges and toe of the pile and in fresh slumps after rain: weathering washes the surface clean."
+  ],
+  "aware": [
+   "Never enter a tunnel (adit) or go near a shaft: old workings collapse, flood and fill with bad air, and shaft openings can be hidden under rotten boards or brush.",
+   "Don't dig into or climb steep dump faces: waste rock slides. Stay off fine tailings and settling ponds, which can be soft and deep.",
+   "Old mine waste can hold lead, arsenic, mercury and other metals: wear gloves, don't eat on the pile, wash hands and finds, and keep kids and dogs off fine tailings.",
+   "Leave old explosives, blasting caps, cables and machinery alone: they become unstable with age.",
+   "Old mines often sit on patented (private) or active claims: check land status and get permission."
+  ],
+  "bring": "Gloves, safety glasses, rock hammer, hand lens, a magnet, a white streak plate (unglazed tile), a shortwave UV light for night hunting, bags and a marker."
+ },
+ "minerals": {
+  "quartz": {
+   "look": "Glassy, white to clear (purple = amethyst, smoky = brown); six-sided crystals in cavities.",
+   "test": "Scratches glass; breaks with curved (conchoidal) surfaces, no flat cleavage."
+  },
+  "pyrite": {
+   "look": "Pale brassy-yellow metallic cubes or striated grains: 'fool's gold'.",
+   "test": "Hard (a knife barely scratches it), brittle, greenish-black streak; real gold is soft and bends.",
+   "care": "Breaks down in damp air into sulphuric acid ('pyrite rot'): store specimens dry."
+  },
+  "marcasite": {
+   "look": "Paler than pyrite, in spear or cockscomb shapes, tarnishes quickly.",
+   "test": "Greenish-black streak like pyrite.",
+   "care": "Decays faster than pyrite into acid and white powder; keep dry and away from other specimens."
+  },
+  "chalcopyrite": {
+   "look": "Deeper brassy-yellow than pyrite, often with a blue-purple iridescent tarnish. The main copper ore.",
+   "test": "Softer than pyrite (a knife scratches it), greenish-black streak."
+  },
+  "bornite": {
+   "look": "'Peacock ore': bronze on a fresh break, quickly tarnishing purple, blue and red.",
+   "test": "Soft, grey-black streak; the tarnish rubs off to bronze."
+  },
+  "chalcocite": {
+   "look": "Dark lead-grey, sooty-looking copper ore, often with green copper stains nearby.",
+   "test": "Soft and sectile: a knife shaves it."
+  },
+  "covellite": {
+   "look": "Deep indigo-blue metallic plates, often iridescent purple.",
+   "test": "Very soft, thin flakes bend; turns purple when wet."
+  },
+  "malachite": {
+   "look": "Bright green crusts, often banded in light and dark green. Copper carbonate.",
+   "test": "Fizzes in a drop of acid (vinegar slowly); pale green streak.",
+   "care": "Copper mineral: wash hands, don't sand or grind it dry."
+  },
+  "azurite": {
+   "look": "Deep blue crusts or small crystals, often with malachite.",
+   "test": "Fizzes in acid; light blue streak."
+  },
+  "chrysocolla": {
+   "look": "Sky-blue to blue-green, soft and earthy, often coating rock or mixed with quartz.",
+   "test": "Soft (a knife scratches it) and porous; hard, glassy blue pieces mixed with quartz are 'gem silica'."
+  },
+  "cuprite": {
+   "look": "Dark red, glassy to earthy, often with native copper or green malachite around it.",
+   "test": "Brownish-red streak."
+  },
+  "copper": {
+   "look": "Copper-coloured metal, often in wires or flattened sheets with a green or black coating.",
+   "test": "Bends without breaking; very heavy."
+  },
+  "tetrahedrite": {
+   "look": "Steel-grey metallic, sometimes in small triangular-pyramid crystals; often carries silver.",
+   "test": "Brittle, no cleavage, dark streak.",
+   "care": "Can contain antimony and arsenic: wash hands."
+  },
+  "galena": {
+   "look": "Lead-grey, shiny, breaks into perfect little cubes. Very heavy.",
+   "test": "Heft it (surprisingly heavy), cubic cleavage, grey streak, soft.",
+   "care": "Lead ore: don't lick or grind it, wash hands, keep from kids and pets."
+  },
+  "cerussite": {
+   "look": "White to grey, very bright (diamond-like) lustre, sometimes in six-rayed twinned crystals.",
+   "test": "Unusually heavy for a white mineral; fizzes slowly in acid.",
+   "care": "Lead carbonate: same care as galena."
+  },
+  "sphalerite": {
+   "look": "Resinous yellow, brown, red or black ('rosin jack', 'black jack'). The main zinc ore.",
+   "test": "Pale yellow-brown streak even from black pieces; many shiny cleavage faces.",
+   "uv": "Some sphalerite glows orange or blue under UV."
+  },
+  "smithsonite": {
+   "look": "Bubbly (botryoidal) crusts in pale blue, green, pink or brown. Zinc carbonate.",
+   "test": "Heavy for a crust; fizzes in warm acid."
+  },
+  "calcite": {
+   "look": "White to clear, breaks into slanted rhombs.",
+   "test": "Scratched by a knife, fizzes in a drop of acid.",
+   "uv": "Fluoresces in many colours (red, orange, blue, white) depending on the mine: worth a UV check."
+  },
+  "siderite": {
+   "look": "Tan to brown rhombic carbonate, weathering rusty.",
+   "test": "Heavier than calcite; fizzes only in warm acid."
+  },
+  "ankerite": {
+   "look": "Cream to buff carbonate that weathers rusty brown, common in gold-quartz veins.",
+   "test": "Weak fizz in acid, browns on exposure."
+  },
+  "dolomite": {
+   "look": "White to pink rhombs, often with curved 'saddle' faces.",
+   "test": "Fizzes only when powdered or in warm acid."
+  },
+  "barite": {
+   "look": "White to tan, bladed or tabular crystals.",
+   "test": "Feels far too heavy for a light-coloured mineral; soft (a knife scratches it).",
+   "uv": "Sometimes glows cream or yellow."
+  },
+  "fluorite": {
+   "look": "Purple, green or yellow cubes; breaks into octahedra.",
+   "test": "Scratched by a knife but scratches calcite.",
+   "uv": "Usually glows blue-violet under longwave UV."
+  },
+  "scheelite": {
+   "look": "White to tan, heavy, greasy-looking grains or crystals in quartz or skarn. Tungsten ore.",
+   "test": "Very heavy for its colour.",
+   "uv": "Glows bright blue-white under SHORTWAVE UV: hunt the dump at night with a shortwave lamp."
+  },
+  "wolframite": {
+   "look": "Black to dark brown, bladed, very heavy. Tungsten ore.",
+   "test": "Heavy, one perfect cleavage, dark brown streak."
+  },
+  "molybdenite": {
+   "look": "Soft lead-grey hexagonal flakes with a greasy feel, often in quartz.",
+   "test": "Marks paper like pencil lead but bluish; thin flakes bend."
+  },
+  "stibnite": {
+   "look": "Lead-grey, long striated needle or blade crystals.",
+   "test": "Very soft, bends slightly.",
+   "care": "Antimony mineral: wash hands, don't heat."
+  },
+  "arsenopyrite": {
+   "look": "Silver-white metallic, often in wedge-shaped crystals; tarnishes yellowish.",
+   "test": "Gives a garlic smell when struck with a hammer.",
+   "care": "ARSENIC: don't hammer it near your face, avoid the dust, wash hands and keep it away from food."
+  },
+  "pyrrhotite": {
+   "look": "Bronze-coloured metallic masses, tarnishing brown.",
+   "test": "Weakly magnetic: try your magnet.",
+   "care": "Decays into acid in damp storage."
+  },
+  "magnetite": {
+   "look": "Black metallic grains or eight-sided crystals.",
+   "test": "Strongly magnetic; black streak."
+  },
+  "hematite": {
+   "look": "Red-brown earthy masses or shiny steel-grey ('specular') flakes.",
+   "test": "Red-brown streak, whatever its colour."
+  },
+  "specularite": {
+   "look": "Glittering steel-grey flakes of hematite.",
+   "test": "Red-brown streak."
+  },
+  "limonite": {
+   "look": "Rusty yellow-brown earthy coatings and boxwork: the weathered cap over sulphide veins ('gossan').",
+   "test": "Yellow-brown streak.",
+   "care": "A sign of weathered sulphides below: the metals came from somewhere."
+  },
+  "gold": {
+   "look": "Buttery yellow that stays bright in shade and from any angle, never tarnishes.",
+   "test": "Soft and malleable (dents with a pin), very heavy; pyrite and chalcopyrite are brittle and darker."
+  },
+  "silver": {
+   "look": "Silver-white wires or flakes that tarnish black.",
+   "test": "Malleable, very heavy."
+  },
+  "argentite": {
+   "look": "Dark lead-grey, soft silver ore (acanthite).",
+   "test": "Cuts like lead with a knife."
+  },
+  "stephanite": {
+   "look": "Black metallic silver-antimony ore, short prisms.",
+   "test": "Soft, black streak.",
+   "care": "Contains antimony: wash hands."
+  },
+  "pyrargyrite": {
+   "look": "Dark red 'ruby silver' with a bright lustre.",
+   "test": "Purple-red streak.",
+   "care": "Darkens in light: store specimens in the dark."
+  },
+  "garnet": {
+   "look": "Rounded 12- or 24-faced crystals: red-brown in schist, green-brown in skarn.",
+   "test": "Scratches glass; no cleavage."
+  },
+  "epidote": {
+   "look": "Pistachio-green prisms and crusts, common in altered rock and skarn.",
+   "test": "Hard, striated crystals."
+  },
+  "tourmaline": {
+   "look": "Black striated prisms with a rounded-triangle cross-section (schorl).",
+   "test": "Hard, no cleavage, no flat ends."
+  },
+  "cinnabar": {
+   "look": "Bright red to scarlet, earthy or crystalline. Mercury ore.",
+   "test": "Very heavy, scarlet streak.",
+   "care": "MERCURY: never heat it, wash hands, keep away from food."
+  },
+  "serpentine": {
+   "look": "Greasy green, smooth or scaly rock.",
+   "test": "Soft, slippery feel.",
+   "care": "Fibrous serpentine (chrysotile) is ASBESTOS: don't break or carry fibrous pieces, avoid the dust."
+  },
+  "chalcedony": {
+   "look": "Waxy, translucent white, grey or blue quartz without visible crystals; banded = agate.",
+   "test": "Scratches glass; waxy lustre and curved fracture."
+  },
+  "adularia": {
+   "look": "Clear to milky, glassy feldspar crystals with a rhomb-like shape, typical of epithermal gold veins.",
+   "test": "Hard (about 6), two cleavages at right angles; can show a soft blue sheen (moonstone)."
+  },
+  "electrum": {
+   "look": "Pale yellow to whitish gold-silver alloy in specks and flakes.",
+   "test": "Soft and malleable like gold, but paler."
+  },
+  "sylvanite": {
+   "look": "Silver-grey metallic blades or skeletal crystals: a gold-silver telluride ore.",
+   "test": "Very soft, one perfect cleavage, grey streak."
+  },
+  "gypsum": {
+   "look": "Clear to white, soft crystals or fibrous seams; clear crystals are selenite.",
+   "test": "A fingernail scratches it; thin pieces bend."
+  },
+  "selenite": {
+   "look": "Clear, glassy gypsum crystals or plates.",
+   "test": "A fingernail scratches it."
+  },
+  "graphite": {
+   "look": "Black-grey, greasy flakes in schist or marble.",
+   "test": "Marks paper black like a pencil; feels greasy."
+  },
+  "wulfenite": {
+   "look": "Thin square orange, yellow or red plates. Lead molybdate.",
+   "test": "Heavy, bright lustre.",
+   "care": "Contains lead: wash hands."
+  },
+  "pyromorphite": {
+   "look": "Bright green to yellow-brown six-sided barrels. Lead phosphate.",
+   "test": "Heavy for its size.",
+   "care": "Contains lead: wash hands."
+  },
+  "rhodochrosite": {
+   "look": "Rose-pink to red carbonate, banded or in rhombs.",
+   "test": "Fizzes in warm acid; soft."
+  },
+  "hemimorphite": {
+   "look": "White to pale blue fans of thin blades or bubbly crusts. Zinc silicate.",
+   "test": "Hard for a crust (about 5).",
+   "uv": "Sometimes glows faintly."
+  },
+  "amethyst": {
+   "look": "Purple quartz crystals, often in vugs.",
+   "test": "Scratches glass; colour can fade in strong sun."
+  },
+  "beryl": {
+   "look": "Six-sided prisms: pale green, blue (aquamarine) or yellow, in pegmatite.",
+   "test": "Very hard (scratches quartz), flat ends on crystals."
+  },
+  "realgar": {
+   "look": "Bright orange-red, soft, resinous.",
+   "test": "Orange streak.",
+   "care": "ARSENIC sulphide and it crumbles in light: don't handle much, wash hands, store in the dark."
+  },
+  "orpiment": {
+   "look": "Lemon to golden yellow, soft, pearly flakes.",
+   "test": "Yellow streak.",
+   "care": "ARSENIC sulphide: don't handle much, wash hands."
+  },
+  "autunite": {
+   "look": "Bright yellow-green square plates.",
+   "test": "Glows bright green under UV.",
+   "uv": "Strong yellow-green glow.",
+   "care": "URANIUM mineral, radioactive: leave it, don't carry it."
+  },
+  "willemite": {
+   "look": "White, green or brown grains or prisms, usually in zinc ore.",
+   "test": "Hard (about 5.5).",
+   "uv": "Often glows bright green under shortwave UV."
+  },
+  "muscovite": {
+   "look": "Silvery, glittering flakes that peel into thin sheets (mica).",
+   "test": "Splits into flexible, see-through sheets."
+  },
+  "biotite": {
+   "look": "Black or dark brown mica flakes.",
+   "test": "Peels into thin flexible sheets."
+  },
+  "tremolite": {
+   "look": "White to grey-green long blades or silky fibres, often radiating sprays in marble or altered rock.",
+   "test": "Hard (scratches glass), two cleavages at about 56 and 124 degrees. Fibrous forms look like silky hair.",
+   "care": "Fibrous tremolite is asbestos. Don't break, scrape or bag fibrous pieces; leave them and move on."
+  },
+  "actinolite": {
+   "look": "Dark to bright green long prisms or needles, sometimes radiating; common in greenschist and skarn.",
+   "test": "Hard, green, two cleavages at 56/124 degrees. Nephrite jade is a tough, felted form of it.",
+   "care": "Fibrous actinolite is asbestos: leave fibrous material alone and don't break it."
+  },
+  "chrysotile": {
+   "look": "Silky, flexible green-gold to white fibres in veins through serpentine rock.",
+   "test": "Fibres pull apart like silk thread; sits in veins cutting across green serpentine.",
+   "care": "This is the common form of asbestos. Look, photograph, don't touch, break or collect."
+  },
+  "uraninite": {
+   "look": "Black, heavy, pitchy lumps or tiny cubes, often with yellow or green crusts of secondary uranium minerals.",
+   "test": "Very heavy for its size, black streak. Yellow-green crusts nearby (autunite) glow green under UV.",
+   "care": "Radioactive. Don't keep specimens indoors or in a pocket, don't grind it, wash your hands. Check rules: some old uranium sites are closed."
+  },
+  "sericite": {
+   "look": "Fine, silky, pale mica that makes altered rock feel soapy and look bleached and shiny.",
+   "test": "Too fine to see flakes; the rock is soft, pale and silky. Marks hydrothermal alteration around ore."
+  },
+  "chlorite": {
+   "look": "Dark green, soft flaky mineral; makes rock green and soapy, often coating other crystals.",
+   "test": "Soft (fingernail scratches it), green flakes bend but don't spring back like mica."
+  },
+  "anglesite": {
+   "look": "Colourless, white or grey glassy crystals or crusts around weathered galena.",
+   "test": "Very heavy for a clear mineral, sits on or around galena; often yellow-fluorescent under UV.",
+   "care": "Lead mineral: wash hands, don't lick or grind."
+  },
+  "talc": {
+   "look": "White, pale green or grey, very soft and greasy-feeling masses.",
+   "test": "Softest mineral: your fingernail scratches it easily and it feels like soap."
+  },
+  "boulangerite": {
+   "look": "Lead-grey, fine hair-like or feathery needles, sometimes felted masses.",
+   "test": "Metallic grey needles, heavy, grey-black streak. Hard to tell from jamesonite by eye.",
+   "care": "Lead-antimony mineral: wash hands, don't grind."
+  },
+  "jamesonite": {
+   "look": "Dark lead-grey needles or feathery tufts ('feather ore').",
+   "test": "Metallic, brittle needles, grey-black streak, heavy.",
+   "care": "Lead-antimony mineral: wash hands, don't grind."
+  },
+  "bournonite": {
+   "look": "Steel-grey metallic stubby crystals, sometimes twinned like cogwheels.",
+   "test": "Metallic grey, heavy, brittle; the cogwheel twins give it away.",
+   "care": "Lead-copper-antimony mineral: wash hands."
+  },
+  "chromite": {
+   "look": "Black, heavy, granular grains or pods in serpentine and dark rock.",
+   "test": "Brown streak (magnetite's is black), weakly magnetic at most, heavy."
+  },
+  "ilmenite": {
+   "look": "Black, heavy, slightly metallic grains or plates; common in black sand.",
+   "test": "Black to brown-red streak, weakly magnetic; tells black-sand concentrate from magnetite."
+  },
+  "diopside": {
+   "look": "Pale to bright green stubby glassy prisms in marble and skarn.",
+   "test": "Hard, near-square cross-section, two cleavages near 90 degrees."
+  },
+  "feldspar": {
+   "look": "White, pink, cream or grey blocky crystals with flat shiny cleavage faces.",
+   "test": "Hard (scratches glass), two cleavages at about 90 degrees, flat faces flash in the sun."
+  },
+  "zircon": {
+   "look": "Small brown, red or clear four-sided crystals with pointed ends; tiny grains in black sand.",
+   "test": "Very hard, bright lustre, square cross-section; many glow yellow under shortwave UV."
+  },
+  "apatite": {
+   "look": "Green, blue, yellow or brown six-sided glassy prisms.",
+   "test": "Knife scratches it (hardness 5), six-sided; some glow under UV."
+  },
+  "rutile": {
+   "look": "Red-brown to black shiny needles or striated prisms, sometimes golden needles inside quartz.",
+   "test": "Very bright lustre, pale brown streak, striated lengthwise."
+  },
+  "magnesite": {
+   "look": "White, porcelain-like or grainy masses, often in serpentine.",
+   "test": "Like white chalky china; fizzes only in warm acid (calcite fizzes in cold)."
+  },
+  "hübnerite": {
+   "look": "Red-brown to black bladed crystals, often in quartz veins.",
+   "test": "Heavy, red-brown streak, one perfect cleavage. Tungsten ore, a form of wolframite."
+  },
+  "proustite": {
+   "look": "Ruby-red translucent crystals ('ruby silver'), darkening in light.",
+   "test": "Scarlet streak, very heavy for its size, soft. Keep in the dark.",
+   "care": "Arsenic-silver mineral: wash hands, store away from light."
+  },
+  "powellite": {
+   "look": "Yellowish, cream or grey crusts and tiny crystals on molybdenite.",
+   "test": "Glows bright yellow under shortwave UV, which is the easy way to find it."
+  }
+ },
+ "sources": [
+  "https://www.fs.usda.gov/visit/know-before-you-go/mines",
+  "https://deq.wyoming.gov/aml/stay-out-and-stay-alive/",
+  "https://coloradogeologicalsurvey.org/hazards/aml/",
+  "https://asmi.az.gov/sites/default/files/documents/files/rockhound%20pam.pdf",
+  "https://semspub.epa.gov/work/09/100021493.pdf",
+  "https://uvminerals.org/fmdb/specimen/314/",
+  "https://cameo.mfa.org/wiki/Fluorescent_minerals",
+  "https://www.mindat.org/"
+ ]
+}

@@ -1,0 +1,1317 @@
+{
+ "_about": "Field guide cards shown with each hotspot layer. Written from the sources listed per card (researched 2026-10-23). Not legal advice: the land manager has the final word.",
+ "general": {
+  "title": "Before any trip",
+  "points": [
+   "Check the legal colour of the exact spot on the map, then confirm with the land manager. Green is not a guarantee: closures, claims and local rules change.",
+   "Hand tools only on public land. Personal use only; selling or trading needs a permit or contract (BLM, Forest Service).",
+   "Never collect vertebrate fossils (bones, teeth, fish) or artifacts (arrowheads, old bottles) on public land.",
+   "Mining claims: the claimant holds the minerals. Ask before collecting on a claim (orange on the map).",
+   "Tell someone your plan; many of these spots are past cell coverage."
+  ],
+  "sources": [
+   "https://blm.gov/Learn/Can-I-Keep-This",
+   "https://www.fs.usda.gov/r03/prescott/recreation/rocks-minerals"
+  ]
+ },
+ "agate_jasper": {
+  "title": "Agate, jasper & chalcedony",
+  "what": "All are chalcedony (microcrystalline quartz). Agate is translucent and often banded; jasper is opaque because of impurities. Both break with smooth, shell-like (conchoidal) fractures and are hard enough that a knife won't scratch them.",
+  "identify": [
+   "Backlight test: hold a stone up to the sun or a flashlight. Light glowing through it, even foggily, means agate; fully opaque means jasper or another rock.",
+   "Wet the stones (spray bottle) to bring out colour and banding.",
+   "Colour alone doesn't identify them; Ellensburg blue in particular has many pale look-alikes. A true blue stays blue in sunlight, while many pale stones look pinkish when held up to the sun."
+  ],
+  "where": [
+   "They form in gas pockets and cracks in volcanic rock, especially basalt flows, then weather out and wash downhill and downstream.",
+   "Look on gravel bars, especially fresh ones after spring runoff, in creeks draining basalt or volcanic country, and on eroding slopes below agate-bearing flows.",
+   "Ellensburg blue: Teanaway Basalt country north of Ellensburg (Reecer Creek, Green Canyon, Thorp toward Cle Elum). Mostly private land; Rock N Tomahawk Ranch charges a small fee.",
+   "Red Top Mountain (Wenatchee National Forest, off Hwy 97 at Blewett Pass) has agate and geode beds on public land."
+  ],
+  "how": [
+   "Walk slowly with the sun behind you so translucent stones light up; low morning or evening sun is best.",
+   "Focus on the upstream heads of gravel bars and the lines where coarse gravel collects.",
+   "Late summer and fall low water exposes the most gravel."
+  ],
+  "gear": [
+   "spray bottle",
+   "small rock hammer",
+   "collecting bag",
+   "flashlight for backlighting"
+  ],
+  "sources": [
+   "https://www.fossilera.com/pages/agate-jasper-chalcedony",
+   "https://howtofindrocks.com/jasper-vs-agate/",
+   "https://www.yakimaherald.com/elusive-ellensburg-blue-agates-still-being-found-in-the-hills/article_f0ae8c97-2639-5cfd-8420-d252662c8d3b.html",
+   "https://www.wta.org/go-hiking/hikes/red-top-lookout"
+  ],
+  "photos": [
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Faceted_agate%2C_marquise_cut%2C_British_Columbia%2C_Canada.jpg/500px-Faceted_agate%2C_marquise_cut%2C_British_Columbia%2C_Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Faceted_agate,_marquise_cut,_British_Columbia,_Canada.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Adam Kelliher / Rubble Rock and Gem",
+    "title": "Faceted agate, marquise cut, British Columbia, Canada",
+    "regional": true
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/%22Polka_Dot_Agate%22_%28Polka_Dot_Agate_Mine%2C_northeast_of_Madras%2C_Oregon%2C_USA%29_4.jpg/500px-%22Polka_Dot_Agate%22_%28Polka_Dot_Agate_Mine%2C_northeast_of_Madras%2C_Oregon%2C_USA%29_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:%22Polka_Dot_Agate%22_(Polka_Dot_Agate_Mine,_northeast_of_Madras,_Oregon,_USA)_4.jpg",
+    "license": "CC BY 4.0",
+    "artist": "James St. John",
+    "title": "\"Polka Dot Agate\" (Polka Dot Agate Mine, northeast of Madras, Oregon, USA) 4",
+    "regional": true
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Agate_pebbles%2C_Fraser_River%2C_British_Columbia%2C_Canada.jpg/500px-Agate_pebbles%2C_Fraser_River%2C_British_Columbia%2C_Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Agate_pebbles,_Fraser_River,_British_Columbia,_Canada.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Adam Kelliher / Rubble Rock and Gem",
+    "title": "Agate pebbles, Fraser River, British Columbia, Canada",
+    "regional": true
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Arrowstone_agate_rough%2C_Cache_Creek%2C_British_Columbia%2C_Canada.jpg/500px-Arrowstone_agate_rough%2C_Cache_Creek%2C_British_Columbia%2C_Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Arrowstone_agate_rough,_Cache_Creek,_British_Columbia,_Canada.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Adam Kelliher / Rubble Rock and Gem",
+    "title": "Arrowstone agate rough, Cache Creek, British Columbia, Canada",
+    "regional": true
+   }
+  ]
+ },
+ "geode_thunderegg": {
+  "title": "Geodes & thundereggs",
+  "what": "Thundereggs are solid nodules with a lumpy rhyolite shell and an agate, jasper or opal core; they form in rhyolitic ash and flows. Geodes are hollow and often crystal-lined; in this region they come from gas pockets in volcanic rock (e.g. Red Top's quartz and calcite geodes).",
+  "identify": [
+   "Thundereggs are round to knobby and feel heavy and solid for their size; hollow geodes feel lighter.",
+   "Weathered eggs can look like ordinary round rocks: the round shape itself is the clue.",
+   "Look-alikes include concretions and iron nodules."
+  ],
+  "where": [
+   "Rhyolite, tuff and volcanic-ash beds (felsic volcanic on this map), and the gullies and streambeds below them where the soft ash has eroded away.",
+   "Basalt and andesite flows with gas pockets for geodes."
+  ],
+  "how": [
+   "Scan eroding ash slopes and the washes below them for round lumps.",
+   "When digging one out of the ash, mark which way was up; it helps decide where to cut later."
+  ],
+  "gear": [
+   "rock hammer",
+   "small pick or trowel",
+   "marker",
+   "gloves"
+  ],
+  "model_note": "Few reported finds in this region, so this layer is a rule-based geology score (rhyolite/tuff and vesicular volcanic rock), not a trained prediction.",
+  "sources": [
+   "https://rockchasing.com/where-and-how-to-find-thunder-eggs/",
+   "https://rockhounding.org/rocks/thunderegg",
+   "https://www.mindat.org/loc-19047.html"
+  ],
+  "photos": [
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Geode_Reference_-39.jpg/500px-Geode_Reference_-39.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Geode_Reference_-39.jpg",
+    "license": "CC BY 2.0",
+    "artist": "claralieu",
+    "title": "Geode Reference -39",
+    "regional": false
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Millerite_in_geode_%28Harrodsburg%2C_Indiana%2C_USA%29_2_%2818675849770%29.jpg/500px-Millerite_in_geode_%28Harrodsburg%2C_Indiana%2C_USA%29_2_%2818675849770%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Millerite_in_geode_(Harrodsburg,_Indiana,_USA)_2_(18675849770).jpg",
+    "license": "CC BY 2.0",
+    "artist": "James St. John",
+    "title": "Millerite in geode (Harrodsburg, Indiana, USA) 2 (18675849770)",
+    "regional": false
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Cracked_Opened_Geode.jpg/500px-Cracked_Opened_Geode.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Cracked_Opened_Geode.jpg",
+    "license": "CC BY 2.0",
+    "artist": "Alan Levine from Strawberry, United States",
+    "title": "Cracked Opened Geode",
+    "regional": false
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Geode_Reference_-49v.jpg/500px-Geode_Reference_-49v.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Geode_Reference_-49v.jpg",
+    "license": "CC BY 2.0",
+    "artist": "claralieu",
+    "title": "Geode Reference -49v",
+    "regional": false
+   }
+  ]
+ },
+ "quartz_crystal": {
+  "title": "Quartz crystals & amethyst",
+  "what": "Six-sided quartz points, clear (rock crystal), smoky or purple (amethyst). They grow in open spaces: pegmatite pockets in granite, hydrothermal veins and volcanic cavities.",
+  "identify": [
+   "A steel knife won't scratch quartz.",
+   "Real amethyst is usually deepest purple at the crystal tips and fades toward the base; glass and dyed fakes have flat, even colour."
+  ],
+  "where": [
+   "Granite and pegmatite country, especially where the granite has rotted to coarse sand (grus).",
+   "Quartz veins along faults; old mine dumps of quartz-vein mines.",
+   "Creek beds below crystal-bearing rock collect weathered-out crystals."
+  ],
+  "how": [
+   "At a vein, dig around its base for crystals that have weathered out before trying to extract any.",
+   "Follow pegmatite zones in decomposed granite; pockets are hit-or-miss and take patience.",
+   "Screen creek gravel and soil below productive outcrops."
+  ],
+  "gear": [
+   "shovel",
+   "sifting screen",
+   "long flathead screwdriver and needle-nose pliers for pockets",
+   "eye protection",
+   "gloves"
+  ],
+  "model_note": "Few reported finds in this region, so this layer is a rule-based geology score (granite/pegmatite, faults, metamorphic rock), not a trained prediction.",
+  "sources": [
+   "https://rockhounding.org/rockhounding-articles/where-to-find-quartz-crystals-in-the-us",
+   "https://rockhoundresource.com/how-to-find-quartz-crystals-and-where-to-look/",
+   "https://rockhounding.org/rockhounding-articles/where-to-find-amethyst-in-the-us"
+  ],
+  "photos": [
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Ankerite%2C_Quartz_-_Goldmyer_Hot_Springs%2C_King_Co%2C_Washington%2C_USA.jpg/500px-Ankerite%2C_Quartz_-_Goldmyer_Hot_Springs%2C_King_Co%2C_Washington%2C_USA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Ankerite,_Quartz_-_Goldmyer_Hot_Springs,_King_Co,_Washington,_USA.jpg",
+    "license": "CC BY 3.0",
+    "artist": "John Sobolewski (JSS)",
+    "title": "Ankerite, Quartz - Goldmyer Hot Springs, King Co, Washington, USA",
+    "regional": true
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Ankerite%2C_Quartz_-_Damon_and_Pythias_Mine%2C_King_Co%2C_Washington%2C_USA.jpg/500px-Ankerite%2C_Quartz_-_Damon_and_Pythias_Mine%2C_King_Co%2C_Washington%2C_USA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Ankerite,_Quartz_-_Damon_and_Pythias_Mine,_King_Co,_Washington,_USA.jpg",
+    "license": "CC BY 3.0",
+    "artist": "John Sobolewski (JSS)",
+    "title": "Ankerite, Quartz - Damon and Pythias Mine, King Co, Washington, USA",
+    "regional": true
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Thunder_egg_quartz_%28Laton_Point%2C_south_of_Buchanan%2C_Oregon%2C_USA%29_%2832785493225%29.jpg/500px-Thunder_egg_quartz_%28Laton_Point%2C_south_of_Buchanan%2C_Oregon%2C_USA%29_%2832785493225%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Thunder_egg_quartz_(Laton_Point,_south_of_Buchanan,_Oregon,_USA)_(32785493225).jpg",
+    "license": "CC BY 2.0",
+    "artist": "James St. John",
+    "title": "Thunder egg quartz (Laton Point, south of Buchanan, Oregon, USA) (32785493225)",
+    "regional": true
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Quartz-sulfide_hydrothermal_vein_in_quartz_monzonite_%28Butte_Quartz_Monzonite%2C_Late_Cretaceous%3B_Continental_Pit%2C_Butte%2C_Montana%2C_USA%29_%2830588174684%29.jpg/500px-Quartz-sulfide_hydrothermal_vein_in_quartz_monzonite_%28Butte_Quartz_Monzonite%2C_Late_Cretaceous%3B_Continental_Pit%2C_Butte%2C_Montana%2C_USA%29_%2830588174684%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Quartz-sulfide_hydrothermal_vein_in_quartz_monzonite_(Butte_Quartz_Monzonite,_Late_Cretaceous;_Continental_Pit,_Butte,_Montana,_USA)_(30588174684).jpg",
+    "license": "CC BY 2.0",
+    "artist": "James St. John",
+    "title": "Quartz-sulfide hydrothermal vein in quartz monzonite (Butte Quartz Monzonite, Late Cretace",
+    "regional": true
+   }
+  ]
+ },
+ "petrified_wood": {
+  "title": "Petrified & opalized wood",
+  "what": "Wood replaced by silica (quartz, chalcedony or opal). In central Washington, basalt lava flows buried forests about 15 million years ago, which is why the region has so much.",
+  "identify": [
+   "Look for wood grain, growth rings, knots or a log-like shape in something rock-hard and heavy.",
+   "A knife blade won't scratch it.",
+   "Opalized wood often looks waxy or glassy and is somewhat softer than quartzy wood."
+  ],
+  "where": [
+   "Sedimentary layers between basalt flows (e.g. the Ellensburg and Latah formations) and the slopes and washes below them.",
+   "Saddle Mountains east of Mattawa (BLM, west end recommended; reportedly no collecting in sections 7, 11 and 13; private land mixed in on the east end).",
+   "NOT inside Ginkgo Petrified Forest State Park at Vantage: no collecting."
+  ],
+  "how": [
+   "Walk washes and hillsides scanning for the wood-grain texture; fragments on the surface point uphill to the source layer.",
+   "BLM limit: 25 lb plus one piece per day, 250 lb per year, personal use only."
+  ],
+  "gear": [
+   "rock hammer",
+   "bag",
+   "lots of water (open, hot country)"
+  ],
+  "sources": [
+   "https://www.law.cornell.edu/cfr/text/43/3622.4",
+   "https://www.blm.gov/visit/saddle-mountains",
+   "https://archive.seattletimes.com/archive/20040729/nwwginkgo29/ginkgo-petrified-forest-tread-with-wonder-in-ancient-path-of-lava"
+  ],
+  "photos": [
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/PetrifiedWoodGPFSP.jpg/500px-PetrifiedWoodGPFSP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:PetrifiedWoodGPFSP.jpg",
+    "license": "Public domain",
+    "artist": "No machine-readable author provided. Justinleif~commonswiki assumed (based on co",
+    "title": "PetrifiedWoodGPFSP",
+    "regional": false
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Volkonskoite-replaced_fossil_wood%2C_Mt._Efimiatsk%2C_Chastinsky_District%2C_Russia.jpg/500px-Volkonskoite-replaced_fossil_wood%2C_Mt._Efimiatsk%2C_Chastinsky_District%2C_Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Volkonskoite-replaced_fossil_wood,_Mt._Efimiatsk,_Chastinsky_District,_Russia.jpg",
+    "license": "CC BY 2.0",
+    "artist": "James St. John",
+    "title": "Volkonskoite-replaced fossil wood, Mt. Efimiatsk, Chastinsky District, Russia",
+    "regional": false
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Petrified_Sequoia_sempervirens-_Calistoga_Petrified_Forest.jpg/500px-Petrified_Sequoia_sempervirens-_Calistoga_Petrified_Forest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Petrified_Sequoia_sempervirens-_Calistoga_Petrified_Forest.jpg",
+    "license": "CC BY 2.0",
+    "artist": "James St. John",
+    "title": "Petrified Sequoia sempervirens- Calistoga Petrified Forest",
+    "regional": false
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Petrified_wood_%288585984608%29.jpg/500px-Petrified_wood_%288585984608%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Petrified_wood_(8585984608).jpg",
+    "license": "CC BY 2.0",
+    "artist": "Thad Zajdowicz from Altadena, California, USA",
+    "title": "Petrified wood (8585984608)",
+    "regional": false
+   }
+  ]
+ },
+ "fossils": {
+  "title": "Fossils (plants & invertebrates)",
+  "what": "Leaf, insect, shell and other invertebrate fossils in sedimentary rock. The region's stars are the Eocene lake beds at Republic (Stonerose) and the Miocene Clarkia/Latah lake beds, where leaves can keep their original fall colours.",
+  "identify": [
+   "Leaf impressions show veins and edges on split surfaces of shale or mudstone.",
+   "Shells show regular ribs or symmetric outlines in limestone and sandstone."
+  ],
+  "where": [
+   "Fine-grained sedimentary rock: shale, mudstone, lake beds and limestone, at outcrops, road cuts and old spoil piles.",
+   "Fee sites are the easy start: Stonerose (Republic), Clarkia Fossil Bowl and Huckleberry Garnet Mine (Clarkia area)."
+  ],
+  "how": [
+   "Shale splits along its bedding layers: work along them with a knife or chisel (at Clarkia a dull butter knife works).",
+   "There's no reliable way to tell from outside which slab holds a fossil; split lots of them. Check the loose debris below an outcrop first for signs.",
+   "Older, dried-out piles often split better than fresh wet rock."
+  ],
+  "gear": [
+   "butter knife or chisel",
+   "small hammer",
+   "newspaper or toilet paper and bags for wrapping",
+   "goggles"
+  ],
+  "legal": "Vertebrate fossils (bones, teeth, fish) are off-limits on US public land; common invertebrate and plant fossils are OK in reasonable personal amounts on BLM land. Alberta: fossils may NOT leave the province without a permit. BC: small amounts of common fossils by hand; you're a caretaker, and selling is banned.",
+  "sources": [
+   "https://stonerosefossil.org/visitor-info/location-and-hours/",
+   "https://lmtribune.com/arts-entertainment/dig-fossils-head-to-clarkiaabfa8cb0",
+   "https://blm.gov/Learn/Can-I-Keep-This",
+   "https://tyrrellmuseum.com/node/54",
+   "https://www2.gov.bc.ca/gov/content/industry/natural-resource-use/fossil-management/collection-and-use"
+  ],
+  "photos": [
+   {
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/33/Castanea_spokanensis_as_Castanea_castaneaefolia_USNM_P36939_Plate18_Fig7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Castanea_spokanensis_as_Castanea_castaneaefolia_USNM_P36939_Plate18_Fig7.jpg",
+    "license": "Public domain",
+    "artist": "Knowlton. Frank Hall, 1926",
+    "title": "Castanea spokanensis as Castanea castaneaefolia USNM P36939 Plate18 Fig7",
+    "regional": true
+   },
+   {
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Castanea_spokanensis_as_Castanea_castaneaefolia_USNM_P36940_Plate18_Fig8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Castanea_spokanensis_as_Castanea_castaneaefolia_USNM_P36940_Plate18_Fig8.jpg",
+    "license": "Public domain",
+    "artist": "Knowlton. Frank Hall, 1926",
+    "title": "Castanea spokanensis as Castanea castaneaefolia USNM P36940 Plate18 Fig8",
+    "regional": true
+   },
+   {
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Castanea_spokanensis_as_Castanea_castaneaefolia_USNM_P36941_Plate19_Fig1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Castanea_spokanensis_as_Castanea_castaneaefolia_USNM_P36941_Plate19_Fig1.jpg",
+    "license": "Public domain",
+    "artist": "Knowlton. Frank Hall, 1926",
+    "title": "Castanea spokanensis as Castanea castaneaefolia USNM P36941 Plate19 Fig1",
+    "regional": true
+   },
+   {
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/70/Gordonia_idahoensis_as_Laurus_grandis_USNM_P36975_Plate24_Fig1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Gordonia_idahoensis_as_Laurus_grandis_USNM_P36975_Plate24_Fig1.jpg",
+    "license": "Public domain",
+    "artist": "Knowlton. Frank Hall, 1926",
+    "title": "Gordonia idahoensis as Laurus grandis USNM P36975 Plate24 Fig1",
+    "regional": true
+   }
+  ]
+ },
+ "opal": {
+  "title": "Opal",
+  "what": "Hydrated silica: common opal (no flashes of colour) is far more common than precious or fire opal. In this region it fills cavities in basalt and rhyolite and replaces wood.",
+  "identify": [
+   "Waxy to glassy look, softer than quartz; precious opal shows flashes of colour (play-of-colour)."
+  ],
+  "where": [
+   "Gas cavities and seams in basalt (Mondovi, Lincoln County, is a known precious-opal locality) and rhyolite; opalized wood in central Washington basin sediments.",
+   "Klinker opal claim near Vernon, BC: fee digging in season (verify current status)."
+  ],
+  "how": [
+   "Break open vesicular basalt near known spots and look for seams and fillings; check talus below cavity-rich flows."
+  ],
+  "gear": [
+   "rock hammer",
+   "chisel",
+   "eye protection"
+  ],
+  "model_note": "Few reported finds in this region, so this layer is a rule-based geology score, not a trained prediction.",
+  "sources": [
+   "https://uwaterloo.ca/earth-sciences-museum/resources/detailed-rocks-and-minerals-articles/precious-opal",
+   "https://rockhoundresource.com/washington-state-rockhounding-location-guide-map/"
+  ],
+  "photos": [
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Opal_01_10x_%2825735474408%29.jpg/500px-Opal_01_10x_%2825735474408%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Opal_01_10x_(25735474408).jpg",
+    "license": "PDM-owner",
+    "artist": "Randolph Black from Grass Lake, MI, United States",
+    "title": "Opal 01 10x (25735474408)",
+    "regional": false
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Precious_opal_2_%2829690545192%29.jpg/500px-Precious_opal_2_%2829690545192%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Precious_opal_2_(29690545192).jpg",
+    "license": "CC BY 2.0",
+    "artist": "James St. John",
+    "title": "Precious opal 2 (29690545192)",
+    "regional": false
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Opals_%2838879968294%29.jpg/500px-Opals_%2838879968294%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Opals_(38879968294).jpg",
+    "license": "CC BY 2.0",
+    "artist": "Thomas Quine",
+    "title": "Opals (38879968294)",
+    "regional": false
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Dendritic_opal_%2829816456982%29.jpg/500px-Dendritic_opal_%2829816456982%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Dendritic_opal_(29816456982).jpg",
+    "license": "CC BY 2.0",
+    "artist": "James St. John",
+    "title": "Dendritic opal (29816456982)",
+    "regional": false
+   }
+  ]
+ },
+ "garnet": {
+  "title": "Garnet",
+  "what": "Hard, glassy, usually dark red to purple-red crystals, often ball-shaped with many faces. North Idaho's Emerald Creek almandine garnets can show a four- or six-rayed star.",
+  "identify": [
+   "Dark red, glassy and harder than most rocks; crystals look like little multi-faceted balls.",
+   "Being heavy and hard, they concentrate in stream gravels with other heavy minerals (magnetite, ilmenite, zircon)."
+  ],
+  "where": [
+   "Metamorphic rock: schist, gneiss and amphibolite (metamorphic on this map), especially where it has weathered.",
+   "Creek gravels and dark sands downstream of garnet-bearing schist."
+  ],
+  "how": [
+   "Screen creek gravel and pan the dark sand.",
+   "Emerald Creek Garnet Area (Forest Service, timed tickets) is CLOSED for the rest of 2026 because its dug supply ran out; Huckleberry Garnet Mine nearby is the private alternative ($5 + $40/lb in 2026)."
+  ],
+  "gear": [
+   "sifting screen",
+   "gold pan",
+   "shovel",
+   "tweezers and a vial"
+  ],
+  "sources": [
+   "https://rockhounding.org/rockhounding-articles/where-to-find-garnet-in-the-us",
+   "https://www.spokesman.com/stories/2026/jun/28/emerald-creek-garnet-area-closed-for-season-due-to/",
+   "https://gsa.confex.com/gsa/2005NE/webprogram/Paper82571.html"
+  ],
+  "photos": [
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Almandine_%28GeoDIL_number_-_308%29.jpg/500px-Almandine_%28GeoDIL_number_-_308%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Almandine_(GeoDIL_number_-_308).jpg",
+    "license": "CC0",
+    "artist": "Nessa Eull",
+    "title": "Almandine (GeoDIL number - 308)",
+    "regional": false
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Almandine-160740.jpg/500px-Almandine-160740.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Almandine-160740.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Robert M. Lavinsky",
+    "title": "Almandine-160740",
+    "regional": false
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Almandin.jpg/500px-Almandin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Almandin.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Didier Descouens",
+    "title": "Almandin",
+    "regional": false
+   },
+   {
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Almandine-es4a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Almandine-es4a.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Robert M. Lavinsky",
+    "title": "Almandine-es4a",
+    "regional": false
+   }
+  ]
+ },
+ "pegmatite_gems": {
+  "title": "Pegmatite & metamorphic gems",
+  "what": "Beryl (including aquamarine), tourmaline, topaz, zircon, corundum and sapphire, kyanite and staurolite. Most grow in pegmatites (very coarse granite) or high-grade metamorphic rock.",
+  "identify": [
+   "Beryl: six-sided, often pale green-blue prisms. Tourmaline: striated, often black (schorl) prisms with a triangular cross-section. Kyanite: blue bladed crystals. Staurolite: brown crosses ('fairy crosses')."
+  ],
+  "where": [
+   "Pegmatite dikes and coarse granite (granitic on this map); schist and gneiss for kyanite, staurolite and garnet.",
+   "Mine dumps of old pegmatite prospects in the USGS and BC mineral records."
+  ],
+  "how": [
+   "Look for unusually coarse-grained light-coloured rock (pegmatite) in granite country and check its edges and pockets.",
+   "Check claim status before working any old prospect."
+  ],
+  "gear": [
+   "rock hammer",
+   "chisel",
+   "eye protection",
+   "hand lens"
+  ],
+  "sources": [
+   "https://mrdata.usgs.gov/mrds/",
+   "https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/british-columbia-geological-survey/mineralinventory"
+  ],
+  "photos": [
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Beryl_16.jpg/500px-Beryl_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Beryl_16.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Géry PARENT",
+    "title": "Beryl 16",
+    "regional": false
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Alkali-beryl%2C_muscovite%2C_schorl_1.jpg/500px-Alkali-beryl%2C_muscovite%2C_schorl_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Alkali-beryl,_muscovite,_schorl_1.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Géry PARENT",
+    "title": "Alkali-beryl, muscovite, schorl 1",
+    "regional": false
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Alkali-beryl%2C_elbaite%2C_schorl%2C_quartz.jpg/500px-Alkali-beryl%2C_elbaite%2C_schorl%2C_quartz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Alkali-beryl,_elbaite,_schorl,_quartz.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Géry PARENT",
+    "title": "Alkali-beryl, elbaite, schorl, quartz",
+    "regional": false
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Alkali-beryl.jpg/500px-Alkali-beryl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Alkali-beryl.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Géry PARENT",
+    "title": "Alkali-beryl",
+    "regional": false
+   }
+  ]
+ },
+ "copper_minerals": {
+  "title": "Malachite, azurite & chrysocolla",
+  "what": "Bright green (malachite), deep blue (azurite) and blue-green (chrysocolla) copper minerals that form where copper ore weathers near the surface.",
+  "identify": [
+   "Vivid green or blue crusts, stains and nodules on rock from old copper workings."
+  ],
+  "where": [
+   "Dumps of old copper prospects and mines (from the USGS and BC mineral records), many in the BC and NE Washington mining districts."
+  ],
+  "how": [
+   "Collect from the dump piles, never inside workings: the old miners already broke the rock out for you.",
+   "Check claim status first; many old mines are on active claims or private patented land."
+  ],
+  "safety": [
+   "Never enter shafts, adits or pits: hidden vertical openings, collapsing edges and bad air kill people every year.",
+   "Copper minerals make toxic dust when broken: wear a dust mask, wash your hands, and don't eat on site. Some old sites also have arsenic in the soil.",
+   "Stay back from pit edges and steep dump faces."
+  ],
+  "gear": [
+   "dust mask",
+   "gloves",
+   "rock hammer",
+   "boxes and padding"
+  ],
+  "sources": [
+   "https://rockhounding.org/rockhounding-articles/where-to-find-malachite-in-the-us",
+   "https://www.conservation.ca.gov:443/dmr/abandoned_mine_lands/Documents/Safety%20at%20Old%20Mines.pdf",
+   "https://asmi.az.gov/sites/default/files/documents/files/rockhound%20pam.pdf"
+  ],
+  "photos": [
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Chrysocolla_%28Blue_Jay_Mine%2C_Idaho%2C_USA%29_3.jpg/500px-Chrysocolla_%28Blue_Jay_Mine%2C_Idaho%2C_USA%29_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Chrysocolla_(Blue_Jay_Mine,_Idaho,_USA)_3.jpg",
+    "license": "CC BY 2.0",
+    "artist": "James St. John",
+    "title": "Chrysocolla (Blue Jay Mine, Idaho, USA) 3",
+    "regional": true
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Chrysocolla_on_green_malachite_-_Rice_NW_Museum_in_Oregon.JPG/500px-Chrysocolla_on_green_malachite_-_Rice_NW_Museum_in_Oregon.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Chrysocolla_on_green_malachite_-_Rice_NW_Museum_in_Oregon.JPG",
+    "license": "CC BY 3.0",
+    "artist": "M.O. Stevens",
+    "title": "Chrysocolla on green malachite - Rice NW Museum in Oregon",
+    "regional": true
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Malachite-Gypsum-139283.jpg/500px-Malachite-Gypsum-139283.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Malachite-Gypsum-139283.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Robert M. Lavinsky",
+    "title": "Malachite-Gypsum-139283",
+    "regional": false
+   },
+   {
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Azurite-tuc8-119d.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Azurite-tuc8-119d.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Robert M. Lavinsky",
+    "title": "Azurite-tuc8-119d",
+    "regional": false
+   }
+  ]
+ },
+ "uv_minerals": {
+  "title": "Fluorescent minerals (UV night hunting)",
+  "what": "Some minerals glow under ultraviolet light. Scheelite (a tungsten ore) glows bright bluish-white under shortwave UV; fluorite and hyalite opal glow too. This region has hundreds of old tungsten and fluorite prospects.",
+  "identify": [
+   "Scheelite: bright blue-white glow under shortwave (about 255 nm) LED UV; the colour can look different with an old mercury-tube lamp. Powellite, a common companion, glows yellow instead."
+  ],
+  "where": [
+   "Dumps of old tungsten (scheelite) and fluorite prospects, often in contact zones between granite and limestone (skarn)."
+  ],
+  "how": [
+   "Go after dark (or into deep shade) on a moonless night; scout the dump by daylight first so you know the footing.",
+   "Sweep the lamp low over dump rock and look for the glow."
+  ],
+  "safety": [
+   "Shortwave UV can burn eyes and skin: wear UV-blocking glasses and never look into the lamp.",
+   "Mine-dump hazards apply (see malachite card): no shafts or adits."
+  ],
+  "gear": [
+   "shortwave UV light (LED, ~255 nm)",
+   "UV-blocking glasses",
+   "headlamp with red mode",
+   "gloves"
+  ],
+  "sources": [
+   "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/9000400",
+   "https://www.usgs.gov/media/images/scheelite-under-shortwave-ultraviolet-light",
+   "https://uvminerals.org/fmdb/specimen/1233/"
+  ],
+  "photos": [
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Rainbow_Gallery_-_Rice_NW_Museum.JPG/500px-Rainbow_Gallery_-_Rice_NW_Museum.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Rainbow_Gallery_-_Rice_NW_Museum.JPG",
+    "license": "CC BY 3.0",
+    "artist": "M.O. Stevens",
+    "title": "Rainbow Gallery - Rice NW Museum",
+    "regional": false
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Afghanite_UVL_.jpg/500px-Afghanite_UVL_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Afghanite_UVL_.jpg",
+    "license": "Public domain",
+    "artist": "Parent Géry",
+    "title": "Afghanite UVL ",
+    "regional": false
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Parco_della_Preistoria%2C_minerali_fluorescenti._-_panoramio.jpg/500px-Parco_della_Preistoria%2C_minerali_fluorescenti._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Parco_della_Preistoria,_minerali_fluorescenti._-_panoramio.jpg",
+    "license": "CC BY 3.0",
+    "artist": "cisko66",
+    "title": "Parco della Preistoria, minerali fluorescenti. - panoramio",
+    "regional": false
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Spodumene_UV_shorts.jpg/500px-Spodumene_UV_shorts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Spodumene_UV_shorts.jpg",
+    "license": "Public domain",
+    "artist": "Géry PARENT",
+    "title": "Spodumene UV shorts",
+    "regional": false
+   }
+  ]
+ },
+ "placer_gold": {
+  "title": "Placer gold (panning)",
+  "what": "Gold flakes and occasional small nuggets eroded from veins and concentrated in stream gravels because gold is so heavy.",
+  "identify": [
+   "Real gold stays bright yellow in shade and from every angle and is soft (dents with a pin). Mica and pyrite ('fool's gold') glitter only at certain angles or are brassy and brittle."
+  ],
+  "where": [
+   "Inside bends where water slows, the downstream side of boulders, cracks in bedrock, slow water below rapids, and the upstream heads of gravel bars.",
+   "Streams in historic placer districts (the USGS and BC records drive this layer)."
+  ],
+  "how": [
+   "Dig down toward bedrock; gold sinks. Clean out bedrock cracks with small tools.",
+   "Busy, well-known spots have been worked for over a century, so try less obvious corners."
+  ],
+  "legal": "Washington: follow WDFW's free 'Gold and Fish' pamphlet (it acts as your permit for hand panning; work windows protect fish spawning and vary by stream; no motorized equipment or dredges). Get landowner permission and check for mining claims everywhere.",
+  "gear": [
+   "gold pan",
+   "classifier screen",
+   "small shovel",
+   "snuffer bottle",
+   "crevice tool"
+  ],
+  "sources": [
+   "https://wdfw.wa.gov/publications/02150",
+   "https://wdfw.medium.com/panning-for-gold-in-washington-waters-rules-hot-spots-and-tips-628ded956b7a",
+   "https://alaska.org/advice/where-when-how-to-pan-for-gold"
+  ],
+  "photos": [
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Gold-Fluvial_pebbles_from_Washington_State%2C_USA_%288458831980%29.jpg/500px-Gold-Fluvial_pebbles_from_Washington_State%2C_USA_%288458831980%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Gold-Fluvial_pebbles_from_Washington_State,_USA_(8458831980).jpg",
+    "license": "CC BY 2.0",
+    "artist": "James St. John",
+    "title": "Gold-Fluvial pebbles from Washington State, USA (8458831980)",
+    "regional": true
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Gold_fluvial_pebbles_%28placer_gold%29_%28Washington_State%2C_USA%29_5_%2816848892199%29.jpg/500px-Gold_fluvial_pebbles_%28placer_gold%29_%28Washington_State%2C_USA%29_5_%2816848892199%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Gold_fluvial_pebbles_(placer_gold)_(Washington_State,_USA)_5_(16848892199).jpg",
+    "license": "CC BY 2.0",
+    "artist": "James St. John",
+    "title": "Gold fluvial pebbles (placer gold) (Washington State, USA) 5 (16848892199)",
+    "regional": true
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Gold_nugget_%28placer_gold%29_%28Cooley_Gulch%2C_Highland_Mountains%2C_Montana%2C_USA%29.jpg/500px-Gold_nugget_%28placer_gold%29_%28Cooley_Gulch%2C_Highland_Mountains%2C_Montana%2C_USA%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Gold_nugget_(placer_gold)_(Cooley_Gulch,_Highland_Mountains,_Montana,_USA).jpg",
+    "license": "CC BY 2.0",
+    "artist": "James St. John",
+    "title": "Gold nugget (placer gold) (Cooley Gulch, Highland Mountains, Montana, USA)",
+    "regional": true
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Gold_-_Oregon_Canyon_Nugget_%28replica%29_%28El_Dorado_County%2C_California%2C_USA%29_%2817074867809%29.jpg/500px-Gold_-_Oregon_Canyon_Nugget_%28replica%29_%28El_Dorado_County%2C_California%2C_USA%29_%2817074867809%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Gold_-_Oregon_Canyon_Nugget_(replica)_(El_Dorado_County,_California,_USA)_(17074867809).jpg",
+    "license": "CC BY 2.0",
+    "artist": "James St. John",
+    "title": "Gold - Oregon Canyon Nugget (replica) (El Dorado County, California, USA) (17074867809)",
+    "regional": true
+   }
+  ]
+ },
+ "lode_gold": {
+  "title": "Lode gold (gold in quartz veins)",
+  "what": "Gold still in the rock it formed in: specks and wires in white quartz veins, often with pyrite and rusty iron stains. Visible gold is rare; most of it was what the miners took away.",
+  "identify": [
+   "Gold is soft (about 2.5-3): it dents with a pin and never crumbles. Pyrite is hard (6-6.5) and a knife point crumbles it to greenish-black powder.",
+   "Gold stays bright from every angle and never tarnishes; pyrite and chalcopyrite look darker in shade.",
+   "Rusty, pyrite-rich quartz can carry gold you can't see: only an assay can tell."
+  ],
+  "where": [
+   "Old lode-mine dumps and quartz veins in the mining districts (the mine records drive this layer).",
+   "Rusty quartz float in creeks below known veins."
+  ],
+  "how": [
+   "Break open rusty, cavity-rich (vuggy) quartz and check with a hand lens in sunlight.",
+   "Crush and pan a sample of weathered vein material to see if it sheds gold."
+  ],
+  "gear": [
+   "hand lens",
+   "rock hammer",
+   "safety glasses",
+   "gold pan",
+   "sample bags"
+  ],
+  "safety": [
+   "Never enter mine tunnels or go near shafts; stay off steep dump faces.",
+   "Old mine waste can hold lead and arsenic: gloves, wash hands and finds, no eating on the pile."
+  ],
+  "sources": [
+   "https://unbc.arcabc.ca/_flysystem/repo-service/2025-03/22009-Extracted%20Text.txt",
+   "https://pubs.usgs.gov/circ/0007/report.pdf",
+   "https://www.fs.usda.gov/visit/know-before-you-go/mines",
+   "https://deq.wyoming.gov/aml/stay-out-and-stay-alive/"
+  ],
+  "photos": [
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Alluvial_clast_with_native_gold_%28Silver_Bow_Creek%2C_Butte%2C_Montana%2C_USA%29_%2816902187040%29.jpg/500px-Alluvial_clast_with_native_gold_%28Silver_Bow_Creek%2C_Butte%2C_Montana%2C_USA%29_%2816902187040%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Alluvial_clast_with_native_gold_(Silver_Bow_Creek,_Butte,_Montana,_USA)_(16902187040).jpg",
+    "license": "CC BY 2.0",
+    "artist": "James St. John",
+    "title": "Alluvial clast with native gold (Silver Bow Creek, Butte, Montana, USA) (16902187040)",
+    "regional": true
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Gold_and_quartz_%28Broadway_Mine%2C_Silver_Star%2C_Montana%2C_USA%29.jpg/500px-Gold_and_quartz_%28Broadway_Mine%2C_Silver_Star%2C_Montana%2C_USA%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Gold_and_quartz_(Broadway_Mine,_Silver_Star,_Montana,_USA).jpg",
+    "license": "CC BY 2.0",
+    "artist": "James St. John",
+    "title": "Gold and quartz (Broadway Mine, Silver Star, Montana, USA)",
+    "regional": true
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Gold-quartz-galena-garnet_%28Battle_Branch_Mine%2C_Georgia%2C_USA%29.jpg/500px-Gold-quartz-galena-garnet_%28Battle_Branch_Mine%2C_Georgia%2C_USA%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Gold-quartz-galena-garnet_(Battle_Branch_Mine,_Georgia,_USA).jpg",
+    "license": "CC BY 2.0",
+    "artist": "James St. John",
+    "title": "Gold-quartz-galena-garnet (Battle Branch Mine, Georgia, USA)",
+    "regional": false
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Gold_%26_quartz_%28Banquet_Consolidated_Gold_Mine%2C_Philippines%29_2_%2816561006204%29.jpg/500px-Gold_%26_quartz_%28Banquet_Consolidated_Gold_Mine%2C_Philippines%29_2_%2816561006204%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Gold_%26_quartz_(Banquet_Consolidated_Gold_Mine,_Philippines)_2_(16561006204).jpg",
+    "license": "CC BY 2.0",
+    "artist": "James St. John",
+    "title": "Gold & quartz (Banquet Consolidated Gold Mine, Philippines) 2 (16561006204)",
+    "regional": false
+   }
+  ]
+ },
+ "lead_zinc_silver": {
+  "title": "Galena, sphalerite & silver ores",
+  "what": "The ore minerals of the region's big mining districts (the Coeur d'Alene silver belt, NE Washington): lead-grey galena cubes, resinous sphalerite, and silver minerals like tetrahedrite.",
+  "identify": [
+   "Galena: shiny lead-grey, breaks into perfect cubes, startlingly heavy.",
+   "Sphalerite: resinous yellow, brown or black, with a pale yellow-brown streak even from black pieces.",
+   "Tetrahedrite: steel-grey metallic, brittle, often in triangular pyramid crystals."
+  ],
+  "where": [
+   "Dumps of old lead-zinc-silver mines and prospects (the mine records drive this layer)."
+  ],
+  "how": [
+   "Look for heavy, metallic pieces on dumps; galena cubes weather out of quartz and carbonate gangue."
+  ],
+  "gear": [
+   "hand lens",
+   "rock hammer",
+   "gloves",
+   "white streak plate",
+   "bags"
+  ],
+  "safety": [
+   "Galena and cerussite are lead minerals: never lick or grind them, wash hands, keep away from kids and pets.",
+   "The Silver Valley (Bunker Hill) is a contamination zone: don't collect there.",
+   "Never enter mine tunnels or go near shafts; stay off steep dump faces.",
+   "Old mine waste can hold lead and arsenic: gloves, wash hands and finds, no eating on the pile."
+  ],
+  "sources": [
+   "https://semspub.epa.gov/work/09/100021493.pdf",
+   "https://www.fs.usda.gov/visit/know-before-you-go/mines",
+   "https://deq.wyoming.gov/aml/stay-out-and-stay-alive/"
+  ],
+  "photos": [
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Tetrahedrite_-_Black_Pine_mine%2C_Granite_Co.%2C_Montana%2C_USA.jpg/500px-Tetrahedrite_-_Black_Pine_mine%2C_Granite_Co.%2C_Montana%2C_USA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Tetrahedrite_-_Black_Pine_mine,_Granite_Co.,_Montana,_USA.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Ivar Leidus",
+    "title": "Tetrahedrite - Black Pine mine, Granite Co., Montana, USA",
+    "regional": true
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Galena_and_Meneghinite_%2832871052497%29.jpg/500px-Galena_and_Meneghinite_%2832871052497%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Galena_and_Meneghinite_(32871052497).jpg",
+    "license": "CC BY-SA 2.0",
+    "artist": "Pacific Museum of Earth from Canada",
+    "title": "Galena and Meneghinite (32871052497)",
+    "regional": false
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Galena-54661.jpg/500px-Galena-54661.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Galena-54661.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Robert M. Lavinsky",
+    "title": "Galena-54661",
+    "regional": false
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Sphalerite-Bornite-Enargite-135279.jpg/500px-Sphalerite-Bornite-Enargite-135279.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Sphalerite-Bornite-Enargite-135279.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Robert M. Lavinsky",
+    "title": "Sphalerite-Bornite-Enargite-135279",
+    "regional": false
+   }
+  ]
+ },
+ "calcite_barite": {
+  "title": "Calcite & barite crystals",
+  "what": "Common but often beautiful vein minerals: calcite rhombs and 'dogtooth' points, and heavy tabular barite blades and roses.",
+  "identify": [
+   "Calcite: hardness 3, breaks into slanted rhombs, fizzes readily in a drop of acid.",
+   "Barite: hardness 3-3.5, feels far too heavy for a light-coloured mineral (specific gravity ~4.5).",
+   "Calcite often fluoresces under UV in many colours."
+  ],
+  "where": [
+   "Vein and cavity linings at old mines and in limestone and marble; basalt gas pockets for calcite."
+  ],
+  "how": [
+   "Look in cavities on dumps and in quarry faces; check calcite with a UV light at night."
+  ],
+  "gear": [
+   "hand lens",
+   "dilute acid or vinegar",
+   "UV light",
+   "newspaper to wrap crystals"
+  ],
+  "safety": [
+   "Never enter mine tunnels or go near shafts; stay off steep dump faces.",
+   "Old mine waste can hold lead and arsenic: gloves, wash hands and finds, no eating on the pile."
+  ],
+  "sources": [
+   "https://www.uky.edu/KGS/rocksmineral/minerals_methods_used_to_identify.pdf",
+   "https://www.uwosh.edu/faculty_staff/hiatt/Teaching/Environment/Mineral_Properties.html",
+   "https://www.fs.usda.gov/visit/know-before-you-go/mines",
+   "https://deq.wyoming.gov/aml/stay-out-and-stay-alive/"
+  ],
+  "photos": [
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Calcite-Chalcopyrite-188259.jpg/500px-Calcite-Chalcopyrite-188259.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Calcite-Chalcopyrite-188259.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Robert M. Lavinsky",
+    "title": "Calcite-Chalcopyrite-188259",
+    "regional": false
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Calcite-Hematite-Chalcopyrite-176263.jpg/500px-Calcite-Hematite-Chalcopyrite-176263.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Calcite-Hematite-Chalcopyrite-176263.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Robert M. Lavinsky",
+    "title": "Calcite-Hematite-Chalcopyrite-176263",
+    "regional": false
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Barite_%2848002934743%29.jpg/500px-Barite_%2848002934743%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Barite_(48002934743).jpg",
+    "license": "CC BY-SA 2.0",
+    "artist": "Pacific Museum of Earth from Canada",
+    "title": "Barite (48002934743)",
+    "regional": false
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Barite_with_Chalcopyrite_%2848002935563%29.jpg/500px-Barite_with_Chalcopyrite_%2848002935563%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Barite_with_Chalcopyrite_(48002935563).jpg",
+    "license": "CC BY-SA 2.0",
+    "artist": "Pacific Museum of Earth from Canada",
+    "title": "Barite with Chalcopyrite (48002935563)",
+    "regional": false
+   }
+  ]
+ },
+ "iron_minerals": {
+  "title": "Magnetite & specular hematite",
+  "what": "Black, metallic iron oxides: magnetite (strongly magnetic, often in eight-sided crystals) and specular hematite (glittering steel-grey flakes).",
+  "identify": [
+   "Streak tells them apart: hematite always streaks reddish-brown, even when it looks black; magnetite streaks black.",
+   "Magnetite is the only common strongly magnetic mineral; some hematite is weakly magnetic because of mixed-in magnetite, so check the streak too."
+  ],
+  "where": [
+   "Skarns and iron prospects near granite contacts; black sand in creek gravels (magnetite)."
+  ],
+  "how": [
+   "Carry a magnet: run it through creek sand or over dump material."
+  ],
+  "gear": [
+   "strong magnet",
+   "white streak plate",
+   "hand lens"
+  ],
+  "sources": [
+   "https://commonminerals.esci.umn.edu/minerals-g-m/hematite",
+   "https://geo.libretexts.org/Bookshelves/Geology/Mineralogy_(Perkins_et_al.)/03:_Mineral_Properties/3.04:_Mineral_Appearance/3.4.04:_Streak"
+  ],
+  "photos": [
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Magnetite_with_polished_face%2C_Vancouver_Island%2C_British_Columbia%2C_Canada.jpg/500px-Magnetite_with_polished_face%2C_Vancouver_Island%2C_British_Columbia%2C_Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Magnetite_with_polished_face,_Vancouver_Island,_British_Columbia,_Canada.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Adam Kelliher / Rubble Rock and Gem",
+    "title": "Magnetite with polished face, Vancouver Island, British Columbia, Canada",
+    "regional": true
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Hematite-213175.jpg/500px-Hematite-213175.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Hematite-213175.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Robert M. Lavinsky",
+    "title": "Hematite-213175",
+    "regional": false
+   },
+   {
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Hematite-Quartz-57084.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Hematite-Quartz-57084.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Robert M. Lavinsky",
+    "title": "Hematite-Quartz-57084",
+    "regional": false
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Magnetite_01_10x_%2839576785452%29.jpg/500px-Magnetite_01_10x_%2839576785452%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Magnetite_01_10x_(39576785452).jpg",
+    "license": "PDM-owner",
+    "artist": "Randolph Black from Grass Lake, MI, United States",
+    "title": "Magnetite 01 10x (39576785452)",
+    "regional": false
+   }
+  ]
+ },
+ "molybdenite": {
+  "title": "Molybdenite",
+  "what": "Soft, lead-grey metallic flakes and hexagonal tablets, usually in quartz veins in or near granite.",
+  "identify": [
+   "Marks paper like pencil lead (bluish grey); thin flakes bend; greasy feel.",
+   "Tells apart from graphite by its bluish tint and setting (granite veins, not schist or marble)."
+  ],
+  "where": [
+   "Quartz veins and pegmatites in granitic rock, and the skarns around them (the mine records drive this layer)."
+  ],
+  "how": [
+   "Split quartz vein pieces along fractures: flakes show as silvery hexagons."
+  ],
+  "gear": [
+   "hand lens",
+   "rock hammer",
+   "safety glasses"
+  ],
+  "sources": [
+   "https://home.wgnhs.wisc.edu/?p=1656",
+   "https://pubs.usgs.gov/of/1943/0006/report.pdf"
+  ],
+  "photos": [
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Molybdenite-chalcopyrite_%28latest_Cretaceous_to_earliest_Tertiary%2C_62-66_Ma%3B_Continental_Pit%2C_Butte_Mining_District%2C_Montana%2C_USA%29_%2818620226073%29.jpg/500px-Molybdenite-chalcopyrite_%28latest_Cretaceous_to_earliest_Tertiary%2C_62-66_Ma%3B_Continental_Pit%2C_Butte_Mining_District%2C_Montana%2C_USA%29_%2818620226073%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Molybdenite-chalcopyrite_(latest_Cretaceous_to_earliest_Tertiary,_62-66_Ma;_Continental_Pit,_Butte_Mining_District,_Montana,_USA)_(18620226073).jpg",
+    "license": "CC BY 2.0",
+    "artist": "James St. John",
+    "title": "Molybdenite-chalcopyrite (latest Cretaceous to earliest Tertiary, 62-66 Ma; Continental Pi",
+    "regional": true
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Molybdenite_vein_in_quartz_monzonite_%28latest_Cretaceous_to_earliest_Tertiary%2C_62-66_Ma%3B_Continental_Pit%2C_Butte_Mining_District%2C_Montana%2C_USA%29_1_%2819215397436%29.jpg/500px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Molybdenite_vein_in_quartz_monzonite_(latest_Cretaceous_to_earliest_Tertiary,_62-66_Ma;_Continental_Pit,_Butte_Mining_District,_Montana,_USA)_1_(19215397436).jpg",
+    "license": "CC BY 2.0",
+    "artist": "James St. John",
+    "title": "Molybdenite vein in quartz monzonite (latest Cretaceous to earliest Tertiary, 62-66 Ma; Co",
+    "regional": true
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Molybdenite_veins_in_quartz_monzonite_%28Continental_Mine%2C_Butte%2C_Montana%2C_USA%29_5.jpg/500px-Molybdenite_veins_in_quartz_monzonite_%28Continental_Mine%2C_Butte%2C_Montana%2C_USA%29_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Molybdenite_veins_in_quartz_monzonite_(Continental_Mine,_Butte,_Montana,_USA)_5.jpg",
+    "license": "CC BY 2.0",
+    "artist": "James St. John",
+    "title": "Molybdenite veins in quartz monzonite (Continental Mine, Butte, Montana, USA) 5",
+    "regional": true
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Molybdenite_vein_in_quartz_monzonite_%28Continental_Mine%2C_Butte%2C_Montana%2C_USA%29_9.jpg/500px-Molybdenite_vein_in_quartz_monzonite_%28Continental_Mine%2C_Butte%2C_Montana%2C_USA%29_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Molybdenite_vein_in_quartz_monzonite_(Continental_Mine,_Butte,_Montana,_USA)_9.jpg",
+    "license": "CC BY 2.0",
+    "artist": "James St. John",
+    "title": "Molybdenite vein in quartz monzonite (Continental Mine, Butte, Montana, USA) 9",
+    "regional": true
+   }
+  ]
+ },
+ "epidote": {
+  "title": "Epidote",
+  "what": "Pistachio-green prismatic crystals and crusts, common where granite has baked limestone (skarn) and in altered volcanic and metamorphic rock.",
+  "identify": [
+   "Yellowish to pistachio green, glassy, hard (6-7), striated prisms.",
+   "Lighter, yellower green than chlorite, which is darker and soft."
+  ],
+  "where": [
+   "Skarns at granite-limestone contacts, altered volcanic rock, gneiss and schist."
+  ],
+  "how": [
+   "Check fractures and cavities in green-stained rock on dumps and road cuts."
+  ],
+  "gear": [
+   "hand lens",
+   "rock hammer",
+   "safety glasses"
+  ],
+  "sources": [
+   "https://uwaterloo.ca/earth-sciences-museum/peter-russell-rock-garden/36-epidote-garnet-skarn",
+   "https://cameo.mfa.org/wiki/Epidote"
+  ],
+  "photos": [
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Epidote_coating_monzonite_%28Bearpaw_Mountains%2C_Montana%2C_USA%29.jpg/500px-Epidote_coating_monzonite_%28Bearpaw_Mountains%2C_Montana%2C_USA%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Epidote_coating_monzonite_(Bearpaw_Mountains,_Montana,_USA).jpg",
+    "license": "CC BY 2.0",
+    "artist": "James St. John",
+    "title": "Epidote coating monzonite (Bearpaw Mountains, Montana, USA)",
+    "regional": true
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Epidote_rough%2C_Argonaut_Mine%2C_Vancouver_Island%2C_British_Columbia%2C_Canada.jpg/500px-Epidote_rough%2C_Argonaut_Mine%2C_Vancouver_Island%2C_British_Columbia%2C_Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Epidote_rough,_Argonaut_Mine,_Vancouver_Island,_British_Columbia,_Canada.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Adam Kelliher / Rubble Rock and Gem",
+    "title": "Epidote rough, Argonaut Mine, Vancouver Island, British Columbia, Canada",
+    "regional": true
+   },
+   {
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Epidote-47307.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Epidote-47307.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Robert M. Lavinsky",
+    "title": "Epidote-47307",
+    "regional": false
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Epidote_10x_%2839537975912%29.jpg/500px-Epidote_10x_%2839537975912%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Epidote_10x_(39537975912).jpg",
+    "license": "PDM-owner",
+    "artist": "Randolph Black from Grass Lake, MI, United States",
+    "title": "Epidote 10x (39537975912)",
+    "regional": false
+   }
+  ]
+ },
+ "staurolite_kyanite": {
+  "title": "Staurolite & kyanite (fairy crosses)",
+  "what": "Metamorphic crystals in schist: brown staurolite, which twins into crosses ('fairy crosses'), and blue blade-shaped kyanite.",
+  "identify": [
+   "Staurolite: brown, six-sided prisms, often crossing at 90° (Roman/Maltese cross) or 60° (St Andrew's cross).",
+   "Kyanite: blue-grey blades whose hardness differs along and across the blade.",
+   "Host rock: silvery, flaky mica schist."
+  ],
+  "where": [
+   "Mica schist country; in North Idaho crosses are panned from creek gravels such as Big Carpenter Creek, one drainage north of Emerald Creek."
+  ],
+  "how": [
+   "Weathered schist and the creek gravels below it: staurolite is heavier than ordinary gravel and settles deep, like garnet."
+  ],
+  "gear": [
+   "shovel",
+   "screen/classifier",
+   "gold pan"
+  ],
+  "legal": "Many North Idaho creeks cross Potlatch timber land: a recreational permit is required there.",
+  "sources": [
+   "https://cdapress.com/news/2017/dec/18/behold-staurolite-5",
+   "https://www.rockngem.com/staurolite-fairy-crosses-with-storied-legacy/"
+  ],
+  "photos": [
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Kyanite-210683.jpg/500px-Kyanite-210683.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Kyanite-210683.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Robert M. Lavinsky",
+    "title": "Kyanite-210683",
+    "regional": false
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Staurolite_schist_%28Keivy_Schist%3B_Mt._Ploskaya%2C_Kola_Peninsula%2C_Russia%29_7.jpg/500px-Staurolite_schist_%28Keivy_Schist%3B_Mt._Ploskaya%2C_Kola_Peninsula%2C_Russia%29_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Staurolite_schist_(Keivy_Schist;_Mt._Ploskaya,_Kola_Peninsula,_Russia)_7.jpg",
+    "license": "CC BY 2.0",
+    "artist": "James St. John",
+    "title": "Staurolite schist (Keivy Schist; Mt. Ploskaya, Kola Peninsula, Russia) 7",
+    "regional": false
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Staurolite_01_10x_%2824749321417%29.jpg/500px-Staurolite_01_10x_%2824749321417%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Staurolite_01_10x_(24749321417).jpg",
+    "license": "PDM-owner",
+    "artist": "Randolph Black from Grass Lake, MI, United States",
+    "title": "Staurolite 01 10x (24749321417)",
+    "regional": false
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Raw_Fairy_Stones_-_staurolite_crystallizes_into_the_shape_of_crosses_60_and_90_degrees_%2826224799371%29.jpg/500px-Raw_Fairy_Stones_-_staurolite_crystallizes_into_the_shape_of_crosses_60_and_90_degrees_%2826224799371%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Raw_Fairy_Stones_-_staurolite_crystallizes_into_the_shape_of_crosses_60_and_90_degrees_(26224799371).jpg",
+    "license": "CC BY 2.0",
+    "artist": "Virginia State Parks",
+    "title": "Raw Fairy Stones - staurolite crystallizes into the shape of crosses 60 and 90 degrees (26",
+    "regional": false
+   }
+  ]
+ },
+ "serpentine_jade": {
+  "title": "Serpentine & jade",
+  "what": "Green, greasy-looking rock from ultramafic belts: serpentine (soft) and its tough cousin nephrite jade, which forms from serpentinite.",
+  "identify": [
+   "Serpentine: hardness 3-5 (a knife scratches it), lighter in the hand (2.4-2.8).",
+   "Nephrite: about 6-6.5, extremely tough (resists a hammer), heavier (2.9-3.1), rings when tapped."
+  ],
+  "where": [
+   "Serpentinite belts along major faults; Washington nephrite is tied to the Darrington-Devils Mountain fault zone; noble serpentine near Chewelah (the Wild Turkey claim)."
+  ],
+  "how": [
+   "Stream gravels below serpentinite are the safest hunting: no rock breaking needed."
+  ],
+  "gear": [
+   "knife for the scratch test",
+   "spray bottle (wet stones show colour)",
+   "N95 mask if breaking rock"
+  ],
+  "safety": [
+   "Serpentinite can hold chrysotile ASBESTOS: don't break fibrous rock, keep dust down, wear an N95 when disturbing it."
+  ],
+  "sources": [
+   "https://rockhounding.org/rockhounding-articles/where-to-find-jade-in-the-us",
+   "https://epigem.de/en-us/informations/lookalikes/jadeite-nephrite-serpentine.html"
+  ],
+  "photos": [
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Tumbled_nephrite_jade%2C_northern_British_Columbia.jpg/500px-Tumbled_nephrite_jade%2C_northern_British_Columbia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Tumbled_nephrite_jade,_northern_British_Columbia.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Adam Kelliher / Rubble Rock and Gem",
+    "title": "Tumbled nephrite jade, northern British Columbia",
+    "regional": true
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Nephrite_jade_%28Pounamu_Ultramafics%2C_Pounamu_Ultramafic_Belt%2C_South_Island%2C_New_Zealand%29_3_%2824069093093%29.jpg/500px-Nephrite_jade_%28Pounamu_Ultramafics%2C_Pounamu_Ultramafic_Belt%2C_South_Island%2C_New_Zealand%29_3_%2824069093093%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Nephrite_jade_(Pounamu_Ultramafics,_Pounamu_Ultramafic_Belt,_South_Island,_New_Zealand)_3_(24069093093).jpg",
+    "license": "CC BY 2.0",
+    "artist": "James St. John",
+    "title": "Nephrite jade (Pounamu Ultramafics, Pounamu Ultramafic Belt, South Island, New Zealand) 3 ",
+    "regional": false
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Nephrite_jade_%28fluvial_clast_from_the_Susitna_River_near_Talkeetna%2C_Alaska%2C_USA%29_5_%2848162959337%29.jpg/500px-Nephrite_jade_%28fluvial_clast_from_the_Susitna_River_near_Talkeetna%2C_Alaska%2C_USA%29_5_%2848162959337%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Nephrite_jade_(fluvial_clast_from_the_Susitna_River_near_Talkeetna,_Alaska,_USA)_5_(48162959337).jpg",
+    "license": "CC BY 2.0",
+    "artist": "James St. John",
+    "title": "Nephrite jade (fluvial clast from the Susitna River near Talkeetna, Alaska, USA) 5 (481629",
+    "regional": false
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Raw_nephrite_jade_from_Taiwan_-_Burke_Museum.jpg/500px-Raw_nephrite_jade_from_Taiwan_-_Burke_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Raw_nephrite_jade_from_Taiwan_-_Burke_Museum.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Joe Mabel",
+    "title": "Raw nephrite jade from Taiwan - Burke Museum",
+    "regional": false
+   }
+  ]
+ },
+ "fluorite": {
+  "title": "Fluorite",
+  "what": "Glassy cubes and octahedra in purple, green, yellow or clear, from veins around granite and in limestone.",
+  "identify": [
+   "Hardness about 4: a knife scratches it, but it scratches calcite.",
+   "Breaks along four directions into octahedra (diamond shapes).",
+   "Often glows blue-violet under longwave UV."
+  ],
+  "where": [
+   "Veins at old mines (often with galena, sphalerite and calcite) and granite-limestone contacts."
+  ],
+  "how": [
+   "Look for colourful glassy cubes on dumps; hunt at night with a UV light."
+  ],
+  "gear": [
+   "UV light",
+   "hand lens",
+   "newspaper to wrap crystals"
+  ],
+  "safety": [
+   "Never enter mine tunnels or go near shafts; stay off steep dump faces.",
+   "Old mine waste can hold lead and arsenic: gloves, wash hands and finds, no eating on the pile."
+  ],
+  "sources": [
+   "https://csmgeo.csm.jmu.edu/geollab/Fichter/Minerals/Minerals/fluorite1.html",
+   "https://uvminerals.org/fmdb/specimen/314/",
+   "https://www.fs.usda.gov/visit/know-before-you-go/mines",
+   "https://deq.wyoming.gov/aml/stay-out-and-stay-alive/"
+  ],
+  "photos": [
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Fluorite-44699.jpg/500px-Fluorite-44699.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Fluorite-44699.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Robert M. Lavinsky",
+    "title": "Fluorite-44699",
+    "regional": false
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Fluorite-barite_vein_rock_%28Clays_Ferry_North_outcrop%2C_Fayette_County%2C_Kentucky%2C_USA%29_2.jpg/500px-Fluorite-barite_vein_rock_%28Clays_Ferry_North_outcrop%2C_Fayette_County%2C_Kentucky%2C_USA%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Fluorite-barite_vein_rock_(Clays_Ferry_North_outcrop,_Fayette_County,_Kentucky,_USA)_2.jpg",
+    "license": "CC BY 2.0",
+    "artist": "James St. John",
+    "title": "Fluorite-barite vein rock (Clays Ferry North outcrop, Fayette County, Kentucky, USA) 2",
+    "regional": false
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/G%C3%B6tzenite%2C_Fluorite%2C_Calcite-172533.jpg/500px-G%C3%B6tzenite%2C_Fluorite%2C_Calcite-172533.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:G%C3%B6tzenite,_Fluorite,_Calcite-172533.jpg",
+    "license": "Public domain",
+    "artist": "Modris Baum",
+    "title": "Götzenite, Fluorite, Calcite-172533",
+    "regional": false
+   },
+   {
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Fluorite-tr540c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Fluorite-tr540c.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Robert M. Lavinsky",
+    "title": "Fluorite-tr540c",
+    "regional": false
+   }
+  ]
+ },
+ "zeolites": {
+  "title": "Zeolites (crystals in basalt pockets)",
+  "what": "Delicate white, clear or pink crystals (chabazite, heulandite, stilbite, natrolite...) that line gas pockets in basalt and andesite.",
+  "identify": [
+   "Soft (3.5-5.5) crystals in basalt vesicles: chabazite cubes-like rhombs, heulandite coffin-shaped plates, stilbite sheaves, natrolite needles."
+  ],
+  "where": [
+   "Columbia River Basalt road cuts and quarries, e.g. along Highway 193 west of Clarkston (Snake River) and around Rock Island Dam; dam sites like Skookumchuck are closed."
+  ],
+  "how": [
+   "Look for basalt with open gas pockets in fresh road cuts and quarry rubble; wrap finds well, they're fragile."
+  ],
+  "gear": [
+   "hammer and chisel",
+   "safety glasses",
+   "egg cartons or tissue for fragile crystals"
+  ],
+  "legal": "Road cuts are often state right-of-way: stay off the travel lanes and don't undercut the slope.",
+  "sources": [
+   "https://zh.mindat.org/loc-17951.html",
+   "https://www.mindat.org/locentry-420647.html",
+   "https://zh.mindat.org/loc-15519.html"
+  ],
+  "photos": [
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/StilbiteLinnOregon.jpg/500px-StilbiteLinnOregon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:StilbiteLinnOregon.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Didier Descouens",
+    "title": "StilbiteLinnOregon",
+    "regional": true
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Chabazite_w_-_analcime_Hydrous_calcium_aluminum_silicate_Coffin_Butte_Beton_County_Oregon_2451.jpg/500px-Chabazite_w_-_analcime_Hydrous_calcium_aluminum_silicate_Coffin_Butte_Beton_County_Oregon_2451.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Chabazite_w_-_analcime_Hydrous_calcium_aluminum_silicate_Coffin_Butte_Beton_County_Oregon_2451.jpg",
+    "license": "Public domain",
+    "artist": "Dave Dyet http://www.shutterstone.com  http://www.dyet.com",
+    "title": "Chabazite w - analcime Hydrous calcium aluminum silicate Coffin Butte Beton County Oregon ",
+    "regional": true
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Stilbite_Hydrous_sodium_calcium_aluminum_silicate_Green_Peter_Dam_near_Foster_-_Linn_County_Oregon_1625.jpg/500px-Stilbite_Hydrous_sodium_calcium_aluminum_silicate_Green_Peter_Dam_near_Foster_-_Linn_County_Oregon_1625.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Stilbite_Hydrous_sodium_calcium_aluminum_silicate_Green_Peter_Dam_near_Foster_-_Linn_County_Oregon_1625.jpg",
+    "license": "Public domain",
+    "artist": "Dave Dyet http://www.shutterstone.com  http://www.dyet.com",
+    "title": "Stilbite Hydrous sodium calcium aluminum silicate Green Peter Dam near Foster - Linn Count",
+    "regional": true
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Heulandite-121722.jpg/500px-Heulandite-121722.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Heulandite-121722.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Robert M. Lavinsky",
+    "title": "Heulandite-121722",
+    "regional": false
+   }
+  ]
+ }
+}
