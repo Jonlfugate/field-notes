@@ -270,15 +270,15 @@
     ]
    },
    {
-    "lat": 43.78435,
-    "lon": -117.72909,
+    "lat": 43.78339,
+    "lon": -117.7403,
     "score": 100,
     "hot": 100,
     "finds_2km": 0,
     "model_rank": 0.999,
     "recipe_rank": 0.999,
     "nearest_find": {
-     "km": 42.6,
+     "km": 43.4,
      "name": "Snively Hot Spring, Malheur County, Oregon, USA",
      "source": "mindat"
     },
@@ -288,12 +288,12 @@
      "ground": 1.0,
      "dumps": null
     },
-    "road_km": 0.06,
-    "road": "US Hwy 20 (a state highway)",
-    "road_class": "a state highway",
+    "road_km": 0.04,
+    "road": "a local road",
+    "road_class": "a local road",
     "town": "Bohna (historical)",
-    "town_km": 7.8,
-    "spokane_km": 431,
+    "town_km": 6.9,
+    "spokane_km": 432,
     "land": "ask",
     "grade": 3,
     "legal": "state_permit",
@@ -312,7 +312,7 @@
      "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 42.6,
+    "nearest_find_km": 43.4,
     "landmark": null,
     "also": [],
     "look": []
@@ -618,8 +618,8 @@
     "recipe_rank": 0.998,
     "nearest_find": {
      "km": 8.6,
-     "name": "Monument Quarry, Monument, Grant County, Oregon, USA",
-     "source": "mindat"
+     "name": "Monument &amp; Burnt Cabin Creek Zeolites",
+     "source": "currently_rockhounding"
     },
     "parts": {
      "finds": 0.0,
@@ -858,8 +858,8 @@
     "recipe_rank": 0.998,
     "nearest_find": {
      "km": 12.5,
-     "name": "Bruneau Jasper",
-     "source": "mrds"
+     "name": "Bruneau Group Jasper",
+     "source": "igs"
     },
     "parts": {
      "finds": 0.0,
@@ -897,33 +897,33 @@
     "look": []
    },
    {
-    "lat": 42.13654,
-    "lon": -114.73062,
+    "lat": 42.13566,
+    "lon": -114.73038,
     "score": 100,
     "hot": 100,
     "finds_2km": 0,
     "model_rank": 1.0,
     "recipe_rank": 0.992,
     "nearest_find": {
-     "km": 9.2,
+     "km": 9.1,
      "name": "Rabbit Springs, Twin Falls County, Idaho, USA",
      "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
      "rock": 1.0,
-     "ground": 0.98,
+     "ground": 1.0,
      "dumps": null
     },
-    "road_km": 0.07,
+    "road_km": 0.13,
     "road": "a local road",
     "road_class": "a local road",
     "town": "Rock House Place",
-    "town_km": 5.8,
+    "town_km": 5.9,
     "spokane_km": 650,
     "land": "go",
     "grade": 1,
-    "legal": "ok",
+    "legal": "river_open",
     "state": "ID",
     "rank_sd": 0.003,
     "known_find_here": false,
@@ -940,7 +940,7 @@
      "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 9.2,
+    "nearest_find_km": 9.1,
     "landmark": null,
     "also": [],
     "look": []
@@ -992,6 +992,95 @@
     "landmark": null,
     "also": [],
     "look": []
+   },
+   {
+    "lat": 46.6961,
+    "lon": -119.02174,
+    "score": 99,
+    "hot": 99,
+    "finds_2km": 0,
+    "model_rank": 1.0,
+    "recipe_rank": 0.988,
+    "nearest_find": {
+     "km": 28.9,
+     "name": "Ringold",
+     "source": "rockhounding.org"
+    },
+    "parts": {
+     "finds": 0.0,
+     "rock": 1.0,
+     "ground": 0.67,
+     "dumps": null
+    },
+    "road_km": 0.07,
+    "road": "a local road",
+    "road_class": "a local road",
+    "town": "Schlomer",
+    "town_km": 7.6,
+    "spokane_km": 161,
+    "land": "likely",
+    "grade": 2,
+    "legal": "river_grey",
+    "state": "WA",
+    "rank_sd": 0.011,
+    "known_find_here": false,
+    "support": "guess",
+    "access": {
+     "diggable": true,
+     "crest": false,
+     "cliff": false
+    },
+    "why": [
+     "the geology recipe for this stone scores it in its top 10%",
+     "the satellite land-cover fingerprint (AlphaEarth) resembles known sites",
+     "gravity high (dense rock)"
+    ],
+    "area_km2": 1.0,
+    "nearest_find_km": 28.9,
+    "landmark": null,
+    "also": [],
+    "look": [
+     {
+      "k": "gravel_bar",
+      "label": "gravel bar",
+      "km": 0.57,
+      "dir": "N",
+      "lat": 46.70097,
+      "lon": -119.01929,
+      "a": 1268,
+      "g": 2
+     },
+     {
+      "k": "creek_bed",
+      "label": "dry creek bed",
+      "km": 0.63,
+      "dir": "N",
+      "lat": 46.70139,
+      "lon": -119.01859,
+      "a": 368,
+      "g": 2
+     },
+     {
+      "k": "gravel_pit",
+      "label": "gravel pit",
+      "km": 1.51,
+      "dir": "NE",
+      "lat": 46.70807,
+      "lon": -119.01222,
+      "a": null,
+      "g": 4
+     },
+     {
+      "k": "quarry",
+      "label": "quarry",
+      "km": 2.38,
+      "dir": "N",
+      "lat": 46.71735,
+      "lon": -119.02541,
+      "a": null,
+      "g": 4
+     }
+    ]
    },
    {
     "lat": 45.63844,
@@ -1811,85 +1900,6 @@
     ]
    },
    {
-    "lat": 46.25876,
-    "lon": -119.50023,
-    "score": 98,
-    "hot": 98,
-    "finds_2km": 0,
-    "model_rank": 0.995,
-    "recipe_rank": 0.97,
-    "nearest_find": {
-     "km": 10.0,
-     "name": "Richland, edge of a housing development",
-     "source": "hand_sweep"
-    },
-    "parts": {
-     "finds": 0.0,
-     "rock": 0.99,
-     "ground": 0.91,
-     "dumps": null
-    },
-    "road_km": 0.2,
-    "road": "I- 82 (a US or state highway)",
-    "road_class": "a US or state highway",
-    "town": "Benton City",
-    "town_km": 1.1,
-    "spokane_km": 221,
-    "land": "likely",
-    "grade": 2,
-    "legal": "river_grey",
-    "state": "WA",
-    "rank_sd": 0.013,
-    "known_find_here": false,
-    "support": "proven",
-    "access": {
-     "diggable": true,
-     "crest": false,
-     "cliff": false
-    },
-    "why": [
-     "the geology recipe for this stone scores it in its top 10%",
-     "gravity high (dense rock)",
-     "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
-    ],
-    "area_km2": 1.0,
-    "nearest_find_km": 10.0,
-    "landmark": null,
-    "also": [],
-    "look": [
-     {
-      "k": "gravel_bar",
-      "label": "gravel bar",
-      "km": 0.12,
-      "dir": "N",
-      "lat": 46.25982,
-      "lon": -119.50046,
-      "a": 852,
-      "g": 2
-     },
-     {
-      "k": "creek_bed",
-      "label": "dry creek bed",
-      "km": 0.51,
-      "dir": "SW",
-      "lat": 46.25467,
-      "lon": -119.50321,
-      "a": 1704,
-      "g": 4
-     },
-     {
-      "k": "gravel_pit",
-      "label": "gravel pit",
-      "km": 1.87,
-      "dir": "W",
-      "lat": 46.25401,
-      "lon": -119.52358,
-      "a": null,
-      "g": 4
-     }
-    ]
-   },
-   {
     "lat": 45.06904,
     "lon": -109.91976,
     "score": 97,
@@ -2093,8 +2103,8 @@
     "recipe_rank": 0.964,
     "nearest_find": {
      "km": 57.7,
-     "name": "Montana Onyx Mine",
-     "source": "mrds"
+     "name": "Montana Onyx Mine, Madison County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -2140,9 +2150,9 @@
     "model_rank": 0.96,
     "recipe_rank": 0.938,
     "nearest_find": {
-     "km": 30.4,
-     "name": "Cook Prospect",
-     "source": "mrds"
+     "km": 30.3,
+     "name": "Bonita (Arrowhead Lease; Cooke), Garnet Range Area, Missoula County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -2174,7 +2184,7 @@
      "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 30.4,
+    "nearest_find_km": 30.3,
     "landmark": null,
     "also": [],
     "look": []
@@ -2781,6 +2791,76 @@
     ]
    },
    {
+    "lat": 48.53837,
+    "lon": -119.75959,
+    "score": 100,
+    "hot": 100,
+    "finds_2km": 0,
+    "model_rank": 0.999,
+    "recipe_rank": 0.999,
+    "nearest_find": {
+     "km": 20.5,
+     "name": "Tunk Creek",
+     "source": "rockhounding.org"
+    },
+    "parts": {
+     "finds": 0.0,
+     "rock": 1.0,
+     "ground": 0.81,
+     "dumps": null
+    },
+    "road_km": 0.33,
+    "road": "a service road",
+    "road_class": "a service road",
+    "town": "Conconully",
+    "town_km": 2.2,
+    "spokane_km": 199,
+    "land": "likely",
+    "grade": 2,
+    "legal": "river_grey",
+    "state": "WA",
+    "rank_sd": 0.03,
+    "known_find_here": false,
+    "support": "near",
+    "access": {
+     "diggable": true,
+     "crest": false,
+     "cliff": false
+    },
+    "why": [
+     "the geology recipe for this stone scores it in its top 10%",
+     "schist or gneiss under cover",
+     "far from faults",
+     "the unit description mentions staurolite, kyanite or sillimanite"
+    ],
+    "area_km2": 1.0,
+    "nearest_find_km": 20.5,
+    "landmark": null,
+    "also": [],
+    "look": [
+     {
+      "k": "road_cut",
+      "label": "road cut",
+      "km": 1.93,
+      "dir": "N",
+      "lat": 48.55575,
+      "lon": -119.75812,
+      "a": 564,
+      "g": 1
+     },
+     {
+      "k": "crag",
+      "label": "rock outcrop",
+      "km": 0.61,
+      "dir": "SE",
+      "lat": 48.53459,
+      "lon": -119.75355,
+      "a": 3696,
+      "g": 4
+     }
+    ]
+   },
+   {
     "lat": 46.5579,
     "lon": -114.9607,
     "score": 100,
@@ -2790,8 +2870,8 @@
     "recipe_rank": 0.999,
     "nearest_find": {
      "km": 27.6,
-     "name": "Snowbird Mine, Schley Mountain",
-     "source": "hand_sweep"
+     "name": "Snowbird Mine",
+     "source": "currently_rockhounding"
     },
     "parts": {
      "finds": 0.0,
@@ -2970,8 +3050,8 @@
     "recipe_rank": 0.998,
     "nearest_find": {
      "km": 43.6,
-     "name": "Snowbird Mine, Schley Mountain",
-     "source": "hand_sweep"
+     "name": "Snowbird Mine",
+     "source": "currently_rockhounding"
     },
     "parts": {
      "finds": 0.0,
@@ -3010,76 +3090,6 @@
     "look": []
    },
    {
-    "lat": 48.0032,
-    "lon": -121.40267,
-    "score": 100,
-    "hot": 100,
-    "finds_2km": 0,
-    "model_rank": 0.999,
-    "recipe_rank": 0.997,
-    "nearest_find": {
-     "km": 3.3,
-     "name": "Silvertip Peak, Monte Cristo Mining District, Snohomish County, Washington, USA",
-     "source": "mindat"
-    },
-    "parts": {
-     "finds": 0.0,
-     "rock": 1.0,
-     "ground": 1.0,
-     "dumps": null
-    },
-    "road_km": 1.16,
-    "road": "a local road",
-    "road_class": "a local road",
-    "town": "Monte Cristo",
-    "town_km": 2.0,
-    "spokane_km": 299,
-    "land": "go",
-    "grade": 1,
-    "legal": "ok",
-    "state": "WA",
-    "rank_sd": 0.012,
-    "known_find_here": false,
-    "support": "proven",
-    "access": {
-     "diggable": true,
-     "crest": false,
-     "cliff": false
-    },
-    "why": [
-     "the geology recipe for this stone scores it in its top 10%",
-     "canyon walls or cliffs nearby",
-     "far from faults",
-     "vesicular lava with agate, opal or zeolite named"
-    ],
-    "area_km2": 1.0,
-    "nearest_find_km": 3.3,
-    "landmark": null,
-    "also": [],
-    "look": [
-     {
-      "k": "crag",
-      "label": "rock outcrop",
-      "km": 0.21,
-      "dir": "SE",
-      "lat": 48.00196,
-      "lon": -121.40058,
-      "a": 209676,
-      "g": 1
-     },
-     {
-      "k": "iron_stain",
-      "label": "rusty ground",
-      "km": 1.37,
-      "dir": "SE",
-      "lat": 47.99579,
-      "lon": -121.38785,
-      "a": 1372,
-      "g": 1
-     }
-    ]
-   },
-   {
     "lat": 46.43915,
     "lon": -115.19499,
     "score": 100,
@@ -3089,8 +3099,8 @@
     "recipe_rank": 0.998,
     "nearest_find": {
      "km": 48.6,
-     "name": "Snowbird Mine, Schley Mountain",
-     "source": "hand_sweep"
+     "name": "Snowbird Mine",
+     "source": "currently_rockhounding"
     },
     "parts": {
      "finds": 0.0,
@@ -3278,8 +3288,8 @@
     "recipe_rank": 0.995,
     "nearest_find": {
      "km": 8.7,
-     "name": "Snowbird Mine, Schley Mountain",
-     "source": "hand_sweep"
+     "name": "Snowbird Mine",
+     "source": "currently_rockhounding"
     },
     "parts": {
      "finds": 0.0,
@@ -4293,9 +4303,9 @@
     "model_rank": 0.997,
     "recipe_rank": 0.961,
     "nearest_find": {
-     "km": 5.2,
-     "name": "Amethyst Prospect",
-     "source": "mrds"
+     "km": 5.3,
+     "name": "Amethyst Prospect, Flint Creek Range Area, Powell County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -4328,7 +4338,7 @@
      "granite at the surface"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 5.2,
+    "nearest_find_km": 5.3,
     "landmark": null,
     "also": [],
     "look": []
@@ -4670,8 +4680,8 @@
     "recipe_rank": 1.0,
     "nearest_find": {
      "km": 4.4,
-     "name": "Bales  Mine",
-     "source": "mrds"
+     "name": "Bales Mine, Methow Mining District, Okanogan County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -4788,8 +4798,8 @@
     "recipe_rank": 0.999,
     "nearest_find": {
      "km": 2.5,
-     "name": "Antimony Queen Mine",
-     "source": "mrds"
+     "name": "Antimony Queen Mine, Gold Creek, Methow Mining District, Okanogan County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -4847,8 +4857,8 @@
     "recipe_rank": 0.999,
     "nearest_find": {
      "km": 6.6,
-     "name": "Silver Peak",
-     "source": "mrds"
+     "name": "Silver Peak (Oregon Exploration Company; Umpqua Consolidated Mining Company; Silver Butte Mine), Riddle Mining District, Douglas County, Oregon, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -4964,9 +4974,9 @@
     "model_rank": 1.0,
     "recipe_rank": 0.999,
     "nearest_find": {
-     "km": 9.5,
-     "name": "Bales  Mine",
-     "source": "mrds"
+     "km": 9.6,
+     "name": "Bales Mine, Methow Mining District, Okanogan County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -4998,7 +5008,7 @@
      "intermediate volcanic under thin cover"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 9.5,
+    "nearest_find_km": 9.6,
     "landmark": null,
     "also": [],
     "look": [
@@ -5199,9 +5209,9 @@
     "model_rank": 1.0,
     "recipe_rank": 0.999,
     "nearest_find": {
-     "km": 5.6,
-     "name": "Wildcat Creek",
-     "source": "mrds"
+     "km": 5.7,
+     "name": "Wildcat Creek Claim, Yakima County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -5233,7 +5243,7 @@
      "rhyolite or dacite named in the unit"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 5.6,
+    "nearest_find_km": 5.7,
     "landmark": null,
     "also": [],
     "look": [
@@ -5599,6 +5609,133 @@
     "look": []
    },
    {
+    "lat": 44.31223,
+    "lon": -117.2111,
+    "score": 100,
+    "hot": 100,
+    "finds_2km": 0,
+    "model_rank": 0.998,
+    "recipe_rank": 0.997,
+    "nearest_find": {
+     "km": 6.3,
+     "name": "Indian Head Calcite",
+     "source": "igs"
+    },
+    "parts": {
+     "finds": 0.0,
+     "rock": 1.0,
+     "ground": 1.0,
+     "dumps": null
+    },
+    "road_km": 0.08,
+    "road": "a local road",
+    "road_class": "a local road",
+    "town": "Huntington",
+    "town_km": 6.2,
+    "spokane_km": 372,
+    "land": "go",
+    "grade": 1,
+    "legal": "river_open",
+    "state": "OR",
+    "rank_sd": 0.006,
+    "known_find_here": false,
+    "support": "proven",
+    "access": {
+     "diggable": true,
+     "crest": false,
+     "cliff": false
+    },
+    "why": [
+     "the geology recipe for this stone scores it in its top 10%",
+     "pyrite or iron sulfides seen by the EMIT spectrometer",
+     "far from faults"
+    ],
+    "area_km2": 1.0,
+    "nearest_find_km": 6.3,
+    "landmark": null,
+    "also": [],
+    "look": []
+   },
+   {
+    "lat": 47.98445,
+    "lon": -116.53938,
+    "score": 100,
+    "hot": 100,
+    "finds_2km": 0,
+    "model_rank": 0.995,
+    "recipe_rank": 1.0,
+    "nearest_find": {
+     "km": 11.2,
+     "name": "Keep Cool Mine, Lakeview Mining District, Bonner County, Idaho, USA",
+     "source": "mindat"
+    },
+    "parts": {
+     "finds": 0.0,
+     "rock": 1.0,
+     "ground": 1.0,
+     "dumps": null
+    },
+    "road_km": 0.03,
+    "road": "E Duwamish Dr (a local road)",
+    "road_class": "a local road",
+    "town": "Bayview",
+    "town_km": 1.6,
+    "spokane_km": 75,
+    "land": "go",
+    "grade": 1,
+    "legal": "river_open",
+    "state": "ID",
+    "rank_sd": 0.008,
+    "known_find_here": false,
+    "support": "near",
+    "access": {
+     "diggable": true,
+     "crest": false,
+     "cliff": false
+    },
+    "why": [
+     "the geology recipe for this stone scores it in its top 10%",
+     "the satellite land-cover fingerprint (AlphaEarth) resembles known sites",
+     "high aluminum in creek mud"
+    ],
+    "area_km2": 1.0,
+    "nearest_find_km": 11.2,
+    "landmark": null,
+    "also": [],
+    "look": [
+     {
+      "k": "crag",
+      "label": "rock outcrop",
+      "km": 0.14,
+      "dir": "E",
+      "lat": 47.98431,
+      "lon": -116.53747,
+      "a": 17408,
+      "g": 1
+     },
+     {
+      "k": "road_cut",
+      "label": "road cut",
+      "km": 0.26,
+      "dir": "E",
+      "lat": 47.9853,
+      "lon": -116.53608,
+      "a": 688,
+      "g": 1
+     },
+     {
+      "k": "quarry",
+      "label": "quarry",
+      "km": 1.33,
+      "dir": "W",
+      "lat": 47.98609,
+      "lon": -116.55715,
+      "a": null,
+      "g": 4
+     }
+    ]
+   },
+   {
     "lat": 44.88491,
     "lon": -116.89945,
     "score": 100,
@@ -5800,65 +5937,6 @@
     "look": []
    },
    {
-    "lat": 42.77436,
-    "lon": -123.87696,
-    "score": 100,
-    "hot": 100,
-    "finds_2km": 0,
-    "model_rank": 0.997,
-    "recipe_rank": 0.996,
-    "nearest_find": {
-     "km": 2.9,
-     "name": "Bolivar",
-     "source": "mrds"
-    },
-    "parts": {
-     "finds": 0.0,
-     "rock": 1.0,
-     "ground": 1.0,
-     "dumps": null
-    },
-    "road_km": 0.0,
-    "road": "NFS Rd 010 (a local road)",
-    "road_class": "a local road",
-    "town": "Marial",
-    "town_km": 7.0,
-    "spokane_km": 741,
-    "land": "go",
-    "grade": 1,
-    "legal": "ok",
-    "state": "OR",
-    "rank_sd": 0.004,
-    "known_find_here": false,
-    "support": "proven",
-    "access": {
-     "diggable": true,
-     "crest": false,
-     "cliff": false
-    },
-    "why": [
-     "the geology recipe for this stone scores it in its top 10%",
-     "the satellite land-cover fingerprint (AlphaEarth) resembles known sites",
-     "intermediate volcanic under thin cover"
-    ],
-    "area_km2": 1.0,
-    "nearest_find_km": 2.9,
-    "landmark": null,
-    "also": [],
-    "look": [
-     {
-      "k": "quarry",
-      "label": "quarry",
-      "km": 0.57,
-      "dir": "N",
-      "lat": 42.77937,
-      "lon": -123.8755,
-      "a": null,
-      "g": 1
-     }
-    ]
-   },
-   {
     "lat": 48.84045,
     "lon": -117.02641,
     "score": 99,
@@ -5926,9 +6004,9 @@
     "model_rank": 0.988,
     "recipe_rank": 0.998,
     "nearest_find": {
-     "km": 8.1,
-     "name": "Keep Cool Mine",
-     "source": "mrds"
+     "km": 8.2,
+     "name": "Keep Cool Mine, Lakeview Mining District, Bonner County, Idaho, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -5960,7 +6038,7 @@
      "far from faults"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 8.1,
+    "nearest_find_km": 8.2,
     "landmark": null,
     "also": [],
     "look": [
@@ -5986,8 +6064,8 @@
     "recipe_rank": 0.996,
     "nearest_find": {
      "km": 9.2,
-     "name": "Bonanza Group Barite Mine",
-     "source": "mrds"
+     "name": "Bonanza Group Barite Mine (Gildersleeve Mine), Mineral County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -6054,9 +6132,9 @@
     "model_rank": 0.998,
     "recipe_rank": 0.986,
     "nearest_find": {
-     "km": 13.1,
-     "name": "Bunker Hill",
-     "source": "mrds"
+     "km": 13.0,
+     "name": "Lead Hill Mine, Metaline Mining District, Pend Oreille County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -6088,7 +6166,7 @@
      "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 13.1,
+    "nearest_find_km": 13.0,
     "landmark": null,
     "also": [],
     "look": []
@@ -6158,7 +6236,7 @@
       "lat": 44.83452,
       "lon": -116.89793,
       "a": 484,
-      "g": 4
+      "g": 1
      }
     ]
    },
@@ -6172,8 +6250,8 @@
     "recipe_rank": 0.996,
     "nearest_find": {
      "km": 22.7,
-     "name": "Pilgrim Prospect",
-     "source": "mrds"
+     "name": "Pilgrim Prospect (Holbert Prospect), Pilgrim Creek District, Sanders County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -6232,64 +6310,6 @@
     ]
    },
    {
-    "lat": 47.75379,
-    "lon": -116.67824,
-    "score": 99,
-    "hot": 99,
-    "finds_2km": 0,
-    "model_rank": 0.981,
-    "recipe_rank": 1.0,
-    "nearest_find": {
-     "km": 7.8,
-     "name": "Commonwealth Mine",
-     "source": "mrds"
-    },
-    "parts": {
-     "finds": 0.0,
-     "rock": 0.98,
-     "ground": 0.67,
-     "dumps": null
-    },
-    "road_km": 0.3,
-    "road": "E Hayden Lake Rd (a local road)",
-    "road_class": "a local road",
-    "town": "Harris Landing",
-    "town_km": 3.9,
-    "spokane_km": 57,
-    "land": "go",
-    "grade": 1,
-    "legal": "ok",
-    "state": "ID",
-    "rank_sd": 0.017,
-    "known_find_here": false,
-    "support": "proven",
-    "access": {
-     "diggable": true,
-     "crest": false,
-     "cliff": false
-    },
-    "why": [
-     "the geology recipe for this stone scores it in its top 10%",
-     "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
-    ],
-    "area_km2": 1.0,
-    "nearest_find_km": 7.8,
-    "landmark": null,
-    "also": [],
-    "look": [
-     {
-      "k": "crag",
-      "label": "rock outcrop",
-      "km": 1.16,
-      "dir": "NE",
-      "lat": 47.76291,
-      "lon": -116.67057,
-      "a": 2820,
-      "g": 4
-     }
-    ]
-   },
-   {
     "lat": 47.35033,
     "lon": -116.10429,
     "score": 99,
@@ -6299,8 +6319,8 @@
     "recipe_rank": 0.996,
     "nearest_find": {
      "km": 9.7,
-     "name": "Copper Prince Prospect",
-     "source": "mrds"
+     "name": "Copper Prince Mine, Black Prince Mining District, Shoshone County, Idaho, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -6368,8 +6388,8 @@
     "recipe_rank": 0.997,
     "nearest_find": {
      "km": 16.8,
-     "name": "Snowbird Mine, Schley Mountain",
-     "source": "hand_sweep"
+     "name": "Snowbird Mine",
+     "source": "currently_rockhounding"
     },
     "parts": {
      "finds": 0.0,
@@ -6416,8 +6436,8 @@
     "recipe_rank": 0.992,
     "nearest_find": {
      "km": 8.5,
-     "name": "Bonanza Group Barite Mine",
-     "source": "mrds"
+     "name": "Bonanza Group Barite Mine (Gildersleeve Mine), Mineral County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -6629,8 +6649,8 @@
     "recipe_rank": 0.957,
     "nearest_find": {
      "km": 5.4,
-     "name": "Clay Deposit Se of the Town of Lost Creek",
-     "source": "mrds"
+     "name": "Clay Deposit SE of the Town of Lost Creek, Lost Creek Mining District, Deer Lodge County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -6736,8 +6756,8 @@
     "recipe_rank": 0.958,
     "nearest_find": {
      "km": 23.4,
-     "name": "High Point",
-     "source": "mrds"
+     "name": "High Point Prospect, Emigrant Creek Mining District (Chico Mining District), Park County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -6784,8 +6804,8 @@
     "recipe_rank": 0.948,
     "nearest_find": {
      "km": 15.5,
-     "name": "Sheep Creek",
-     "source": "mrds"
+     "name": "Sheep Creek occurrence, Beaverhead County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -6832,8 +6852,8 @@
     "recipe_rank": 0.98,
     "nearest_find": {
      "km": 14.7,
-     "name": "Snowbird Mine, Schley Mountain",
-     "source": "hand_sweep"
+     "name": "Snowbird Mine",
+     "source": "currently_rockhounding"
     },
     "parts": {
      "finds": 0.0,
@@ -6890,9 +6910,9 @@
     "model_rank": 0.993,
     "recipe_rank": 0.952,
     "nearest_find": {
-     "km": 5.4,
-     "name": "Bungalow Mtn. Prospect",
-     "source": "mrds"
+     "km": 5.3,
+     "name": "Bungalow Mountain Prospect, Flathead County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -6924,7 +6944,7 @@
      "high rubidium in creek mud"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 5.4,
+    "nearest_find_km": 5.3,
     "landmark": null,
     "also": [],
     "look": []
@@ -7210,8 +7230,8 @@
     "recipe_rank": 0.997,
     "nearest_find": {
      "km": 2.8,
-     "name": "Ruby",
-     "source": "mrds"
+     "name": "Ruby deposit, Palmer Mountain Mining District, Okanogan County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -7279,9 +7299,9 @@
     "model_rank": 0.998,
     "recipe_rank": 0.997,
     "nearest_find": {
-     "km": 10.8,
-     "name": "Golden Arrow Mine",
-     "source": "mrds"
+     "km": 10.7,
+     "name": "Golden Arrow Mine, Slate Creek Mining District, Whatcom County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -7314,7 +7334,7 @@
      "far from faults"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 10.8,
+    "nearest_find_km": 10.7,
     "landmark": null,
     "also": [],
     "look": [
@@ -7540,8 +7560,8 @@
     "recipe_rank": 0.996,
     "nearest_find": {
      "km": 2.5,
-     "name": "Blue Bull",
-     "source": "mrds"
+     "name": "Blue Bull Occurrence (Ionic Claims; Chukar Group), Pueblo Mining District (Denio Mining District), Harney County, Oregon, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -7777,9 +7797,9 @@
     "model_rank": 1.0,
     "recipe_rank": 0.99,
     "nearest_find": {
-     "km": 4.1,
-     "name": "Little Eagle Creek",
-     "source": "mrds"
+     "km": 4.2,
+     "name": "Little Eagle Creek Occurrence, Cornucopia Mining District, Baker County, Oregon, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -7812,7 +7832,7 @@
      "quartzite, argillite or slate"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 4.1,
+    "nearest_find_km": 4.2,
     "landmark": null,
     "also": [],
     "look": [
@@ -7895,9 +7915,9 @@
     "model_rank": 0.992,
     "recipe_rank": 0.997,
     "nearest_find": {
-     "km": 45.9,
-     "name": "Petsite Mine",
-     "source": "mrds"
+     "km": 45.8,
+     "name": "Petsite Mine (Knob Hill; Circ Twins), Orogrande Mining District, Idaho County, Idaho, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -7929,7 +7949,7 @@
      "far from faults"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 45.9,
+    "nearest_find_km": 45.8,
     "landmark": null,
     "also": [],
     "look": [
@@ -8024,9 +8044,9 @@
     "model_rank": 0.996,
     "recipe_rank": 0.991,
     "nearest_find": {
-     "km": 4.9,
-     "name": "Huntington Copper Occurrence",
-     "source": "mrds"
+     "km": 4.8,
+     "name": "Huntington Copper Occurrence, Unity Mining District, Baker County, Oregon, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -8059,7 +8079,7 @@
      "serpentine or talc seen by the EMIT spectrometer"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 4.9,
+    "nearest_find_km": 4.8,
     "landmark": null,
     "also": [],
     "look": []
@@ -8073,9 +8093,9 @@
     "model_rank": 0.996,
     "recipe_rank": 0.99,
     "nearest_find": {
-     "km": 10.6,
-     "name": "Mill Creek Prospect",
-     "source": "mrds"
+     "km": 10.7,
+     "name": "Mill Creek Prospect, Galice Mining District, Josephine County, Oregon, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -8108,7 +8128,7 @@
      "far from faults"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 10.6,
+    "nearest_find_km": 10.7,
     "landmark": null,
     "also": [],
     "look": []
@@ -8122,9 +8142,9 @@
     "model_rank": 0.99,
     "recipe_rank": 0.996,
     "nearest_find": {
-     "km": 22.1,
-     "name": "Feather Creek Prospect",
-     "source": "mrds"
+     "km": 22.0,
+     "name": "Feather Creek Prospect (Peacock Mine; Olson Prospect), Feather Creek Area, Latah County, Idaho, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -8157,7 +8177,7 @@
      "far from faults"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 22.1,
+    "nearest_find_km": 22.0,
     "landmark": null,
     "also": [],
     "look": [
@@ -8339,8 +8359,8 @@
     "recipe_rank": 0.996,
     "nearest_find": {
      "km": 13.6,
-     "name": "Spring Creek",
-     "source": "mrds"
+     "name": "Spring Creek Occurrence, Pueblo Mining District (Denio Mining District), Harney County, Oregon, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -8387,9 +8407,9 @@
     "model_rank": 0.99,
     "recipe_rank": 0.991,
     "nearest_find": {
-     "km": 53.8,
-     "name": "Petsite Mine",
-     "source": "mrds"
+     "km": 53.7,
+     "name": "Petsite Mine (Knob Hill; Circ Twins), Orogrande Mining District, Idaho County, Idaho, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -8421,7 +8441,7 @@
      "far from faults"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 53.8,
+    "nearest_find_km": 53.7,
     "landmark": null,
     "also": [],
     "look": [
@@ -8554,9 +8574,9 @@
     "model_rank": 0.993,
     "recipe_rank": 0.984,
     "nearest_find": {
-     "km": 15.8,
-     "name": "Golden Anchor Mine",
-     "source": "mrds"
+     "km": 15.9,
+     "name": "Golden Anchor Mine, Marshall Lake Mining District, Idaho County, Idaho, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -8588,7 +8608,7 @@
      "high elevation"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 15.8,
+    "nearest_find_km": 15.9,
     "landmark": null,
     "also": [],
     "look": [
@@ -8743,8 +8763,8 @@
     "recipe_rank": 0.955,
     "nearest_find": {
      "km": 30.3,
-     "name": "Woods Creek Copper Mine",
-     "source": "mrds"
+     "name": "Woods Creek Copper Mine (Copper Canyon), Mineral Point Mining District, Ravalli County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -8899,9 +8919,9 @@
     "model_rank": 0.995,
     "recipe_rank": 0.922,
     "nearest_find": {
-     "km": 9.2,
-     "name": "Albion Mine",
-     "source": "mrds"
+     "km": 9.1,
+     "name": "Albion Mine, South Boulder Creek Mining District (Princeton Mining District), Granite County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -8934,7 +8954,7 @@
      "high elevation"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 9.2,
+    "nearest_find_km": 9.1,
     "landmark": null,
     "also": [],
     "look": []
@@ -9047,8 +9067,8 @@
     "recipe_rank": 0.916,
     "nearest_find": {
      "km": 38.5,
-     "name": "Polar Star Lode",
-     "source": "mrds"
+     "name": "Polar Star Lode Prospect, New World Mining District (Cooke Mining District), Park County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -9095,9 +9115,9 @@
     "model_rank": 0.973,
     "recipe_rank": 0.93,
     "nearest_find": {
-     "km": 7.9,
-     "name": "Silver Dyke Mine",
-     "source": "mrds"
+     "km": 7.8,
+     "name": "Silver Dyke Mine, Neihart Mining District (Montana Mining District), Cascade County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -9129,7 +9149,7 @@
      "limestone or dolomite"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 7.9,
+    "nearest_find_km": 7.8,
     "landmark": null,
     "also": [],
     "look": []
@@ -9144,8 +9164,8 @@
     "recipe_rank": 0.927,
     "nearest_find": {
      "km": 51.3,
-     "name": "Polar Star Lode",
-     "source": "mrds"
+     "name": "Polar Star Lode Prospect, New World Mining District (Cooke Mining District), Park County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -9244,8 +9264,8 @@
     "recipe_rank": 1.0,
     "nearest_find": {
      "km": 15.4,
-     "name": "Holden Mine",
-     "source": "mrds"
+     "name": "Holden Mine, Railroad Creek Mining District, Chelan County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -9312,9 +9332,9 @@
     "model_rank": 1.0,
     "recipe_rank": 1.0,
     "nearest_find": {
-     "km": 2.5,
-     "name": "Holden Mine",
-     "source": "mrds"
+     "km": 2.3,
+     "name": "Holden Mine, Railroad Creek Mining District, Chelan County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -9346,7 +9366,7 @@
      "granite under thin cover"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 2.5,
+    "nearest_find_km": 2.3,
     "landmark": null,
     "also": [],
     "look": [
@@ -9382,8 +9402,8 @@
     "recipe_rank": 1.0,
     "nearest_find": {
      "km": 23.9,
-     "name": "Fuller",
-     "source": "mrds"
+     "name": "Fuller Mine, Methow Mining District, Okanogan County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -9776,8 +9796,8 @@
     "recipe_rank": 0.998,
     "nearest_find": {
      "km": 11.0,
-     "name": "Fuller",
-     "source": "mrds"
+     "name": "Fuller Mine, Methow Mining District, Okanogan County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -9951,9 +9971,9 @@
     "model_rank": 0.999,
     "recipe_rank": 0.998,
     "nearest_find": {
-     "km": 8.1,
-     "name": "D and D",
-     "source": "mrds"
+     "km": 8.2,
+     "name": "D and D Occurrence (No. 1 and 2; and C.O.D.), Wallowa Range Mining District, Wallowa County, Oregon, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -9985,7 +10005,7 @@
      "high arsenic in creek mud"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 8.1,
+    "nearest_find_km": 8.2,
     "landmark": null,
     "also": [],
     "look": [
@@ -10320,9 +10340,9 @@
     "model_rank": 0.993,
     "recipe_rank": 0.998,
     "nearest_find": {
-     "km": 9.4,
-     "name": "Copper Butte Group",
-     "source": "mrds"
+     "km": 9.6,
+     "name": "Copper Butte Group (Gilkeson; Copper Queen), Eagle Creek Mining District, Baker County, Oregon, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -10354,7 +10374,7 @@
      "high iron in creek mud"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 9.4,
+    "nearest_find_km": 9.6,
     "landmark": null,
     "also": [],
     "look": [
@@ -10682,9 +10702,9 @@
     "model_rank": 0.991,
     "recipe_rank": 0.998,
     "nearest_find": {
-     "km": 13.3,
-     "name": "Myrtle Mine",
-     "source": "mrds"
+     "km": 13.2,
+     "name": "Myrtle Mine, Susanville Mining District (Comer Mining District), Grant County, Oregon, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -10716,7 +10736,7 @@
      "deep cover over bedrock"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 13.3,
+    "nearest_find_km": 13.2,
     "landmark": null,
     "also": [],
     "look": [
@@ -10790,8 +10810,8 @@
     "recipe_rank": 0.998,
     "nearest_find": {
      "km": 9.6,
-     "name": "Meadon Lake Prospect",
-     "source": "mrds"
+     "name": "Meadon Lake Prospect (North Powder Molybdenum), Rock Creek Mining District, Baker County, Oregon, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -11218,8 +11238,8 @@
     "recipe_rank": 0.974,
     "nearest_find": {
      "km": 8.7,
-     "name": "Ready Cash",
-     "source": "mrds"
+     "name": "Ready Cash (U. S. Gold; Paymaster), Highland Mining District (Siberia Mining District), Silver Bow County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -11720,7 +11740,7 @@
     "nearest_find": {
      "km": 26.7,
      "name": "Ida-Ski",
-     "source": "mrds"
+     "source": "igs"
     },
     "parts": {
      "finds": 0.0,
@@ -11778,9 +11798,9 @@
     "model_rank": 0.998,
     "recipe_rank": 0.993,
     "nearest_find": {
-     "km": 5.7,
+     "km": 5.8,
      "name": "Ida-Ski",
-     "source": "mrds"
+     "source": "igs"
     },
     "parts": {
      "finds": 0.0,
@@ -11813,7 +11833,7 @@
      "limestone, marble or calc-silicate named"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 5.7,
+    "nearest_find_km": 5.8,
     "landmark": null,
     "also": [],
     "look": [
@@ -11969,8 +11989,8 @@
     "recipe_rank": 0.992,
     "nearest_find": {
      "km": 14.9,
-     "name": "Wilhelm and Culp Fluorite Prospect",
-     "source": "mrds"
+     "name": "Wilhelm and Culp Fluorite Prospect, Hidden Lakes Mining District, Okanogan County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -12436,9 +12456,9 @@
     "model_rank": 0.978,
     "recipe_rank": 0.996,
     "nearest_find": {
-     "km": 24.3,
-     "name": "Brown Cub 1 & 2 & Green Spar Claims",
-     "source": "mrds"
+     "km": 24.2,
+     "name": "Brown Cub 1 & 2 & Green Spar Claims, Idaho County, Idaho, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -12471,7 +12491,7 @@
      "high beryllium in creek mud"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 24.3,
+    "nearest_find_km": 24.2,
     "landmark": null,
     "also": [],
     "look": [
@@ -12556,9 +12576,9 @@
     "model_rank": 0.986,
     "recipe_rank": 0.986,
     "nearest_find": {
-     "km": 22.1,
-     "name": "Brown Cub 1 & 2 and Green Spar Claims",
-     "source": "igs"
+     "km": 21.9,
+     "name": "Brown Cub 1 & 2 & Green Spar Claims, Idaho County, Idaho, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -12591,7 +12611,7 @@
      "high beryllium in creek mud"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 22.1,
+    "nearest_find_km": 21.9,
     "landmark": null,
     "also": [],
     "look": []
@@ -12606,7 +12626,7 @@
     "recipe_rank": 0.96,
     "nearest_find": {
      "km": 32.3,
-     "name": "Sultana Project",
+     "name": "Empire Mine",
      "source": "mrds"
     },
     "parts": {
@@ -12654,9 +12674,9 @@
     "model_rank": 0.993,
     "recipe_rank": 0.965,
     "nearest_find": {
-     "km": 5.0,
-     "name": "Normandy",
-     "source": "mrds"
+     "km": 4.9,
+     "name": "Normandy Occurrence, Broadwater County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -12689,7 +12709,7 @@
      "far from faults"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 5.0,
+    "nearest_find_km": 4.9,
     "landmark": null,
     "also": [],
     "look": []
@@ -12752,9 +12772,9 @@
     "model_rank": 0.996,
     "recipe_rank": 0.961,
     "nearest_find": {
-     "km": 6.0,
-     "name": "Mill Creek Occurence",
-     "source": "mrds"
+     "km": 6.1,
+     "name": "Mill Creek Occurrence, Anaconda Range, Deer Lodge County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -12787,7 +12807,7 @@
      "clay alteration seen from orbit"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 6.0,
+    "nearest_find_km": 6.1,
     "landmark": null,
     "also": [],
     "look": []
@@ -12801,9 +12821,9 @@
     "model_rank": 0.999,
     "recipe_rank": 0.957,
     "nearest_find": {
-     "km": 4.2,
-     "name": "Sultana Project",
-     "source": "mrds"
+     "km": 4.3,
+     "name": "Tiger Group Mine, Mackay Mining District (Alder Creek Mining District; White Knob Mining District), Custer County, Idaho, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -12836,7 +12856,7 @@
      "high beryllium in creek mud"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 4.2,
+    "nearest_find_km": 4.3,
     "landmark": null,
     "also": [],
     "look": []
@@ -12948,9 +12968,9 @@
     "model_rank": 0.99,
     "recipe_rank": 0.958,
     "nearest_find": {
-     "km": 12.2,
-     "name": "Normandy",
-     "source": "mrds"
+     "km": 12.1,
+     "name": "Normandy Occurrence, Broadwater County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -12983,7 +13003,7 @@
      "limestone, marble or calc-silicate named"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 12.2,
+    "nearest_find_km": 12.1,
     "landmark": null,
     "also": [],
     "look": []
@@ -12998,8 +13018,8 @@
     "recipe_rank": 0.964,
     "nearest_find": {
      "km": 4.5,
-     "name": "Phosphate Prospect-Upper Boulder Cr",
-     "source": "mrds"
+     "name": "Unnamed P-U-F prospect [2], Albicaulis Lake Dam, Philipsburg Mining District (Flint Creek Mining District), Granite County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -13096,8 +13116,8 @@
     "recipe_rank": 0.955,
     "nearest_find": {
      "km": 16.4,
-     "name": "Marysville District",
-     "source": "mrds"
+     "name": "Marysville Mining District, Lewis and Clark County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -13204,8 +13224,8 @@
     "recipe_rank": 0.987,
     "nearest_find": {
      "km": 73.4,
-     "name": "Rome Tuff Fluorspar Deposit",
-     "source": "mrds"
+     "name": "Rome Zeolite Occurrence, Malheur County, Oregon, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -13400,8 +13420,8 @@
     "recipe_rank": 0.974,
     "nearest_find": {
      "km": 199.9,
-     "name": "Rome Tuff Fluorspar Deposit",
-     "source": "milo"
+     "name": "Rome Zeolite Occurrence, Malheur County, Oregon, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -13449,8 +13469,8 @@
     "recipe_rank": 0.973,
     "nearest_find": {
      "km": 191.8,
-     "name": "Rome Tuff Fluorspar Deposit",
-     "source": "mrds"
+     "name": "Rome Zeolite Occurrence, Malheur County, Oregon, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -13558,8 +13578,8 @@
     "recipe_rank": 0.977,
     "nearest_find": {
      "km": 65.8,
-     "name": "Rome Tuff Fluorspar Deposit",
-     "source": "mrds"
+     "name": "Rome Zeolite Occurrence, Malheur County, Oregon, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -13607,8 +13627,8 @@
     "recipe_rank": 0.976,
     "nearest_find": {
      "km": 79.0,
-     "name": "Rome Tuff Fluorspar Deposit",
-     "source": "mrds"
+     "name": "Rome Zeolite Occurrence, Malheur County, Oregon, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -13695,6 +13715,112 @@
    }
   ],
   "fossils": [
+   {
+    "lat": 43.4082,
+    "lon": -123.35864,
+    "score": 100,
+    "hot": 100,
+    "finds_2km": 0,
+    "model_rank": 0.995,
+    "recipe_rank": 0.997,
+    "nearest_find": {
+     "km": 16.6,
+     "name": "PBDB collection 52307 (Bushnell Rock)",
+     "source": "pbdb"
+    },
+    "parts": {
+     "finds": 0.0,
+     "rock": 1.0,
+     "ground": 0.72,
+     "dumps": null
+    },
+    "road_km": 0.17,
+    "road": "Rochester Bridge Rd (a local road)",
+    "road_class": "a local road",
+    "town": "Union Gap",
+    "town_km": 3.6,
+    "spokane_km": 661,
+    "land": "ask",
+    "grade": 3,
+    "legal": "state_permit",
+    "state": "OR",
+    "rank_sd": 0.008,
+    "known_find_here": false,
+    "support": "near",
+    "access": {
+     "diggable": true,
+     "crest": false,
+     "cliff": false
+    },
+    "why": [
+     "the geology recipe for this stone scores it in its top 10%",
+     "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
+    ],
+    "area_km2": 1.0,
+    "nearest_find_km": 16.6,
+    "landmark": null,
+    "also": [],
+    "look": [
+     {
+      "k": "quarry",
+      "label": "quarry",
+      "km": 1.29,
+      "dir": "SW",
+      "lat": 43.39886,
+      "lon": -123.36816,
+      "a": null,
+      "g": 4
+     }
+    ]
+   },
+   {
+    "lat": 44.5904,
+    "lon": -123.97837,
+    "score": 99,
+    "hot": 99,
+    "finds_2km": 0,
+    "model_rank": 0.992,
+    "recipe_rank": 0.997,
+    "nearest_find": {
+     "km": 2.0,
+     "name": "PBDB collection 180442 (Yaquina)",
+     "source": "pbdb"
+    },
+    "parts": {
+     "finds": 0.0,
+     "rock": 0.99,
+     "ground": 0.7,
+     "dumps": null
+    },
+    "road_km": 0.91,
+    "road": "a local road",
+    "road_class": "a local road",
+    "town": "Oysterville",
+    "town_km": 2.3,
+    "spokane_km": 609,
+    "land": "ask",
+    "grade": 3,
+    "legal": "state_permit",
+    "state": "OR",
+    "rank_sd": 0.012,
+    "known_find_here": false,
+    "support": "proven",
+    "access": {
+     "diggable": true,
+     "crest": false,
+     "cliff": false
+    },
+    "why": [
+     "the geology recipe for this stone scores it in its top 10%",
+     "rhyolite or tuff under thin cover",
+     "high airborne potassium (granite, pegmatite, potassic alteration)"
+    ],
+    "area_km2": 1.0,
+    "nearest_find_km": 2.0,
+    "landmark": null,
+    "also": [],
+    "look": []
+   },
    {
     "lat": 42.99175,
     "lon": -123.31487,
@@ -13791,54 +13917,6 @@
     "look": []
    },
    {
-    "lat": 44.61032,
-    "lon": -123.95124,
-    "score": 99,
-    "hot": 99,
-    "finds_2km": 0,
-    "model_rank": 0.992,
-    "recipe_rank": 0.996,
-    "nearest_find": {
-     "km": 3.9,
-     "name": "PBDB collection 139022",
-     "source": "pbdb"
-    },
-    "parts": {
-     "finds": 0.0,
-     "rock": 0.99,
-     "ground": 0.65,
-     "dumps": null
-    },
-    "road_km": 0.06,
-    "road": "Yaquina Bay Rd (a local road)",
-    "road_class": "a local road",
-    "town": "Toledo",
-    "town_km": 1.6,
-    "spokane_km": 606,
-    "land": "go",
-    "grade": 1,
-    "legal": "ok",
-    "state": "OR",
-    "rank_sd": 0.01,
-    "known_find_here": false,
-    "support": "proven",
-    "access": {
-     "diggable": true,
-     "crest": false,
-     "cliff": false
-    },
-    "why": [
-     "the geology recipe for this stone scores it in its top 10%",
-     "rhyolite or tuff under thin cover",
-     "high airborne potassium (granite, pegmatite, potassic alteration)"
-    ],
-    "area_km2": 1.0,
-    "nearest_find_km": 3.9,
-    "landmark": null,
-    "also": [],
-    "look": []
-   },
-   {
     "lat": 44.51421,
     "lon": -124.01839,
     "score": 99,
@@ -13887,6 +13965,54 @@
     "look": []
    },
    {
+    "lat": 42.91082,
+    "lon": -124.34187,
+    "score": 99,
+    "hot": 99,
+    "finds_2km": 0,
+    "model_rank": 0.983,
+    "recipe_rank": 0.998,
+    "nearest_find": {
+     "km": 16.3,
+     "name": "PBDB collection 210297",
+     "source": "pbdb"
+    },
+    "parts": {
+     "finds": 0.0,
+     "rock": 0.98,
+     "ground": 0.72,
+     "dumps": null
+    },
+    "road_km": 0.33,
+    "road": "Floras Creek Rd (a local road)",
+    "road_class": "a local road",
+    "town": "Langlois",
+    "town_km": 9.0,
+    "spokane_km": 755,
+    "land": "ask",
+    "grade": 3,
+    "legal": "state_permit",
+    "state": "OR",
+    "rank_sd": 0.028,
+    "known_find_here": false,
+    "support": "near",
+    "access": {
+     "diggable": true,
+     "crest": false,
+     "cliff": false
+    },
+    "why": [
+     "the geology recipe for this stone scores it in its top 10%",
+     "limestone, marble or calc-silicate named",
+     "high airborne potassium (granite, pegmatite, potassic alteration)"
+    ],
+    "area_km2": 1.0,
+    "nearest_find_km": 16.3,
+    "landmark": null,
+    "also": [],
+    "look": []
+   },
+   {
     "lat": 45.40794,
     "lon": -122.25531,
     "score": 99,
@@ -13896,7 +14022,7 @@
     "recipe_rank": 0.985,
     "nearest_find": {
      "km": 21.0,
-     "name": "PBDB collection 39964",
+     "name": "PBDB collection 39962",
      "source": "pbdb"
     },
     "parts": {
@@ -13980,6 +14106,65 @@
     "landmark": null,
     "also": [],
     "look": []
+   },
+   {
+    "lat": 45.74862,
+    "lon": -123.86812,
+    "score": 99,
+    "hot": 99,
+    "finds_2km": 0,
+    "model_rank": 0.987,
+    "recipe_rank": 0.991,
+    "nearest_find": {
+     "km": 6.6,
+     "name": "PBDB collection 139014",
+     "source": "pbdb"
+    },
+    "parts": {
+     "finds": 0.0,
+     "rock": 0.99,
+     "ground": 0.93,
+     "dumps": null
+    },
+    "road_km": 0.04,
+    "road": "Anderson Rd (a local road)",
+    "road_class": "a local road",
+    "town": "Aldervale",
+    "town_km": 2.9,
+    "spokane_km": 535,
+    "land": "ask",
+    "grade": 3,
+    "legal": "state_permit",
+    "state": "OR",
+    "rank_sd": 0.012,
+    "known_find_here": false,
+    "support": "proven",
+    "access": {
+     "diggable": true,
+     "crest": false,
+     "cliff": false
+    },
+    "why": [
+     "the geology recipe for this stone scores it in its top 10%",
+     "rhyolite or tuff under thin cover",
+     "high airborne potassium (granite, pegmatite, potassic alteration)"
+    ],
+    "area_km2": 1.0,
+    "nearest_find_km": 6.6,
+    "landmark": null,
+    "also": [],
+    "look": [
+     {
+      "k": "quarry",
+      "label": "quarry",
+      "km": 2.08,
+      "dir": "W",
+      "lat": 45.75417,
+      "lon": -123.89381,
+      "a": null,
+      "g": 4
+     }
+    ]
    },
    {
     "lat": 44.37368,
@@ -14087,7 +14272,7 @@
     "recipe_rank": 0.992,
     "nearest_find": {
      "km": 5.3,
-     "name": "PBDB collection 37825 (Pittsburg Bluff)",
+     "name": "PBDB collection 37819 (Pittsburg Bluff)",
      "source": "pbdb"
     },
     "parts": {
@@ -14124,161 +14309,6 @@
     "landmark": null,
     "also": [],
     "look": []
-   },
-   {
-    "lat": 45.72928,
-    "lon": -123.88393,
-    "score": 99,
-    "hot": 99,
-    "finds_2km": 0,
-    "model_rank": 0.993,
-    "recipe_rank": 0.982,
-    "nearest_find": {
-     "km": 4.8,
-     "name": "PBDB collection 139014",
-     "source": "pbdb"
-    },
-    "parts": {
-     "finds": 0.0,
-     "rock": 0.99,
-     "ground": 0.9,
-     "dumps": null
-    },
-    "road_km": 0.0,
-    "road": "Northfork Rd (a local road)",
-    "road_class": "a local road",
-    "town": "Nehalem",
-    "town_km": 1.3,
-    "spokane_km": 537,
-    "land": "go",
-    "grade": 1,
-    "legal": "ok",
-    "state": "OR",
-    "rank_sd": 0.01,
-    "known_find_here": false,
-    "support": "proven",
-    "access": {
-     "diggable": true,
-     "crest": false,
-     "cliff": false
-    },
-    "why": [
-     "the geology recipe for this stone scores it in its top 10%",
-     "rhyolite or tuff under thin cover",
-     "high airborne potassium (granite, pegmatite, potassic alteration)"
-    ],
-    "area_km2": 1.0,
-    "nearest_find_km": 4.8,
-    "landmark": null,
-    "also": [],
-    "look": []
-   },
-   {
-    "lat": 44.78486,
-    "lon": -122.7424,
-    "score": 99,
-    "hot": 99,
-    "finds_2km": 0,
-    "model_rank": 0.983,
-    "recipe_rank": 0.988,
-    "nearest_find": {
-     "km": 22.6,
-     "name": "PBDB collection 39028 (Eugene)",
-     "source": "pbdb"
-    },
-    "parts": {
-     "finds": 0.0,
-     "rock": 0.98,
-     "ground": 0.82,
-     "dumps": null
-    },
-    "road_km": 0.23,
-    "road": "a local road",
-    "road_class": "a local road",
-    "town": "Kingston",
-    "town_km": 2.5,
-    "spokane_km": 519,
-    "land": "go",
-    "grade": 1,
-    "legal": "ok",
-    "state": "OR",
-    "rank_sd": 0.014,
-    "known_find_here": false,
-    "support": "near",
-    "access": {
-     "diggable": true,
-     "crest": false,
-     "cliff": false
-    },
-    "why": [
-     "the geology recipe for this stone scores it in its top 10%",
-     "high airborne potassium (granite, pegmatite, potassic alteration)",
-     "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
-    ],
-    "area_km2": 1.0,
-    "nearest_find_km": 22.6,
-    "landmark": null,
-    "also": [],
-    "look": []
-   },
-   {
-    "lat": 45.28444,
-    "lon": -123.91592,
-    "score": 99,
-    "hot": 99,
-    "finds_2km": 0,
-    "model_rank": 0.974,
-    "recipe_rank": 0.997,
-    "nearest_find": {
-     "km": 8.7,
-     "name": "PBDB collection 39592 (Astoria)",
-     "source": "pbdb"
-    },
-    "parts": {
-     "finds": 0.0,
-     "rock": 0.97,
-     "ground": 0.69,
-     "dumps": null
-    },
-    "road_km": 0.28,
-    "road": "a local road",
-    "road_class": "a local road",
-    "town": "Sandlake",
-    "town_km": 2.2,
-    "spokane_km": 563,
-    "land": "go",
-    "grade": 1,
-    "legal": "ok",
-    "state": "OR",
-    "rank_sd": 0.022,
-    "known_find_here": false,
-    "support": "proven",
-    "access": {
-     "diggable": true,
-     "crest": false,
-     "cliff": false
-    },
-    "why": [
-     "the geology recipe for this stone scores it in its top 10%",
-     "rhyolite or tuff under thin cover",
-     "high airborne potassium (granite, pegmatite, potassic alteration)"
-    ],
-    "area_km2": 1.0,
-    "nearest_find_km": 8.7,
-    "landmark": null,
-    "also": [],
-    "look": [
-     {
-      "k": "quarry",
-      "label": "quarry",
-      "km": 1.37,
-      "dir": "NE",
-      "lat": 45.2948,
-      "lon": -123.90627,
-      "a": null,
-      "g": 4
-     }
-    ]
    },
    {
     "lat": 46.21797,
@@ -14377,6 +14407,54 @@
     "look": []
    },
    {
+    "lat": 48.14785,
+    "lon": -122.05117,
+    "score": 98,
+    "hot": 98,
+    "finds_2km": 0,
+    "model_rank": 0.985,
+    "recipe_rank": 0.973,
+    "nearest_find": {
+     "km": 7.4,
+     "name": "PBDB collection 37573 (Clallam)",
+     "source": "pbdb"
+    },
+    "parts": {
+     "finds": 0.0,
+     "rock": 0.98,
+     "ground": 1.0,
+     "dumps": null
+    },
+    "road_km": 0.04,
+    "road": "135th Ave NE (a local road)",
+    "road_class": "a local road",
+    "town": "Jordan",
+    "town_km": 1.0,
+    "spokane_km": 349,
+    "land": "likely",
+    "grade": 2,
+    "legal": "river_grey",
+    "state": "WA",
+    "rank_sd": 0.009,
+    "known_find_here": false,
+    "support": "proven",
+    "access": {
+     "diggable": true,
+     "crest": false,
+     "cliff": false
+    },
+    "why": [
+     "the geology recipe for this stone scores it in its top 10%",
+     "high airborne potassium (granite, pegmatite, potassic alteration)",
+     "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
+    ],
+    "area_km2": 1.0,
+    "nearest_find_km": 7.4,
+    "landmark": null,
+    "also": [],
+    "look": []
+   },
+   {
     "lat": 46.52871,
     "lon": -123.64448,
     "score": 98,
@@ -14436,40 +14514,40 @@
     ]
    },
    {
-    "lat": 46.61693,
-    "lon": -123.19798,
-    "score": 97,
-    "hot": 97,
+    "lat": 46.60877,
+    "lon": -123.1457,
+    "score": 98,
+    "hot": 98,
     "finds_2km": 0,
-    "model_rank": 0.987,
-    "recipe_rank": 0.957,
+    "model_rank": 0.996,
+    "recipe_rank": 0.956,
     "nearest_find": {
-     "km": 9.6,
+     "km": 13.2,
      "name": "PBDB collection 202423 (Lincoln Creek)",
      "source": "pbdb"
     },
     "parts": {
      "finds": 0.0,
-     "rock": 0.99,
-     "ground": 0.64,
+     "rock": 1.0,
+     "ground": 0.56,
      "dumps": null
     },
-    "road_km": 0.63,
-    "road": "Hope Creek Rd (a local road)",
+    "road_km": 0.48,
+    "road": "Ceres Hill Rd (a local road)",
     "road_class": "a local road",
-    "town": "Mays (historical)",
-    "town_km": 2.7,
-    "spokane_km": 452,
-    "land": "go",
-    "grade": 1,
-    "legal": "ok",
+    "town": "Ceres",
+    "town_km": 0.6,
+    "spokane_km": 448,
+    "land": "likely",
+    "grade": 2,
+    "legal": "river_grey",
     "state": "WA",
-    "rank_sd": 0.017,
+    "rank_sd": 0.005,
     "known_find_here": false,
-    "support": "proven",
+    "support": "near",
     "access": {
      "diggable": true,
-     "crest": true,
+     "crest": false,
      "cliff": false
     },
     "why": [
@@ -14478,98 +14556,146 @@
      "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 9.6,
+    "nearest_find_km": 13.2,
+    "landmark": null,
+    "also": [],
+    "look": []
+   },
+   {
+    "lat": 46.68553,
+    "lon": -123.75576,
+    "score": 98,
+    "hot": 98,
+    "finds_2km": 0,
+    "model_rank": 0.993,
+    "recipe_rank": 0.957,
+    "nearest_find": {
+     "km": 5.4,
+     "name": "PBDB collection 101087",
+     "source": "pbdb"
+    },
+    "parts": {
+     "finds": 0.0,
+     "rock": 0.99,
+     "ground": 0.61,
+     "dumps": null
+    },
+    "road_km": 0.03,
+    "road": "State Rte 105 (a state highway)",
+    "road_class": "a state highway",
+    "town": "Raymond",
+    "town_km": 1.8,
+    "spokane_km": 490,
+    "land": "likely",
+    "grade": 2,
+    "legal": "river_grey",
+    "state": "WA",
+    "rank_sd": 0.007,
+    "known_find_here": false,
+    "support": "proven",
+    "access": {
+     "diggable": true,
+     "crest": false,
+     "cliff": false
+    },
+    "why": [
+     "the geology recipe for this stone scores it in its top 10%",
+     "rhyolite or tuff under thin cover",
+     "high airborne potassium (granite, pegmatite, potassic alteration)"
+    ],
+    "area_km2": 1.0,
+    "nearest_find_km": 5.4,
     "landmark": null,
     "also": [],
     "look": [
      {
       "k": "quarry",
       "label": "quarry",
-      "km": 1.09,
-      "dir": "N",
-      "lat": 46.62648,
-      "lon": -123.2013,
+      "km": 0.28,
+      "dir": "NW",
+      "lat": 46.6872,
+      "lon": -123.75854,
       "a": null,
       "g": 4
      }
     ]
    },
    {
-    "lat": 48.13089,
-    "lon": -124.04774,
+    "lat": 46.11048,
+    "lon": -122.88381,
     "score": 97,
     "hot": 97,
     "finds_2km": 0,
-    "model_rank": 0.994,
-    "recipe_rank": 0.95,
+    "model_rank": 0.96,
+    "recipe_rank": 0.989,
     "nearest_find": {
-     "km": 5.0,
-     "name": "PBDB collection 208346 (Pysht)",
+     "km": 9.3,
+     "name": "PBDB collection 239316",
      "source": "pbdb"
     },
     "parts": {
      "finds": 0.0,
-     "rock": 0.99,
-     "ground": 0.77,
+     "rock": 0.96,
+     "ground": 0.92,
      "dumps": null
     },
-    "road_km": 0.76,
-    "road": "a local road",
+    "road_km": 0.13,
+    "road": "Marina Rd (a local road)",
     "road_class": "a local road",
-    "town": "Twin",
-    "town_km": 8.0,
-    "spokane_km": 496,
-    "land": "go",
-    "grade": 1,
-    "legal": "ok",
+    "town": "Longview Junction",
+    "town_km": 0.7,
+    "spokane_km": 449,
+    "land": "likely",
+    "grade": 2,
+    "legal": "river_grey",
     "state": "WA",
-    "rank_sd": 0.008,
+    "rank_sd": 0.083,
     "known_find_here": false,
     "support": "proven",
     "access": {
-     "diggable": false,
+     "diggable": true,
      "crest": false,
      "cliff": false
     },
     "why": [
      "the geology recipe for this stone scores it in its top 10%",
      "high airborne potassium (granite, pegmatite, potassic alteration)",
-     "sandstone, shale or lake beds"
+     "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 5.0,
+    "nearest_find_km": 9.3,
     "landmark": null,
     "also": [],
     "look": []
    },
    {
-    "lat": 48.13083,
-    "lon": -124.15769,
+    "lat": 46.84036,
+    "lon": -123.16376,
     "score": 97,
     "hot": 97,
     "finds_2km": 0,
     "model_rank": 0.992,
-    "recipe_rank": 0.949,
+    "recipe_rank": 0.954,
     "nearest_find": {
-     "km": 4.6,
-     "name": "PBDB collection 202152 (Hoko River)",
+     "km": 4.5,
+     "name": "PBDB collection 180439 (Lincoln Creek)",
      "source": "pbdb"
     },
     "parts": {
      "finds": 0.0,
      "rock": 0.99,
-     "ground": 0.72,
+     "ground": 0.57,
      "dumps": null
     },
-    "road_km": 1.21,
-    "road": "NFS Rd 3031 (a local road)",
+    "road_km": 0.26,
+    "road": "Hunter Rd SW (a local road)",
     "road_class": "a local road",
-    "town": "Pysht",
-    "town_km": 8.1,
-    "spokane_km": 504,
-    "land": "go",
-    "grade": 1,
-    "legal": "ok",
+    "town": "Peterson Corner",
+    "town_km": 4.0,
+    "spokane_km": 442,
+    "land": "likely",
+    "grade": 2,
+    "legal": "river_grey",
     "state": "WA",
     "rank_sd": 0.005,
     "known_find_here": false,
@@ -14585,103 +14711,7 @@
      "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 4.6,
-    "landmark": null,
-    "also": [],
-    "look": []
-   },
-   {
-    "lat": 46.89049,
-    "lon": -123.33356,
-    "score": 97,
-    "hot": 97,
-    "finds_2km": 0,
-    "model_rank": 0.991,
-    "recipe_rank": 0.945,
-    "nearest_find": {
-     "km": 4.2,
-     "name": "PBDB collection 139447",
-     "source": "pbdb"
-    },
-    "parts": {
-     "finds": 0.0,
-     "rock": 0.99,
-     "ground": 1.0,
-     "dumps": null
-    },
-    "road_km": 0.04,
-    "road": "a local road",
-    "road_class": "a local road",
-    "town": "Lankner",
-    "town_km": 2.7,
-    "spokane_km": 454,
-    "land": "go",
-    "grade": 1,
-    "legal": "ok",
-    "state": "WA",
-    "rank_sd": 0.007,
-    "known_find_here": false,
-    "support": "proven",
-    "access": {
-     "diggable": true,
-     "crest": false,
-     "cliff": false
-    },
-    "why": [
-     "the geology recipe for this stone scores it in its top 10%",
-     "rhyolite or tuff under thin cover",
-     "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
-    ],
-    "area_km2": 1.0,
-    "nearest_find_km": 4.2,
-    "landmark": null,
-    "also": [],
-    "look": []
-   },
-   {
-    "lat": 46.62701,
-    "lon": -123.70186,
-    "score": 97,
-    "hot": 97,
-    "finds_2km": 0,
-    "model_rank": 0.992,
-    "recipe_rank": 0.942,
-    "nearest_find": {
-     "km": 6.5,
-     "name": "PBDB collection 239623",
-     "source": "pbdb"
-    },
-    "parts": {
-     "finds": 0.0,
-     "rock": 0.99,
-     "ground": 0.5,
-     "dumps": null
-    },
-    "road_km": 0.27,
-    "road": "S Fork Rd (a local road)",
-    "road_class": "a local road",
-    "town": "Menlo",
-    "town_km": 4.3,
-    "spokane_km": 488,
-    "land": "ask",
-    "grade": 3,
-    "legal": "check",
-    "state": "WA",
-    "rank_sd": 0.006,
-    "known_find_here": false,
-    "support": "proven",
-    "access": {
-     "diggable": true,
-     "crest": false,
-     "cliff": false
-    },
-    "why": [
-     "the geology recipe for this stone scores it in its top 10%",
-     "high airborne potassium (granite, pegmatite, potassic alteration)",
-     "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
-    ],
-    "area_km2": 1.0,
-    "nearest_find_km": 6.5,
+    "nearest_find_km": 4.5,
     "landmark": null,
     "also": [],
     "look": []
@@ -15032,7 +15062,7 @@
     "recipe_rank": 0.923,
     "nearest_find": {
      "km": 2.9,
-     "name": "PBDB collection 232644 (Heath)",
+     "name": "PBDB collection 232617 (Heath)",
      "source": "pbdb"
     },
     "parts": {
@@ -15559,7 +15589,7 @@
     "recipe_rank": 0.901,
     "nearest_find": {
      "km": 8.9,
-     "name": "PBDB collection 167277 (Twin Creek Limestone)",
+     "name": "PBDB collection 167261 (Twin Creek Limestone)",
      "source": "pbdb"
     },
     "parts": {
@@ -15853,8 +15883,8 @@
     "recipe_rank": 0.999,
     "nearest_find": {
      "km": 12.6,
-     "name": "Kelly Camp",
-     "source": "mrds"
+     "name": "Kelly Camp Mine, Republic Mining District, Ferry County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -16306,9 +16336,9 @@
     "model_rank": 0.999,
     "recipe_rank": 0.999,
     "nearest_find": {
-     "km": 21.4,
-     "name": "Holden Mine",
-     "source": "mrds"
+     "km": 21.3,
+     "name": "Holden Mine, Railroad Creek Mining District, Chelan County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -16340,7 +16370,7 @@
      "far from dikes"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 21.4,
+    "nearest_find_km": 21.3,
     "landmark": null,
     "also": [],
     "look": [
@@ -16454,9 +16484,9 @@
     "model_rank": 0.998,
     "recipe_rank": 0.999,
     "nearest_find": {
-     "km": 10.3,
-     "name": "Mitch-Carol Occurrence",
-     "source": "mrds"
+     "km": 10.1,
+     "name": "West Fork Cobalt Prospect, Golden Area, Idaho County, Idaho, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -16488,7 +16518,7 @@
      "far from dikes"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 10.3,
+    "nearest_find_km": 10.1,
     "landmark": null,
     "also": [],
     "look": [
@@ -16535,15 +16565,15 @@
     ]
    },
    {
-    "lat": 47.97417,
-    "lon": -118.98054,
+    "lat": 47.97395,
+    "lon": -118.98183,
     "score": 100,
     "hot": 100,
     "finds_2km": 0,
     "model_rank": 0.999,
     "recipe_rank": 0.999,
     "nearest_find": {
-     "km": 6.4,
+     "km": 6.3,
      "name": "Electric City, Grant County, Washington, USA",
      "source": "mindat"
     },
@@ -16553,11 +16583,11 @@
      "ground": 1.0,
      "dumps": null
     },
-    "road_km": 0.05,
+    "road_km": 0.11,
     "road": "Columbia Ave (a local road)",
     "road_class": "a local road",
     "town": "Crown Point Vista",
-    "town_km": 0.6,
+    "town_km": 0.5,
     "spokane_km": 121,
     "land": "likely",
     "grade": 2,
@@ -16577,15 +16607,15 @@
      "granite under thin cover"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 6.4,
+    "nearest_find_km": 6.3,
     "landmark": null,
     "also": [],
     "look": [
      {
       "k": "road_cut",
       "label": "road cut",
-      "km": 0.54,
-      "dir": "SW",
+      "km": 0.47,
+      "dir": "S",
       "lat": 47.97,
       "lon": -118.98424,
       "a": 668,
@@ -16594,8 +16624,8 @@
      {
       "k": "crag",
       "label": "rock outcrop",
-      "km": 0.15,
-      "dir": "NW",
+      "km": 0.16,
+      "dir": "N",
       "lat": 47.97541,
       "lon": -118.98146,
       "a": 38824,
@@ -16604,7 +16634,7 @@
      {
       "k": "scree",
       "label": "scree slope",
-      "km": 1.53,
+      "km": 1.55,
       "dir": "SE",
       "lat": 47.96145,
       "lon": -118.97258,
@@ -16841,33 +16871,33 @@
     ]
    },
    {
-    "lat": 46.64507,
-    "lon": -116.20965,
+    "lat": 46.64865,
+    "lon": -116.22275,
     "score": 100,
     "hot": 100,
     "finds_2km": 0,
     "model_rank": 0.997,
     "recipe_rank": 0.999,
     "nearest_find": {
-     "km": 3.1,
+     "km": 3.0,
      "name": "North Fork Kyanite Occurrence",
      "source": "mrds"
     },
     "parts": {
      "finds": 0.0,
      "rock": 1.0,
-     "ground": 0.72,
+     "ground": 0.92,
      "dumps": null
     },
-    "road_km": 0.2,
-    "road": "Dent Bridge Rd (a local road)",
+    "road_km": 0.05,
+    "road": "a local road",
     "road_class": "a local road",
     "town": "Dent",
-    "town_km": 2.4,
+    "town_km": 3.1,
     "spokane_km": 145,
-    "land": "ask",
-    "grade": 3,
-    "legal": "state_permit",
+    "land": "go",
+    "grade": 1,
+    "legal": "river_open",
     "state": "ID",
     "rank_sd": 0.011,
     "known_find_here": false,
@@ -16883,19 +16913,19 @@
      "the unit description mentions staurolite, kyanite or sillimanite"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 3.1,
+    "nearest_find_km": 3.0,
     "landmark": null,
     "also": [],
     "look": [
      {
       "k": "crag",
       "label": "rock outcrop",
-      "km": 0.41,
-      "dir": "SW",
-      "lat": 46.64302,
-      "lon": -116.21405,
-      "a": 4068,
-      "g": 4
+      "km": 0.49,
+      "dir": "SE",
+      "lat": 46.64601,
+      "lon": -116.21764,
+      "a": 3344,
+      "g": 1
      }
     ]
    },
@@ -17038,7 +17068,7 @@
     "nearest_find": {
      "km": 24.1,
      "name": "Bargamin Bar",
-     "source": "mrds"
+     "source": "igs"
     },
     "parts": {
      "finds": 0.0,
@@ -17185,8 +17215,8 @@
     "recipe_rank": 1.0,
     "nearest_find": {
      "km": 5.2,
-     "name": "Golden Angel Mine",
-     "source": "mrds"
+     "name": "Golden Angel Mine (Klondike), Boston Mine, Top O'Deep Mining District, Powell County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -17232,9 +17262,9 @@
     "model_rank": 0.993,
     "recipe_rank": 0.998,
     "nearest_find": {
-     "km": 17.4,
-     "name": "Calvert",
-     "source": "mrds"
+     "km": 17.5,
+     "name": "Calvert Hill Mine",
+     "source": "rockhounding.org"
     },
     "parts": {
      "finds": 0.0,
@@ -17266,7 +17296,7 @@
      "granite under thin cover"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 17.4,
+    "nearest_find_km": 17.5,
     "landmark": null,
     "also": [],
     "look": []
@@ -17397,9 +17427,9 @@
     "model_rank": 0.995,
     "recipe_rank": 0.994,
     "nearest_find": {
-     "km": 9.5,
-     "name": "Nick Preen Mine",
-     "source": "mrds"
+     "km": 9.4,
+     "name": "Nick Preen Mine, Baldy Mountain Mining District, Beaverhead County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -17431,7 +17461,7 @@
      "high iron in creek mud"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 9.5,
+    "nearest_find_km": 9.4,
     "landmark": null,
     "also": [],
     "look": []
@@ -17446,8 +17476,8 @@
     "recipe_rank": 0.995,
     "nearest_find": {
      "km": 14.1,
-     "name": "Fool Hen Property",
-     "source": "mrds"
+     "name": "Fool Hen Property, Calvert Hill Mining District, Beaverhead County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -17582,9 +17612,9 @@
     "model_rank": 0.991,
     "recipe_rank": 0.995,
     "nearest_find": {
-     "km": 10.7,
-     "name": "Main Range Beryl",
-     "source": "mrds"
+     "km": 10.8,
+     "name": "Main Range Beryl Occurrence, Anaconda Range, Deer Lodge County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -17616,7 +17646,7 @@
      "quartzite, argillite or slate"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 10.7,
+    "nearest_find_km": 10.8,
     "landmark": null,
     "also": [],
     "look": []
@@ -17631,8 +17661,8 @@
     "recipe_rank": 0.998,
     "nearest_find": {
      "km": 23.8,
-     "name": "Long Meadow Claim",
-     "source": "mrds"
+     "name": "Long Meadow Claim, Granite Mining District, Grant County, Oregon, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -18086,9 +18116,9 @@
     "model_rank": 0.964,
     "recipe_rank": 0.977,
     "nearest_find": {
-     "km": 9.7,
-     "name": "Lightning Ridge",
-     "source": "mrds"
+     "km": 9.8,
+     "name": "Lightning Ridge Occurrence, Briggs Creek Mining District, Josephine County, Oregon, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -18120,7 +18150,7 @@
      "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 9.7,
+    "nearest_find_km": 9.8,
     "landmark": null,
     "also": [],
     "look": []
@@ -18135,8 +18165,8 @@
     "recipe_rank": 0.975,
     "nearest_find": {
      "km": 31.7,
-     "name": "Long Meadow Claim",
-     "source": "mrds"
+     "name": "Long Meadow Claim, Granite Mining District, Grant County, Oregon, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -18182,9 +18212,9 @@
     "model_rank": 0.968,
     "recipe_rank": 0.959,
     "nearest_find": {
-     "km": 10.2,
-     "name": "Myrtle Mine",
-     "source": "mrds"
+     "km": 10.1,
+     "name": "Myrtle Mine, Susanville Mining District (Comer Mining District), Grant County, Oregon, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -18216,7 +18246,7 @@
      "granite under thin cover"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 10.2,
+    "nearest_find_km": 10.1,
     "landmark": null,
     "also": [],
     "look": []
@@ -18498,9 +18528,9 @@
     "model_rank": 0.998,
     "recipe_rank": 1.0,
     "nearest_find": {
-     "km": 38.2,
-     "name": "Pike Creek Thunder Eggs",
-     "source": "mrds"
+     "km": 38.1,
+     "name": "Pike Creek Thunder Eggs, Harney County, Oregon, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -18533,7 +18563,7 @@
      "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 38.2,
+    "nearest_find_km": 38.1,
     "landmark": null,
     "also": [],
     "look": []
@@ -18596,9 +18626,9 @@
     "model_rank": 0.999,
     "recipe_rank": 0.999,
     "nearest_find": {
-     "km": 45.8,
-     "name": "Pike Creek Thunder Eggs",
-     "source": "mrds"
+     "km": 45.7,
+     "name": "Pike Creek Thunder Eggs, Harney County, Oregon, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -18631,7 +18661,7 @@
      "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 45.8,
+    "nearest_find_km": 45.7,
     "landmark": null,
     "also": [],
     "look": []
@@ -18833,9 +18863,9 @@
     "model_rank": 0.999,
     "recipe_rank": 0.992,
     "nearest_find": {
-     "km": 10.6,
-     "name": "Geode Occurrence",
-     "source": "igs"
+     "km": 10.4,
+     "name": "Geode Occurrence, Owyhee County, Idaho, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -18868,7 +18898,7 @@
      "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 10.6,
+    "nearest_find_km": 10.4,
     "landmark": null,
     "also": [],
     "look": []
@@ -19241,8 +19271,8 @@
     "recipe_rank": 0.989,
     "nearest_find": {
      "km": 13.5,
-     "name": "Little Naches, FS 1901 thunderegg bed",
-     "source": "hand_sweep"
+     "name": "Little Naches: Lily Pad Thundereggs",
+     "source": "currently_rockhounding"
     },
     "parts": {
      "finds": 0.0,
@@ -19321,8 +19351,8 @@
     "recipe_rank": 0.989,
     "nearest_find": {
      "km": 3.2,
-     "name": "Little Naches, Yakima County",
-     "source": "club_trips"
+     "name": "Little Naches: Lily Pad Thundereggs",
+     "source": "currently_rockhounding"
     },
     "parts": {
      "finds": 0.0,
@@ -19706,9 +19736,9 @@
     "model_rank": 1.0,
     "recipe_rank": 0.985,
     "nearest_find": {
-     "km": 63.3,
-     "name": "Geode Occurrence",
-     "source": "mrds"
+     "km": 63.1,
+     "name": "Geode Occurrence, Owyhee County, Idaho, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -19741,7 +19771,7 @@
      "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 63.3,
+    "nearest_find_km": 63.1,
     "landmark": null,
     "also": [],
     "look": []
@@ -20515,8 +20545,8 @@
     ]
    },
    {
-    "lat": 46.65644,
-    "lon": -117.39493,
+    "lat": 46.65847,
+    "lon": -117.39961,
     "score": 100,
     "hot": 100,
     "finds_2km": 0,
@@ -20530,18 +20560,18 @@
     "parts": {
      "finds": 0.0,
      "rock": 1.0,
-     "ground": 0.95,
+     "ground": 1.0,
      "dumps": null
     },
-    "road_km": 1.69,
+    "road_km": 1.58,
     "road": "Wawawai Grade Rd (a local road)",
     "road_class": "a local road",
     "town": "Wawawai (historical)",
-    "town_km": 2.5,
+    "town_km": 2.9,
     "spokane_km": 111,
-    "land": "ask",
-    "grade": 3,
-    "legal": "check",
+    "land": "likely",
+    "grade": 2,
+    "legal": "river_grey",
     "state": "WA",
     "rank_sd": 0.012,
     "known_find_here": false,
@@ -20564,12 +20594,12 @@
      {
       "k": "crag",
       "label": "rock outcrop",
-      "km": 0.16,
-      "dir": "E",
-      "lat": 46.65592,
-      "lon": -117.39295,
-      "a": 4592,
-      "g": 4
+      "km": 0.18,
+      "dir": "SE",
+      "lat": 46.65725,
+      "lon": -117.39813,
+      "a": 3412,
+      "g": 2
      }
     ]
    },
@@ -20582,9 +20612,9 @@
     "model_rank": 1.0,
     "recipe_rank": 0.995,
     "nearest_find": {
-     "km": 43.1,
-     "name": "Tyee Placer",
-     "source": "mrds"
+     "km": 43.2,
+     "name": "Tyee Placer, Elk City Mining District, Idaho County, Idaho, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -20616,7 +20646,7 @@
      "granite under thin cover"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 43.1,
+    "nearest_find_km": 43.2,
     "landmark": null,
     "also": [],
     "look": [
@@ -20642,8 +20672,8 @@
     "recipe_rank": 0.995,
     "nearest_find": {
      "km": 22.5,
-     "name": "Dutch John Lease",
-     "source": "mrds"
+     "name": "Dutch John Prospect, Methow Mining District, Okanogan County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -20711,8 +20741,8 @@
     "recipe_rank": 0.995,
     "nearest_find": {
      "km": 10.4,
-     "name": "Dutch John Lease",
-     "source": "mrds"
+     "name": "Dutch John Prospect, Methow Mining District, Okanogan County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -20888,8 +20918,8 @@
     "recipe_rank": 0.994,
     "nearest_find": {
      "km": 29.4,
-     "name": "Fuller Property",
-     "source": "mrds"
+     "name": "Fuller Mine, Methow Mining District, Okanogan County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -21111,9 +21141,9 @@
     "model_rank": 1.0,
     "recipe_rank": 0.992,
     "nearest_find": {
-     "km": 51.0,
-     "name": "Tyee Placer",
-     "source": "mrds"
+     "km": 51.1,
+     "name": "Tyee Placer, Elk City Mining District, Idaho County, Idaho, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -21145,7 +21175,7 @@
      "granite under thin cover"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 51.0,
+    "nearest_find_km": 51.1,
     "landmark": null,
     "also": [],
     "look": [
@@ -21170,9 +21200,9 @@
     "model_rank": 0.994,
     "recipe_rank": 0.997,
     "nearest_find": {
-     "km": 22.4,
-     "name": "Indian Creek Cinnabar Property",
-     "source": "mrds"
+     "km": 22.3,
+     "name": "Indian Creek Prospect (Indian Creek Cinnabar prospect; Indian Creek Mecury prospect), Indian Creek, Yakima County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -21204,7 +21234,7 @@
      "andesite/dacite volcanics"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 22.4,
+    "nearest_find_km": 22.3,
     "landmark": null,
     "also": [],
     "look": []
@@ -21266,9 +21296,9 @@
     "model_rank": 0.999,
     "recipe_rank": 0.991,
     "nearest_find": {
-     "km": 45.6,
-     "name": "Tyee Placer",
-     "source": "mrds"
+     "km": 45.7,
+     "name": "Tyee Placer, Elk City Mining District, Idaho County, Idaho, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -21300,7 +21330,7 @@
      "granite under thin cover"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 45.6,
+    "nearest_find_km": 45.7,
     "landmark": null,
     "also": [],
     "look": []
@@ -21314,9 +21344,9 @@
     "model_rank": 0.99,
     "recipe_rank": 0.998,
     "nearest_find": {
-     "km": 32.7,
-     "name": "Burnt Cabin Prospect",
-     "source": "mrds"
+     "km": 32.9,
+     "name": "Burnt Cabin Prospect, Little North Fork Mining District, Kootenai County, Idaho, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -21348,7 +21378,7 @@
      "granite under thin cover"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 32.7,
+    "nearest_find_km": 32.9,
     "landmark": null,
     "also": [],
     "look": [
@@ -21383,9 +21413,9 @@
     "model_rank": 0.994,
     "recipe_rank": 0.992,
     "nearest_find": {
-     "km": 13.0,
-     "name": "Hard Climb Prospect",
-     "source": "mrds"
+     "km": 12.9,
+     "name": "Hard Climb Prospect, Unorganized District, Valley - Lemhi Co. Line Area, Lemhi County, Idaho, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -21417,7 +21447,7 @@
      "granite under thin cover"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 13.0,
+    "nearest_find_km": 12.9,
     "landmark": null,
     "also": [],
     "look": []
@@ -21432,8 +21462,8 @@
     "recipe_rank": 0.989,
     "nearest_find": {
      "km": 6.0,
-     "name": "Hard Climb Prospect",
-     "source": "mrds"
+     "name": "Hard Climb Prospect, Unorganized District, Valley - Lemhi Co. Line Area, Lemhi County, Idaho, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -21885,8 +21915,8 @@
     "recipe_rank": 0.985,
     "nearest_find": {
      "km": 6.1,
-     "name": "Picket Pin",
-     "source": "mrds"
+     "name": "Picket Pins prospect (Picket Pin occurrence), Sweet Grass County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -21980,9 +22010,9 @@
     "model_rank": 0.989,
     "recipe_rank": 0.987,
     "nearest_find": {
-     "km": 15.7,
-     "name": "East Brownlee Creek",
-     "source": "mrds"
+     "km": 15.8,
+     "name": "East Brownlee Creek Prospect Pits, Cuddy Mountain Mining District, Washington County, Idaho, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -22014,7 +22044,7 @@
      "dark iron-rich rock seen from orbit"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 15.7,
+    "nearest_find_km": 15.8,
     "landmark": null,
     "also": [],
     "look": [
@@ -22467,8 +22497,8 @@
     "recipe_rank": 0.984,
     "nearest_find": {
      "km": 4.7,
-     "name": "Black Butte Iron",
-     "source": "mrds"
+     "name": "Black Butte Iron Occurrence (Standard Creek), Black Butte area, Madison County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -22671,8 +22701,8 @@
     "recipe_rank": 1.0,
     "nearest_find": {
      "km": 3.8,
-     "name": "Cougar",
-     "source": "mrds"
+     "name": "Cougar, Entiat Mining District, Chelan County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -22729,8 +22759,8 @@
     "recipe_rank": 1.0,
     "nearest_find": {
      "km": 2.7,
-     "name": "Eureka Claim",
-     "source": "mrds"
+     "name": "Eureka Claim, Oroville Mining District, Okanogan County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -22777,8 +22807,8 @@
     "recipe_rank": 1.0,
     "nearest_find": {
      "km": 14.5,
-     "name": "Cougar",
-     "source": "mrds"
+     "name": "Cougar, Entiat Mining District, Chelan County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -22835,8 +22865,8 @@
     "recipe_rank": 0.999,
     "nearest_find": {
      "km": 3.3,
-     "name": "Carmen Group",
-     "source": "mrds"
+     "name": "Blankenship Prospect, Agnes Creek, Stehekin Mining District, Chelan County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -22940,9 +22970,9 @@
     "model_rank": 0.999,
     "recipe_rank": 0.999,
     "nearest_find": {
-     "km": 4.3,
-     "name": "Comstock",
-     "source": "mrds"
+     "km": 4.4,
+     "name": "Comstock Prospect, Danville Mining District, Ferry County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -22974,7 +23004,7 @@
      "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 4.3,
+    "nearest_find_km": 4.4,
     "landmark": null,
     "also": [],
     "look": []
@@ -23036,9 +23066,9 @@
     "model_rank": 1.0,
     "recipe_rank": 0.999,
     "nearest_find": {
-     "km": 8.4,
-     "name": "Eureka",
-     "source": "mrds"
+     "km": 8.3,
+     "name": "Eureka Claim, Silverton Mining District, Snohomish County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -23069,7 +23099,7 @@
      "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 8.4,
+    "nearest_find_km": 8.3,
     "landmark": null,
     "also": [],
     "look": []
@@ -23084,8 +23114,8 @@
     "recipe_rank": 0.999,
     "nearest_find": {
      "km": 2.9,
-     "name": "Troyer Mine",
-     "source": "mrds"
+     "name": "Troyer Mine, Metaline Mining District, Pend Oreille County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -23202,8 +23232,8 @@
     "recipe_rank": 0.999,
     "nearest_find": {
      "km": 19.9,
-     "name": "Galena Claim",
-     "source": "mrds"
+     "name": "Galena Claim, Clearwater County, Idaho, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -23250,8 +23280,8 @@
     "recipe_rank": 0.999,
     "nearest_find": {
      "km": 11.1,
-     "name": "Galena Claim",
-     "source": "mrds"
+     "name": "Galena Claim, Clearwater County, Idaho, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -23298,8 +23328,8 @@
     "recipe_rank": 0.999,
     "nearest_find": {
      "km": 7.1,
-     "name": "Golden Road",
-     "source": "mrds"
+     "name": "Golden Road, Gold Hill Mining District, Jackson County, Oregon, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -23346,8 +23376,8 @@
     "recipe_rank": 0.998,
     "nearest_find": {
      "km": 5.7,
-     "name": "Union-Companion Vein, Cornucopia Mine",
-     "source": "mrds"
+     "name": "Union-Companion Mine (Robert Emmet; Elk Creek Gold Mining Company; Forest Queen), Cornucopia, Cornucopia Mining District, Baker County, Oregon, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -23463,9 +23493,9 @@
     "model_rank": 0.999,
     "recipe_rank": 0.994,
     "nearest_find": {
-     "km": 2.5,
-     "name": "Palisades Property",
-     "source": "mrds"
+     "km": 2.6,
+     "name": "Palisades Property, Kootenai County, Idaho, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -23496,7 +23526,7 @@
      "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 2.5,
+    "nearest_find_km": 2.6,
     "landmark": null,
     "also": [],
     "look": []
@@ -23510,9 +23540,9 @@
     "model_rank": 0.997,
     "recipe_rank": 0.996,
     "nearest_find": {
-     "km": 40.5,
-     "name": "Pioneer Deposit",
-     "source": "mrds"
+     "km": 40.4,
+     "name": "Pioneer Deposit, Elk City Mining District, Idaho County, Idaho, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -23543,7 +23573,7 @@
      "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 40.5,
+    "nearest_find_km": 40.4,
     "landmark": null,
     "also": [],
     "look": [
@@ -23569,8 +23599,8 @@
     "recipe_rank": 0.994,
     "nearest_find": {
      "km": 7.1,
-     "name": "Venture Prospect",
-     "source": "mrds"
+     "name": "Del Rio Mine, Buffalo Hump Mining District, Idaho County, Idaho, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -23712,8 +23742,8 @@
     "recipe_rank": 0.999,
     "nearest_find": {
      "km": 8.6,
-     "name": "Galena Claim",
-     "source": "mrds"
+     "name": "Galena Claim, Clearwater County, Idaho, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -24006,9 +24036,9 @@
     "model_rank": 0.989,
     "recipe_rank": 0.998,
     "nearest_find": {
-     "km": 3.9,
-     "name": "Rainbow",
-     "source": "mrds"
+     "km": 4.0,
+     "name": "Pedro Mountain Silver Prospects (Monumental; Green Discovery; Rising Sun Veins; Washington Vein), Rye Valley Mining District (Mormon Basin Mining District), Baker County, Oregon, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -24040,7 +24070,7 @@
      "high manganese in creek mud"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 3.9,
+    "nearest_find_km": 4.0,
     "landmark": null,
     "also": [],
     "look": []
@@ -24198,8 +24228,8 @@
     "recipe_rank": 0.964,
     "nearest_find": {
      "km": 4.9,
-     "name": "Templeman Claim",
-     "source": "mrds"
+     "name": "Templeman Claim, Highland Mining District (Siberia Mining District), Silver Bow County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -24246,8 +24276,8 @@
     "recipe_rank": 0.965,
     "nearest_find": {
      "km": 2.3,
-     "name": "Galena",
-     "source": "mrds"
+     "name": "Galena, Yogo, Judith Basin County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -24293,9 +24323,9 @@
     "model_rank": 0.996,
     "recipe_rank": 0.963,
     "nearest_find": {
-     "km": 20.3,
-     "name": "Sulliran and Stewart Claims.",
-     "source": "mrds"
+     "km": 20.2,
+     "name": "Sullivan and Stewart Claims, Confederate Gulch Mining District (Backer Mining District; Canton Mining District; Diamond City Mining District), Broadwater County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -24327,7 +24357,7 @@
      "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 20.3,
+    "nearest_find_km": 20.2,
     "landmark": null,
     "also": [],
     "look": []
@@ -24390,8 +24420,8 @@
     "recipe_rank": 0.963,
     "nearest_find": {
      "km": 10.5,
-     "name": "Sulliran and Stewart Claims.",
-     "source": "mrds"
+     "name": "Sullivan and Stewart Claims, Confederate Gulch Mining District (Backer Mining District; Canton Mining District; Diamond City Mining District), Broadwater County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -24438,8 +24468,8 @@
     "recipe_rank": 0.96,
     "nearest_find": {
      "km": 2.2,
-     "name": "Castle Mtn",
-     "source": "mrds"
+     "name": "Castle Mountain, Castle Mountain Mining District, Meagher County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -24486,8 +24516,8 @@
     "recipe_rank": 0.958,
     "nearest_find": {
      "km": 6.4,
-     "name": "Sunshine Mine",
-     "source": "mrds"
+     "name": "Sunshine Mine (Best; August-September; Tungstar Mine; Tarlach Mine; Pearl), Anaconda Range, Deer Lodge County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -24896,9 +24926,9 @@
     "model_rank": 1.0,
     "recipe_rank": 0.997,
     "nearest_find": {
-     "km": 9.3,
-     "name": "Glacier Peak",
-     "source": "mrds"
+     "km": 9.4,
+     "name": "Glacier Peak Mine, Glacier Peak Mining District, Snohomish County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -24930,7 +24960,7 @@
      "deep cover over bedrock"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 9.3,
+    "nearest_find_km": 9.4,
     "landmark": null,
     "also": [],
     "look": [
@@ -24956,8 +24986,8 @@
     "recipe_rank": 0.998,
     "nearest_find": {
      "km": 4.9,
-     "name": "Three F Mine",
-     "source": "mrds"
+     "name": "Three F Mine, Chiwawa Mining District, Chelan County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -25189,9 +25219,9 @@
     "model_rank": 0.996,
     "recipe_rank": 0.998,
     "nearest_find": {
-     "km": 4.9,
-     "name": "Magnetic",
-     "source": "mrds"
+     "km": 4.8,
+     "name": "Magnetic Mine, Buckhorn Mountain, Myer Creek Mining District, Okanogan County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -25223,7 +25253,7 @@
      "deep cover over bedrock"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 4.9,
+    "nearest_find_km": 4.8,
     "landmark": null,
     "also": [],
     "look": [
@@ -25249,8 +25279,8 @@
     "recipe_rank": 0.995,
     "nearest_find": {
      "km": 2.9,
-     "name": "Regina",
-     "source": "mrds"
+     "name": "McNally Mine, Orient Mining District, Stevens County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -25357,7 +25387,7 @@
     "nearest_find": {
      "km": 2.2,
      "name": "Lucky Gulch",
-     "source": "mrds"
+     "source": "milo"
     },
     "parts": {
      "finds": 0.0,
@@ -25452,7 +25482,7 @@
     "nearest_find": {
      "km": 22.7,
      "name": "Flagstaff Butte",
-     "source": "mrds"
+     "source": "milo"
     },
     "parts": {
      "finds": 0.0,
@@ -25653,7 +25683,7 @@
     "nearest_find": {
      "km": 3.7,
      "name": "Skinner Mine",
-     "source": "mrds"
+     "source": "milo"
     },
     "parts": {
      "finds": 0.0,
@@ -26441,7 +26471,7 @@
     "nearest_find": {
      "km": 9.1,
      "name": "Coons Canyon",
-     "source": "mrds"
+     "source": "igs"
     },
     "parts": {
      "finds": 0.0,
@@ -26951,8 +26981,8 @@
     "recipe_rank": 0.997,
     "nearest_find": {
      "km": 12.5,
-     "name": "Monument Peak",
-     "source": "mrds"
+     "name": "Monument Peak, Hidden Lakes Mining District, Okanogan County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -27069,8 +27099,8 @@
     "recipe_rank": 0.996,
     "nearest_find": {
      "km": 14.1,
-     "name": "Monument Peak",
-     "source": "mrds"
+     "name": "Monument Peak, Hidden Lakes Mining District, Okanogan County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -27128,8 +27158,8 @@
     "recipe_rank": 0.997,
     "nearest_find": {
      "km": 2.8,
-     "name": "Green Lake Mo Deposit",
-     "source": "mrds"
+     "name": "Green Lake Mo Deposit, Conconully Mining District, Okanogan County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -27196,9 +27226,9 @@
     "model_rank": 0.999,
     "recipe_rank": 0.995,
     "nearest_find": {
-     "km": 6.0,
-     "name": "Holden Mine",
-     "source": "mrds"
+     "km": 5.8,
+     "name": "Holden Mine, Railroad Creek Mining District, Chelan County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -27230,7 +27260,7 @@
      "canyon walls or cliffs nearby"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 6.0,
+    "nearest_find_km": 5.8,
     "landmark": null,
     "also": [],
     "look": [
@@ -27256,8 +27286,8 @@
     "recipe_rank": 0.999,
     "nearest_find": {
      "km": 10.6,
-     "name": "Holden Mine",
-     "source": "mrds"
+     "name": "Holden Mine, Railroad Creek Mining District, Chelan County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -27383,9 +27413,9 @@
     "model_rank": 0.997,
     "recipe_rank": 0.995,
     "nearest_find": {
-     "km": 11.5,
-     "name": "Red Mountain",
-     "source": "mrds"
+     "km": 11.6,
+     "name": "Red Mountain, Chiwawa Mining District, Chelan County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -27417,7 +27447,7 @@
      "granite under thin cover"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 11.5,
+    "nearest_find_km": 11.6,
     "landmark": null,
     "also": [],
     "look": [
@@ -27501,9 +27531,9 @@
     "model_rank": 0.986,
     "recipe_rank": 0.99,
     "nearest_find": {
-     "km": 69.6,
-     "name": "Logger Claims Group",
-     "source": "mrds"
+     "km": 69.7,
+     "name": "Logger Claims Group {Logger Bugle Ridge Group}, Anaconda Range, Ravalli County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -27535,7 +27565,7 @@
      "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 69.6,
+    "nearest_find_km": 69.7,
     "landmark": null,
     "also": [],
     "look": [
@@ -27560,9 +27590,9 @@
     "model_rank": 0.976,
     "recipe_rank": 0.999,
     "nearest_find": {
-     "km": 194.0,
-     "name": "Seven L. Moly Prospect",
-     "source": "mrds"
+     "km": 193.9,
+     "name": "Seven L. Moly Prospect, Ashland Mining District, Jackson County, Oregon, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -27594,7 +27624,7 @@
      "kaolinite clay (acid alteration) seen by the EMIT spectrometer"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 194.0,
+    "nearest_find_km": 193.9,
     "landmark": null,
     "also": [],
     "look": []
@@ -27657,8 +27687,8 @@
     "recipe_rank": 0.983,
     "nearest_find": {
      "km": 55.3,
-     "name": "Petsite Mine",
-     "source": "mrds"
+     "name": "Petsite Mine (Knob Hill; Circ Twins), Orogrande Mining District, Idaho County, Idaho, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -27764,8 +27794,8 @@
     "recipe_rank": 0.991,
     "nearest_find": {
      "km": 5.7,
-     "name": "Drum Lummon, Glacier Park",
-     "source": "mrds"
+     "name": "Drum Lummon; Glacier Park Occurrence, Eagle Creek Mining District, Baker County, Oregon, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -27822,9 +27852,9 @@
     "model_rank": 0.987,
     "recipe_rank": 0.987,
     "nearest_find": {
-     "km": 41.5,
-     "name": "Petsite Mine",
-     "source": "mrds"
+     "km": 41.4,
+     "name": "Petsite Mine (Knob Hill; Circ Twins), Orogrande Mining District, Idaho County, Idaho, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -27856,7 +27886,7 @@
      "high thorium in creek mud"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 41.5,
+    "nearest_find_km": 41.4,
     "landmark": null,
     "also": [],
     "look": [
@@ -27881,9 +27911,9 @@
     "model_rank": 0.982,
     "recipe_rank": 0.992,
     "nearest_find": {
-     "km": 23.4,
-     "name": "Molybdenum Occurrence",
-     "source": "mrds"
+     "km": 23.5,
+     "name": "Molybdenum Occurrence (MRDS - 10036491), Galice Mining District, Josephine County, Oregon, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -27915,7 +27945,7 @@
      "deep gravity high"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 23.4,
+    "nearest_find_km": 23.5,
     "landmark": null,
     "also": [],
     "look": []
@@ -27929,9 +27959,9 @@
     "model_rank": 0.979,
     "recipe_rank": 0.993,
     "nearest_find": {
-     "km": 6.0,
-     "name": "Molybdenum Occurrence",
-     "source": "mrds"
+     "km": 6.1,
+     "name": "Molybdenum Occurrence (MRDS - 10036491), Galice Mining District, Josephine County, Oregon, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -27963,7 +27993,7 @@
      "deep gravity high"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 6.0,
+    "nearest_find_km": 6.1,
     "landmark": null,
     "also": [],
     "look": []
@@ -28026,8 +28056,8 @@
     "recipe_rank": 0.985,
     "nearest_find": {
      "km": 3.4,
-     "name": "North Santiam Copper",
-     "source": "mrds"
+     "name": "North Santiam Copper Occurrence, Santiam Mining District (Elkhorn Mining District), Marion County, Oregon, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -28073,9 +28103,9 @@
     "model_rank": 0.997,
     "recipe_rank": 0.971,
     "nearest_find": {
-     "km": 70.4,
-     "name": "Logger Claims Group",
-     "source": "mrds"
+     "km": 70.5,
+     "name": "Logger Claims Group {Logger Bugle Ridge Group}, Anaconda Range, Ravalli County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -28107,7 +28137,7 @@
      "granite under thin cover"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 70.4,
+    "nearest_find_km": 70.5,
     "landmark": null,
     "also": [],
     "look": [
@@ -28180,9 +28210,9 @@
     "model_rank": 0.993,
     "recipe_rank": 0.973,
     "nearest_find": {
-     "km": 8.4,
-     "name": "Molybdenite occurrence",
-     "source": "milo"
+     "km": 8.5,
+     "name": "Molybdenite Occurrence (MRDS - 10036688), Rock Creek Mining District, Baker County, Oregon, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -28214,7 +28244,7 @@
      "granite under thin cover"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 8.4,
+    "nearest_find_km": 8.5,
     "landmark": null,
     "also": [],
     "look": [
@@ -28442,9 +28472,9 @@
     "model_rank": 0.976,
     "recipe_rank": 0.978,
     "nearest_find": {
-     "km": 78.8,
-     "name": "Red Cloud Group",
-     "source": "mrds"
+     "km": 78.9,
+     "name": "Red Cloud group (Crescent; Lead King), First Choice Mining District (Garnet Mining District), Granite County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -28476,7 +28506,7 @@
      "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 78.8,
+    "nearest_find_km": 78.9,
     "landmark": null,
     "also": [],
     "look": [
@@ -28560,9 +28590,9 @@
     "model_rank": 0.952,
     "recipe_rank": 0.993,
     "nearest_find": {
-     "km": 78.8,
-     "name": "Red Cloud Group",
-     "source": "mrds"
+     "km": 78.9,
+     "name": "Red Cloud group (Crescent; Lead King), First Choice Mining District (Garnet Mining District), Granite County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -28594,7 +28624,7 @@
      "far from dikes"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 78.8,
+    "nearest_find_km": 78.9,
     "landmark": null,
     "also": [],
     "look": [
@@ -28619,9 +28649,9 @@
     "model_rank": 1.0,
     "recipe_rank": 0.934,
     "nearest_find": {
-     "km": 12.6,
-     "name": "Lower Seymour Lk Mo Occ",
-     "source": "mrds"
+     "km": 12.5,
+     "name": "Lower Seymour Lake Mo Occurrence, Anaconda Range, Deer Lodge County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -28654,7 +28684,7 @@
      "clay alteration seen from orbit"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 12.6,
+    "nearest_find_km": 12.5,
     "landmark": null,
     "also": [],
     "look": []
@@ -28717,8 +28747,8 @@
     "recipe_rank": 0.928,
     "nearest_find": {
      "km": 5.5,
-     "name": "Lower Seymour Lk Mo Occ",
-     "source": "mrds"
+     "name": "Lower Seymour Lake Mo Occurrence, Anaconda Range, Deer Lodge County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -28765,8 +28795,8 @@
     "recipe_rank": 0.93,
     "nearest_find": {
      "km": 5.5,
-     "name": "E.G. Prospect",
-     "source": "mrds"
+     "name": "E. G. Prospect, Flint Creek Range Area, Powell County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -28813,8 +28843,8 @@
     "recipe_rank": 0.924,
     "nearest_find": {
      "km": 8.9,
-     "name": "Overlook",
-     "source": "mrds"
+     "name": "Overlook Occurrence (Denny Prospect; Iron Cliff), Highland Mining District (Siberia Mining District), Silver Bow County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -28862,8 +28892,8 @@
     "recipe_rank": 0.934,
     "nearest_find": {
      "km": 11.7,
-     "name": "Nickelodeon",
-     "source": "mrds"
+     "name": "Nickelodeon occurrence, Boulder Mining District, Boulder Batholith, Jefferson County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -28910,8 +28940,8 @@
     "recipe_rank": 0.929,
     "nearest_find": {
      "km": 2.2,
-     "name": "Bobsled and O.C.J. Claims",
-     "source": "mrds"
+     "name": "Bobsled and O.C.J. Claims, Pioneer Mining District, Beaverhead County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -29008,8 +29038,8 @@
     "recipe_rank": 1.0,
     "nearest_find": {
      "km": 39.3,
-     "name": "Mondovi, Lincoln County, Washington, USA",
-     "source": "mindat"
+     "name": "Mondovi, Lincoln County",
+     "source": "hand_sweep"
     },
     "parts": {
      "finds": 0.0,
@@ -29162,9 +29192,9 @@
     "model_rank": 0.999,
     "recipe_rank": 0.996,
     "nearest_find": {
-     "km": 44.1,
-     "name": "School Creek Prospect",
-     "source": "mrds"
+     "km": 44.2,
+     "name": "School Creek Prospect, Lake County, Oregon, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -29196,7 +29226,7 @@
      "high gold in creek mud"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 44.1,
+    "nearest_find_km": 44.2,
     "landmark": null,
     "also": [],
     "look": []
@@ -29210,9 +29240,9 @@
     "model_rank": 0.999,
     "recipe_rank": 0.995,
     "nearest_find": {
-     "km": 22.6,
-     "name": "School Creek Prospect",
-     "source": "mrds"
+     "km": 22.7,
+     "name": "School Creek Prospect, Lake County, Oregon, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -29244,7 +29274,7 @@
      "andesite/dacite volcanics"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 22.6,
+    "nearest_find_km": 22.7,
     "landmark": null,
     "also": [],
     "look": []
@@ -29403,8 +29433,8 @@
     "recipe_rank": 0.997,
     "nearest_find": {
      "km": 27.1,
-     "name": "Juniper Ridge Opal Mine",
-     "source": "milo"
+     "name": "Juniper Ridge Opal Mine, Lake County, Oregon, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -29772,6 +29802,54 @@
     ]
    },
    {
+    "lat": 47.48729,
+    "lon": -118.56831,
+    "score": 99,
+    "hot": 99,
+    "finds_2km": 0,
+    "model_rank": 0.99,
+    "recipe_rank": 0.999,
+    "nearest_find": {
+     "km": 47.0,
+     "name": "Mondovi, Lincoln County",
+     "source": "hand_sweep"
+    },
+    "parts": {
+     "finds": 0.0,
+     "rock": 0.99,
+     "ground": 1.0,
+     "dumps": null
+    },
+    "road_km": 0.23,
+    "road": "a dirt track (4WD)",
+    "road_class": "a dirt track (4WD)",
+    "town": "Lamona",
+    "town_km": 15.6,
+    "spokane_km": 88,
+    "land": "likely",
+    "grade": 2,
+    "legal": "river_grey",
+    "state": "WA",
+    "rank_sd": 0.033,
+    "known_find_here": false,
+    "support": "guess",
+    "access": {
+     "diggable": true,
+     "crest": false,
+     "cliff": false
+    },
+    "why": [
+     "the geology recipe for this stone scores it in its top 10%",
+     "high gold in creek mud",
+     "high tin in creek mud"
+    ],
+    "area_km2": 1.0,
+    "nearest_find_km": 47.0,
+    "landmark": null,
+    "also": [],
+    "look": []
+   },
+   {
     "lat": 42.06605,
     "lon": -115.39807,
     "score": 99,
@@ -29863,54 +29941,6 @@
     ],
     "area_km2": 1.0,
     "nearest_find_km": 9.8,
-    "landmark": null,
-    "also": [],
-    "look": []
-   },
-   {
-    "lat": 47.49108,
-    "lon": -118.57915,
-    "score": 99,
-    "hot": 99,
-    "finds_2km": 0,
-    "model_rank": 0.986,
-    "recipe_rank": 1.0,
-    "nearest_find": {
-     "km": 47.5,
-     "name": "Mondovi, Lincoln County",
-     "source": "hand_sweep"
-    },
-    "parts": {
-     "finds": 0.0,
-     "rock": 0.99,
-     "ground": 1.0,
-     "dumps": null
-    },
-    "road_km": 0.91,
-    "road": "a dirt track (4WD)",
-    "road_class": "a dirt track (4WD)",
-    "town": "Lamona",
-    "town_km": 16.3,
-    "spokane_km": 88,
-    "land": "go",
-    "grade": 1,
-    "legal": "ok",
-    "state": "WA",
-    "rank_sd": 0.023,
-    "known_find_here": false,
-    "support": "guess",
-    "access": {
-     "diggable": true,
-     "crest": false,
-     "cliff": false
-    },
-    "why": [
-     "the geology recipe for this stone scores it in its top 10%",
-     "high tin in creek mud",
-     "high gold in creek mud"
-    ],
-    "area_km2": 1.0,
-    "nearest_find_km": 47.5,
     "landmark": null,
     "also": [],
     "look": []
@@ -30244,6 +30274,66 @@
     "landmark": null,
     "also": [],
     "look": []
+   },
+   {
+    "lat": 47.32299,
+    "lon": -117.70493,
+    "score": 99,
+    "hot": 99,
+    "finds_2km": 0,
+    "model_rank": 0.991,
+    "recipe_rank": 0.992,
+    "nearest_find": {
+     "km": 42.8,
+     "name": "Spokane, Spokane County, Washington, USA",
+     "source": "mindat"
+    },
+    "parts": {
+     "finds": 0.0,
+     "rock": 0.99,
+     "ground": 1.0,
+     "dumps": null
+    },
+    "road_km": 0.09,
+    "road": "a local road",
+    "road_class": "a local road",
+    "town": "Amber",
+    "town_km": 3.2,
+    "spokane_km": 43,
+    "land": "likely",
+    "grade": 2,
+    "legal": "river_grey",
+    "state": "WA",
+    "rank_sd": 0.015,
+    "known_find_here": false,
+    "support": "guess",
+    "access": {
+     "diggable": true,
+     "crest": false,
+     "cliff": false
+    },
+    "why": [
+     "the geology recipe for this stone scores it in its top 10%",
+     "the satellite land-cover fingerprint (AlphaEarth) resembles known sites",
+     "high gold in creek mud",
+     "high tin in creek mud"
+    ],
+    "area_km2": 1.0,
+    "nearest_find_km": 42.8,
+    "landmark": null,
+    "also": [],
+    "look": [
+     {
+      "k": "crag",
+      "label": "rock outcrop",
+      "km": 0.05,
+      "dir": "N",
+      "lat": 47.32345,
+      "lon": -117.70512,
+      "a": 732,
+      "g": 4
+     }
+    ]
    },
    {
     "lat": 42.15011,
@@ -30586,65 +30676,6 @@
     "look": []
    },
    {
-    "lat": 47.7502,
-    "lon": -117.63676,
-    "score": 99,
-    "hot": 99,
-    "finds_2km": 0,
-    "model_rank": 0.989,
-    "recipe_rank": 0.991,
-    "nearest_find": {
-     "km": 18.3,
-     "name": "Spokane County, Washington, USA",
-     "source": "mindat"
-    },
-    "parts": {
-     "finds": 0.0,
-     "rock": 0.99,
-     "ground": 0.97,
-     "dumps": null
-    },
-    "road_km": 0.18,
-    "road": "a local road",
-    "road_class": "a local road",
-    "town": "Nine Mile Falls",
-    "town_km": 7.4,
-    "spokane_km": 19,
-    "land": "go",
-    "grade": 1,
-    "legal": "ok",
-    "state": "WA",
-    "rank_sd": 0.025,
-    "known_find_here": false,
-    "support": "near",
-    "access": {
-     "diggable": true,
-     "crest": false,
-     "cliff": false
-    },
-    "why": [
-     "the geology recipe for this stone scores it in its top 10%",
-     "high gold in creek mud",
-     "high tin in creek mud"
-    ],
-    "area_km2": 1.0,
-    "nearest_find_km": 18.3,
-    "landmark": null,
-    "also": [],
-    "look": [
-     {
-      "k": "crag",
-      "label": "rock outcrop",
-      "km": 1.08,
-      "dir": "S",
-      "lat": 47.74059,
-      "lon": -117.63441,
-      "a": 576,
-      "g": 4
-     }
-    ]
-   },
-   {
     "lat": 44.70692,
     "lon": -111.71708,
     "score": 97,
@@ -30703,7 +30734,7 @@
     "nearest_find": {
      "km": 39.2,
      "name": "Spencer Opal Mine",
-     "source": "mrds"
+     "source": "igs"
     },
     "parts": {
      "finds": 0.0,
@@ -30799,7 +30830,7 @@
     "nearest_find": {
      "km": 18.7,
      "name": "Spencer Opal Mine",
-     "source": "mrds"
+     "source": "igs"
     },
     "parts": {
      "finds": 0.0,
@@ -30892,9 +30923,9 @@
     "model_rank": 0.974,
     "recipe_rank": 0.896,
     "nearest_find": {
-     "km": 33.4,
-     "name": "Dutro Mine",
-     "source": "mrds"
+     "km": 33.5,
+     "name": "Dutro Mine (Old Dominion), Blue Cloud Mining District, Lewis and Clark County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -30925,7 +30956,7 @@
      "rhyolite or tuff under thin cover"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 33.4,
+    "nearest_find_km": 33.5,
     "landmark": null,
     "also": [],
     "look": []
@@ -31145,8 +31176,8 @@
     "recipe_rank": 0.99,
     "nearest_find": {
      "km": 5.0,
-     "name": "Elk-Mica Silica Depoist",
-     "source": "mrds"
+     "name": "Elk Mica Silica Deposit, Spokane County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -31380,9 +31411,9 @@
     "model_rank": 0.992,
     "recipe_rank": 0.99,
     "nearest_find": {
-     "km": 12.8,
-     "name": "Indian Creek",
-     "source": "mrds"
+     "km": 12.7,
+     "name": "Indian Creek Mica Occurrence, Entiat Mining District, Chelan County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -31415,7 +31446,7 @@
      "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 12.8,
+    "nearest_find_km": 12.7,
     "landmark": null,
     "also": [],
     "look": [
@@ -31438,6 +31469,76 @@
       "lon": -120.38033,
       "a": 548,
       "g": 1
+     }
+    ]
+   },
+   {
+    "lat": 47.76143,
+    "lon": -117.09588,
+    "score": 99,
+    "hot": 99,
+    "finds_2km": 0,
+    "model_rank": 0.991,
+    "recipe_rank": 0.99,
+    "nearest_find": {
+     "km": 8.2,
+     "name": "Greenland Prospect, Newman Lake, Spokane County, Washington, USA",
+     "source": "mindat"
+    },
+    "parts": {
+     "finds": 0.0,
+     "rock": 0.99,
+     "ground": 0.72,
+     "dumps": null
+    },
+    "road_km": 0.03,
+    "road": "N Honeymoon Bay Rd (a local road)",
+    "road_class": "a local road",
+    "town": "Newman Lake",
+    "town_km": 1.7,
+    "spokane_km": 27,
+    "land": "likely",
+    "grade": 2,
+    "legal": "river_grey",
+    "state": "WA",
+    "rank_sd": 0.007,
+    "known_find_here": false,
+    "support": "proven",
+    "access": {
+     "diggable": true,
+     "crest": false,
+     "cliff": false
+    },
+    "why": [
+     "the geology recipe for this stone scores it in its top 10%",
+     "schist or gneiss under cover",
+     "high barium in creek mud",
+     "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
+    ],
+    "area_km2": 1.0,
+    "nearest_find_km": 8.2,
+    "landmark": null,
+    "also": [],
+    "look": [
+     {
+      "k": "road_cut",
+      "label": "road cut",
+      "km": 0.01,
+      "dir": "SE",
+      "lat": 47.76138,
+      "lon": -117.09584,
+      "a": 692,
+      "g": 2
+     },
+     {
+      "k": "crag",
+      "label": "rock outcrop",
+      "km": 0.59,
+      "dir": "N",
+      "lat": 47.76672,
+      "lon": -117.09718,
+      "a": 1000,
+      "g": 2
      }
     ]
    },
@@ -31591,8 +31692,8 @@
     "recipe_rank": 0.996,
     "nearest_find": {
      "km": 2.8,
-     "name": "Keefer Brothers",
-     "source": "mrds"
+     "name": "Spider Gap Schorl Occurrence, Railroad Creek Mining District, Chelan County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -31647,66 +31748,6 @@
       "lat": 48.16945,
       "lon": -120.92148,
       "a": 2660,
-      "g": 1
-     }
-    ]
-   },
-   {
-    "lat": 48.90333,
-    "lon": -119.29292,
-    "score": 99,
-    "hot": 99,
-    "finds_2km": 0,
-    "model_rank": 0.98,
-    "recipe_rank": 0.999,
-    "nearest_find": {
-     "km": 22.9,
-     "name": "Oroville",
-     "source": "mrds"
-    },
-    "parts": {
-     "finds": 0.0,
-     "rock": 0.98,
-     "ground": 0.66,
-     "dumps": null
-    },
-    "road_km": 0.15,
-    "road": "NFS Rd 3525 (a local road)",
-    "road_class": "a local road",
-    "town": "Cordell",
-    "town_km": 9.7,
-    "spokane_km": 196,
-    "land": "go",
-    "grade": 1,
-    "legal": "ok",
-    "state": "WA",
-    "rank_sd": 0.012,
-    "known_find_here": false,
-    "support": "near",
-    "access": {
-     "diggable": true,
-     "crest": false,
-     "cliff": false
-    },
-    "why": [
-     "the geology recipe for this stone scores it in its top 10%",
-     "schist or gneiss in the unit description",
-     "the satellite land-cover fingerprint (AlphaEarth) resembles known sites",
-     "far from dikes"
-    ],
-    "area_km2": 1.0,
-    "nearest_find_km": 22.9,
-    "landmark": null,
-    "also": [],
-    "look": [
-     {
-      "k": "crag",
-      "label": "rock outcrop",
-      "km": 1.63,
-      "dir": "E",
-      "lat": 48.90832,
-      "lon": -119.27196,
-      "a": 2292,
       "g": 1
      }
     ]
@@ -31819,6 +31860,66 @@
     "landmark": null,
     "also": [],
     "look": []
+   },
+   {
+    "lat": 47.78308,
+    "lon": -117.03378,
+    "score": 98,
+    "hot": 98,
+    "finds_2km": 0,
+    "model_rank": 0.981,
+    "recipe_rank": 0.988,
+    "nearest_find": {
+     "km": 8.8,
+     "name": "Greenland Prospect, Newman Lake, Spokane County, Washington, USA",
+     "source": "mindat"
+    },
+    "parts": {
+     "finds": 0.0,
+     "rock": 0.98,
+     "ground": 0.69,
+     "dumps": null
+    },
+    "road_km": 0.01,
+    "road": "W Paddlewheel Ln (a local road)",
+    "road_class": "a local road",
+    "town": "Hauser",
+    "town_km": 1.2,
+    "spokane_km": 32,
+    "land": "go",
+    "grade": 1,
+    "legal": "river_open",
+    "state": "ID",
+    "rank_sd": 0.015,
+    "known_find_here": false,
+    "support": "proven",
+    "access": {
+     "diggable": true,
+     "crest": false,
+     "cliff": false
+    },
+    "why": [
+     "the geology recipe for this stone scores it in its top 10%",
+     "schist or gneiss under cover",
+     "schist or gneiss in the unit description",
+     "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
+    ],
+    "area_km2": 1.0,
+    "nearest_find_km": 8.8,
+    "landmark": null,
+    "also": [],
+    "look": [
+     {
+      "k": "crag",
+      "label": "rock outcrop",
+      "km": 0.46,
+      "dir": "W",
+      "lat": 47.78164,
+      "lon": -117.03956,
+      "a": 1224,
+      "g": 4
+     }
+    ]
    },
    {
     "lat": 46.81489,
@@ -32218,8 +32319,8 @@
     "recipe_rank": 0.998,
     "nearest_find": {
      "km": 2.6,
-     "name": "Kouba Pegmatite Property",
-     "source": "mrds"
+     "name": "M. J. Kouba Pegmatite Property, Idaho County, Idaho, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -32316,66 +32417,6 @@
     "landmark": null,
     "also": [],
     "look": []
-   },
-   {
-    "lat": 48.43688,
-    "lon": -116.78179,
-    "score": 97,
-    "hot": 97,
-    "finds_2km": 0,
-    "model_rank": 0.985,
-    "recipe_rank": 0.961,
-    "nearest_find": {
-     "km": 6.5,
-     "name": "Soldier Creek Prospects",
-     "source": "igs"
-    },
-    "parts": {
-     "finds": 0.0,
-     "rock": 0.98,
-     "ground": 0.79,
-     "dumps": null
-    },
-    "road_km": 0.25,
-    "road": "a local road",
-    "road_class": "a local road",
-    "town": "Coolin",
-    "town_km": 6.9,
-    "spokane_km": 99,
-    "land": "ask",
-    "grade": 3,
-    "legal": "state_permit",
-    "state": "ID",
-    "rank_sd": 0.011,
-    "known_find_here": false,
-    "support": "proven",
-    "access": {
-     "diggable": true,
-     "crest": false,
-     "cliff": false
-    },
-    "why": [
-     "the geology recipe for this stone scores it in its top 10%",
-     "schist or gneiss under cover",
-     "the satellite land-cover fingerprint (AlphaEarth) resembles known sites",
-     "schist or gneiss in the unit description"
-    ],
-    "area_km2": 1.0,
-    "nearest_find_km": 6.5,
-    "landmark": null,
-    "also": [],
-    "look": [
-     {
-      "k": "crag",
-      "label": "rock outcrop",
-      "km": 0.47,
-      "dir": "NE",
-      "lat": 48.44039,
-      "lon": -116.77825,
-      "a": 2060,
-      "g": 3
-     }
-    ]
    },
    {
     "lat": 42.68845,
@@ -32544,9 +32585,9 @@
     "model_rank": 0.967,
     "recipe_rank": 0.956,
     "nearest_find": {
-     "km": 8.7,
-     "name": "Alport Mine",
-     "source": "mrds"
+     "km": 8.8,
+     "name": "Alport Mine (All Port Mine), Cataract Mining District (Comet Mining District; Basin Mining District), Jefferson County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -32579,7 +32620,7 @@
      "high lithium in creek mud"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 8.7,
+    "nearest_find_km": 8.8,
     "landmark": null,
     "also": [],
     "look": []
@@ -32799,8 +32840,8 @@
     "recipe_rank": 0.942,
     "nearest_find": {
      "km": 5.5,
-     "name": "Tucker Hill",
-     "source": "mrds"
+     "name": "Tucker Hill, Lake County, Oregon, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -32897,8 +32938,8 @@
     "recipe_rank": 0.918,
     "nearest_find": {
      "km": 4.2,
-     "name": "Big Indian Mine",
-     "source": "mrds"
+     "name": "Big Indian Mine, Helena Mining District, Jefferson County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -32946,8 +32987,8 @@
     "recipe_rank": 0.949,
     "nearest_find": {
      "km": 2.8,
-     "name": "Unnamed Deposit",
-     "source": "mrds"
+     "name": "Unnamed Feldspar Deposit (MRDS - 10221651), Mineral Hill Mining District (Pony Mining District), Madison County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -33260,6 +33301,53 @@
     "look": []
    },
    {
+    "lat": 44.84353,
+    "lon": -120.41355,
+    "score": 93,
+    "hot": 93,
+    "finds_2km": 0,
+    "model_rank": 0.891,
+    "recipe_rank": 0.972,
+    "nearest_find": {
+     "km": 2.1,
+     "name": "Agate Claim (MRDS - 10054594), Wheeler County, Oregon, USA",
+     "source": "mindat"
+    },
+    "parts": {
+     "finds": 0.0,
+     "rock": 0.89,
+     "ground": 1.0,
+     "dumps": null
+    },
+    "road_km": 1.0,
+    "road": "Clarno Rd (a local road)",
+    "road_class": "a local road",
+    "town": "Clarno",
+    "town_km": 9.1,
+    "spokane_km": 388,
+    "land": "go",
+    "grade": 1,
+    "legal": "ok",
+    "state": "OR",
+    "rank_sd": 0.049,
+    "known_find_here": false,
+    "support": "proven",
+    "access": {
+     "diggable": true,
+     "crest": false,
+     "cliff": false
+    },
+    "why": [
+     "the geology recipe for this stone scores it in its top 10%",
+     "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
+    ],
+    "area_km2": 1.0,
+    "nearest_find_km": 2.1,
+    "landmark": null,
+    "also": [],
+    "look": []
+   },
+   {
     "lat": 44.89344,
     "lon": -118.6455,
     "score": 93,
@@ -33303,54 +33391,6 @@
     ],
     "area_km2": 1.0,
     "nearest_find_km": 15.8,
-    "landmark": null,
-    "also": [],
-    "look": []
-   },
-   {
-    "lat": 44.80604,
-    "lon": -123.45966,
-    "score": 92,
-    "hot": 92,
-    "finds_2km": 0,
-    "model_rank": 0.932,
-    "recipe_rank": 0.916,
-    "nearest_find": {
-     "km": 18.6,
-     "name": "unnamed or NA",
-     "source": "milo"
-    },
-    "parts": {
-     "finds": 0.0,
-     "rock": 0.93,
-     "ground": 0.69,
-     "dumps": null
-    },
-    "road_km": 0.05,
-    "road": "a local road",
-    "road_class": "a local road",
-    "town": "Pedee",
-    "town_km": 6.9,
-    "spokane_km": 562,
-    "land": "go",
-    "grade": 1,
-    "legal": "ok",
-    "state": "OR",
-    "rank_sd": 0.03,
-    "known_find_here": false,
-    "support": "near",
-    "access": {
-     "diggable": true,
-     "crest": true,
-     "cliff": false
-    },
-    "why": [
-     "the geology recipe for this stone scores it in its top 10%",
-     "volcanic glass (obsidian, perlite, welded tuff)",
-     "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
-    ],
-    "area_km2": 1.0,
-    "nearest_find_km": 18.6,
     "landmark": null,
     "also": [],
     "look": []
@@ -33858,6 +33898,65 @@
     ]
    },
    {
+    "lat": 42.11917,
+    "lon": -120.61811,
+    "score": 100,
+    "hot": 100,
+    "finds_2km": 0,
+    "model_rank": 0.998,
+    "recipe_rank": 0.997,
+    "nearest_find": {
+     "km": 28.6,
+     "name": "Warner Canyon",
+     "source": "rockhounding.org"
+    },
+    "parts": {
+     "finds": 0.0,
+     "rock": 1.0,
+     "ground": 1.0,
+     "dumps": null
+    },
+    "road_km": 0.03,
+    "road": "Dog Lake Ln (a local road)",
+    "road_class": "a local road",
+    "town": "West Side",
+    "town_km": 10.2,
+    "spokane_km": 665,
+    "land": "ask",
+    "grade": 3,
+    "legal": "state_permit",
+    "state": "OR",
+    "rank_sd": 0.019,
+    "known_find_here": false,
+    "support": "guess",
+    "access": {
+     "diggable": true,
+     "crest": false,
+     "cliff": false
+    },
+    "why": [
+     "the geology recipe for this stone scores it in its top 10%",
+     "rhyolite or dacite named in the unit",
+     "jarosite (acid sulfate weathering of sulfides) seen by the EMIT spectrometer"
+    ],
+    "area_km2": 1.0,
+    "nearest_find_km": 28.6,
+    "landmark": null,
+    "also": [],
+    "look": [
+     {
+      "k": "gravel_pit",
+      "label": "gravel pit",
+      "km": 0.87,
+      "dir": "W",
+      "lat": 42.11914,
+      "lon": -120.62862,
+      "a": null,
+      "g": 3
+     }
+    ]
+   },
+   {
     "lat": 46.49971,
     "lon": -121.41874,
     "score": 100,
@@ -34073,8 +34172,8 @@
     ]
    },
    {
-    "lat": 43.59441,
-    "lon": -117.31035,
+    "lat": 43.59421,
+    "lon": -117.31156,
     "score": 100,
     "hot": 100,
     "finds_2km": 0,
@@ -34091,15 +34190,15 @@
      "ground": 1.0,
      "dumps": null
     },
-    "road_km": 1.52,
+    "road_km": 1.55,
     "road": "a local road",
     "road_class": "a local road",
     "town": "Adrian",
-    "town_km": 25.2,
+    "town_km": 25.3,
     "spokane_km": 452,
-    "land": "go",
-    "grade": 1,
-    "legal": "ok",
+    "land": "ask",
+    "grade": 3,
+    "legal": "state_permit",
     "state": "OR",
     "rank_sd": 0.007,
     "known_find_here": false,
@@ -34461,15 +34560,15 @@
     ]
    },
    {
-    "lat": 43.637,
-    "lon": -117.22427,
+    "lat": 43.63446,
+    "lon": -117.22857,
     "score": 100,
     "hot": 100,
     "finds_2km": 0,
     "model_rank": 0.997,
     "recipe_rank": 0.994,
     "nearest_find": {
-     "km": 45.0,
+     "km": 44.9,
      "name": "McBride Creek",
      "source": "rockhounding.org"
     },
@@ -34479,22 +34578,22 @@
      "ground": 1.0,
      "dumps": null
     },
-    "road_km": 0.06,
-    "road": "Upper Tunnel Rd (a local road)",
+    "road_km": 0.0,
+    "road": "Owyhee Lake Rd (a local road)",
     "road_class": "a local road",
     "town": "Adrian",
-    "town_km": 16.8,
-    "spokane_km": 447,
-    "land": "go",
-    "grade": 1,
-    "legal": "ok",
+    "town_km": 17.3,
+    "spokane_km": 448,
+    "land": "ask",
+    "grade": 3,
+    "legal": "state_permit",
     "state": "OR",
     "rank_sd": 0.019,
     "known_find_here": false,
     "support": "guess",
     "access": {
      "diggable": true,
-     "crest": true,
+     "crest": false,
      "cliff": false
     },
     "why": [
@@ -34503,7 +34602,7 @@
      "pillow basalt"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 45.0,
+    "nearest_find_km": 44.9,
     "landmark": null,
     "also": [],
     "look": []
@@ -34552,54 +34651,6 @@
     ],
     "area_km2": 1.0,
     "nearest_find_km": 43.3,
-    "landmark": null,
-    "also": [],
-    "look": []
-   },
-   {
-    "lat": 43.83835,
-    "lon": -117.3251,
-    "score": 99,
-    "hot": 99,
-    "finds_2km": 0,
-    "model_rank": 0.994,
-    "recipe_rank": 0.996,
-    "nearest_find": {
-     "km": 46.3,
-     "name": "Brogan",
-     "source": "rockhounding.org"
-    },
-    "parts": {
-     "finds": 0.0,
-     "rock": 0.99,
-     "ground": 0.9,
-     "dumps": null
-    },
-    "road_km": 0.15,
-    "road": "a local road",
-    "road_class": "a local road",
-    "town": "Paris (historical)",
-    "town_km": 11.2,
-    "spokane_km": 425,
-    "land": "go",
-    "grade": 1,
-    "legal": "ok",
-    "state": "OR",
-    "rank_sd": 0.02,
-    "known_find_here": false,
-    "support": "guess",
-    "access": {
-     "diggable": true,
-     "crest": false,
-     "cliff": false
-    },
-    "why": [
-     "the geology recipe for this stone scores it in its top 10%",
-     "rhyolite or dacite named in the unit",
-     "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
-    ],
-    "area_km2": 1.0,
-    "nearest_find_km": 46.3,
     "landmark": null,
     "also": [],
     "look": []
@@ -34711,33 +34762,33 @@
     ]
    },
    {
-    "lat": 45.65811,
-    "lon": -108.70822,
+    "lat": 45.65365,
+    "lon": -108.70737,
     "score": 98,
     "hot": 98,
     "finds_2km": 0,
     "model_rank": 0.986,
     "recipe_rank": 0.98,
     "nearest_find": {
-     "km": 58.0,
+     "km": 57.6,
      "name": "Pryor Mountains",
      "source": "rockhounding.org"
     },
     "parts": {
      "finds": 0.0,
      "rock": 0.99,
-     "ground": 0.4,
+     "ground": 0.45,
      "dumps": null
     },
-    "road_km": 0.29,
+    "road_km": 0.13,
     "road": "N River Rd (a local road)",
     "road_class": "a local road",
     "town": "Mossmain",
-    "town_km": 3.0,
+    "town_km": 3.5,
     "spokane_km": 701,
-    "land": "go",
-    "grade": 1,
-    "legal": "ok",
+    "land": "ask",
+    "grade": 3,
+    "legal": "state_permit",
     "state": "MT",
     "rank_sd": 0.066,
     "known_find_here": false,
@@ -34753,7 +34804,7 @@
      "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 58.0,
+    "nearest_find_km": 57.6,
     "landmark": null,
     "also": [],
     "look": []
@@ -34806,29 +34857,76 @@
     "look": []
    },
    {
-    "lat": 46.28045,
-    "lon": -106.88189,
+    "lat": 43.86476,
+    "lon": -117.00442,
+    "score": 98,
+    "hot": 98,
+    "finds_2km": 0,
+    "model_rank": 0.986,
+    "recipe_rank": 0.979,
+    "nearest_find": {
+     "km": 57.5,
+     "name": "Brogan",
+     "source": "rockhounding.org"
+    },
+    "parts": {
+     "finds": 0.0,
+     "rock": 0.99,
+     "ground": 0.51,
+     "dumps": null
+    },
+    "road_km": 0.31,
+    "road": "11th St S (a local road)",
+    "road_class": "a local road",
+    "town": "Nyssa",
+    "town_km": 1.5,
+    "spokane_km": 423,
+    "land": "go",
+    "grade": 1,
+    "legal": "river_open",
+    "state": "ID",
+    "rank_sd": 0.029,
+    "known_find_here": false,
+    "support": "guess",
+    "access": {
+     "diggable": true,
+     "crest": false,
+     "cliff": false
+    },
+    "why": [
+     "the geology recipe for this stone scores it in its top 10%",
+     "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
+    ],
+    "area_km2": 1.0,
+    "nearest_find_km": 57.5,
+    "landmark": null,
+    "also": [],
+    "look": []
+   },
+   {
+    "lat": 46.28366,
+    "lon": -106.87591,
     "score": 98,
     "hot": 98,
     "finds_2km": 0,
     "model_rank": 0.985,
     "recipe_rank": 0.98,
     "nearest_find": {
-     "km": 30.6,
+     "km": 30.2,
      "name": "Yellowstone River",
      "source": "currently_rockhounding"
     },
     "parts": {
      "finds": 0.0,
      "rock": 0.98,
-     "ground": 0.4,
+     "ground": 0.52,
      "dumps": null
     },
-    "road_km": 1.54,
-    "road": "a local road",
+    "road_km": 1.19,
+    "road": "Sorrenson Ln (a local road)",
     "road_class": "a local road",
-    "town": "Howard (historical)",
-    "town_km": 4.6,
+    "town": "Nichols",
+    "town_km": 5.1,
     "spokane_km": 814,
     "land": "ask",
     "grade": 3,
@@ -34848,15 +34946,15 @@
      "far from dikes"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 30.6,
+    "nearest_find_km": 30.2,
     "landmark": null,
     "also": [],
     "look": [
      {
       "k": "gravel_pit",
       "label": "gravel pit",
-      "km": 1.99,
-      "dir": "N",
+      "km": 1.88,
+      "dir": "NW",
       "lat": 46.29743,
       "lon": -106.89017,
       "a": null,
@@ -35103,29 +35201,29 @@
     "look": []
    },
    {
-    "lat": 45.84212,
-    "lon": -109.9541,
+    "lat": 45.83984,
+    "lon": -109.94972,
     "score": 98,
     "hot": 98,
     "finds_2km": 0,
     "model_rank": 0.982,
     "recipe_rank": 0.978,
     "nearest_find": {
-     "km": 53.4,
+     "km": 53.6,
      "name": "Yellowstone River",
      "source": "rockhounding.org"
     },
     "parts": {
      "finds": 0.0,
      "rock": 0.98,
-     "ground": 0.42,
+     "ground": 0.86,
      "dumps": null
     },
-    "road_km": 0.31,
-    "road": "Yellowstone Ave (a local road)",
+    "road_km": 0.03,
+    "road": "Walnut St (a local road)",
     "road_class": "a local road",
     "town": "Big Timber",
-    "town_km": 0.8,
+    "town_km": 0.7,
     "spokane_km": 604,
     "land": "ask",
     "grade": 3,
@@ -35145,14 +35243,14 @@
      "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 53.4,
+    "nearest_find_km": 53.6,
     "landmark": null,
     "also": [],
     "look": [
      {
       "k": "gravel_pit",
       "label": "gravel pit",
-      "km": 1.23,
+      "km": 0.85,
       "dir": "E",
       "lat": 45.8392,
       "lon": -109.93878,
@@ -35188,7 +35286,7 @@
     "spokane_km": 830,
     "land": "ask",
     "grade": 3,
-    "legal": "check",
+    "legal": "state_permit",
     "state": "MT",
     "rank_sd": 0.049,
     "known_find_here": false,
@@ -35688,53 +35786,6 @@
       "g": 4
      }
     ]
-   },
-   {
-    "lat": 44.09564,
-    "lon": -116.94591,
-    "score": 97,
-    "hot": 97,
-    "finds_2km": 0,
-    "model_rank": 0.982,
-    "recipe_rank": 0.959,
-    "nearest_find": {
-     "km": 47.5,
-     "name": "Brogan",
-     "source": "rockhounding.org"
-    },
-    "parts": {
-     "finds": 0.0,
-     "rock": 0.98,
-     "ground": 0.8,
-     "dumps": null
-    },
-    "road_km": 0.14,
-    "road": "Boat Landing Rd (a local road)",
-    "road_class": "a local road",
-    "town": "Payette",
-    "town_km": 2.2,
-    "spokane_km": 398,
-    "land": "go",
-    "grade": 1,
-    "legal": "river_open",
-    "state": "ID",
-    "rank_sd": 0.026,
-    "known_find_here": false,
-    "support": "guess",
-    "access": {
-     "diggable": true,
-     "crest": false,
-     "cliff": false
-    },
-    "why": [
-     "the geology recipe for this stone scores it in its top 10%",
-     "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
-    ],
-    "area_km2": 1.0,
-    "nearest_find_km": 47.5,
-    "landmark": null,
-    "also": [],
-    "look": []
    }
   ],
   "placer_gold": [
@@ -36459,8 +36510,8 @@
     "recipe_rank": 0.998,
     "nearest_find": {
      "km": 10.4,
-     "name": "Little Applegate Placers",
-     "source": "mrds"
+     "name": "Little Applegate placers",
+     "source": "milo"
     },
     "parts": {
      "finds": 0.0,
@@ -36613,6 +36664,76 @@
     "look": []
    },
    {
+    "lat": 48.88088,
+    "lon": -119.60693,
+    "score": 99,
+    "hot": 99,
+    "finds_2km": 0,
+    "model_rank": 0.994,
+    "recipe_rank": 0.995,
+    "nearest_find": {
+     "km": 7.2,
+     "name": "Oro Fino",
+     "source": "mrds"
+    },
+    "parts": {
+     "finds": 0.0,
+     "rock": 0.99,
+     "ground": 0.88,
+     "dumps": null
+    },
+    "road_km": 0.05,
+    "road": "Loomis Oroville Rd (a local road)",
+    "road_class": "a local road",
+    "town": "Loomis",
+    "town_km": 6.9,
+    "spokane_km": 211,
+    "land": "likely",
+    "grade": 2,
+    "legal": "river_grey",
+    "state": "WA",
+    "rank_sd": 0.003,
+    "known_find_here": false,
+    "support": "proven",
+    "access": {
+     "diggable": true,
+     "crest": false,
+     "cliff": false
+    },
+    "why": [
+     "the geology recipe for this stone scores it in its top 10%",
+     "water at the surface",
+     "far from dikes",
+     "high elevation"
+    ],
+    "area_km2": 1.0,
+    "nearest_find_km": 7.2,
+    "landmark": null,
+    "also": [],
+    "look": [
+     {
+      "k": "gravel_bar",
+      "label": "gravel bar",
+      "km": 1.49,
+      "dir": "W",
+      "lat": 48.88072,
+      "lon": -119.62733,
+      "a": 2176,
+      "g": 4
+     },
+     {
+      "k": "creek_bed",
+      "label": "dry creek bed",
+      "km": 2.03,
+      "dir": "W",
+      "lat": 48.87418,
+      "lon": -119.63276,
+      "a": 2312,
+      "g": 4
+     }
+    ]
+   },
+   {
     "lat": 45.97391,
     "lon": -117.70311,
     "score": 99,
@@ -36692,8 +36813,8 @@
     "recipe_rank": 0.998,
     "nearest_find": {
      "km": 8.0,
-     "name": "Little Applegate Placers",
-     "source": "mrds"
+     "name": "Little Applegate placers",
+     "source": "milo"
     },
     "parts": {
      "finds": 0.0,
@@ -36978,8 +37099,8 @@
     "recipe_rank": 1.0,
     "nearest_find": {
      "km": 8.9,
-     "name": "Whitehorse Placer",
-     "source": "mrds"
+     "name": "Whitehorse placer",
+     "source": "milo"
     },
     "parts": {
      "finds": 0.0,
@@ -37128,6 +37249,194 @@
       "lon": -114.31132,
       "a": 248,
       "g": 1
+     }
+    ]
+   },
+   {
+    "lat": 48.7378,
+    "lon": -118.66136,
+    "score": 99,
+    "hot": 99,
+    "finds_2km": 0,
+    "model_rank": 0.995,
+    "recipe_rank": 0.987,
+    "nearest_find": {
+     "km": 12.9,
+     "name": "Alva Stout",
+     "source": "mrds"
+    },
+    "parts": {
+     "finds": 0.0,
+     "rock": 0.99,
+     "ground": 1.0,
+     "dumps": null
+    },
+    "road_km": 0.04,
+    "road": "a service road",
+    "road_class": "a service road",
+    "town": "Pollard",
+    "town_km": 1.2,
+    "spokane_km": 151,
+    "land": "likely",
+    "grade": 2,
+    "legal": "river_grey",
+    "state": "WA",
+    "rank_sd": 0.003,
+    "known_find_here": false,
+    "support": "near",
+    "access": {
+     "diggable": true,
+     "crest": false,
+     "cliff": false
+    },
+    "why": [
+     "the geology recipe for this stone scores it in its top 10%",
+     "water at the surface",
+     "far from dikes"
+    ],
+    "area_km2": 1.0,
+    "nearest_find_km": 12.9,
+    "landmark": null,
+    "also": [],
+    "look": []
+   },
+   {
+    "lat": 48.97101,
+    "lon": -119.44738,
+    "score": 99,
+    "hot": 99,
+    "finds_2km": 0,
+    "model_rank": 0.986,
+    "recipe_rank": 0.996,
+    "nearest_find": {
+     "km": 3.5,
+     "name": "Similkameen Placers",
+     "source": "mrds"
+    },
+    "parts": {
+     "finds": 0.0,
+     "rock": 0.99,
+     "ground": 0.49,
+     "dumps": null
+    },
+    "road_km": 0.04,
+    "road": "Westlake Rd (a local road)",
+    "road_class": "a local road",
+    "town": "Oroville",
+    "town_km": 3.6,
+    "spokane_km": 209,
+    "land": "likely",
+    "grade": 2,
+    "legal": "river_grey",
+    "state": "WA",
+    "rank_sd": 0.009,
+    "known_find_here": false,
+    "support": "proven",
+    "access": {
+     "diggable": true,
+     "crest": false,
+     "cliff": false
+    },
+    "why": [
+     "the geology recipe for this stone scores it in its top 10%",
+     "water at the surface",
+     "high elevation",
+     "far from dikes"
+    ],
+    "area_km2": 1.0,
+    "nearest_find_km": 3.5,
+    "landmark": null,
+    "also": [],
+    "look": [
+     {
+      "k": "gravel_bar",
+      "label": "gravel bar",
+      "km": 1.41,
+      "dir": "E",
+      "lat": 48.97108,
+      "lon": -119.42801,
+      "a": 1140,
+      "g": 2
+     },
+     {
+      "k": "creek_bed",
+      "label": "dry creek bed",
+      "km": 2.48,
+      "dir": "SW",
+      "lat": 48.95192,
+      "lon": -119.46497,
+      "a": 280,
+      "g": 1
+     }
+    ]
+   },
+   {
+    "lat": 48.28326,
+    "lon": -120.63476,
+    "score": 99,
+    "hot": 99,
+    "finds_2km": 0,
+    "model_rank": 0.996,
+    "recipe_rank": 0.983,
+    "nearest_find": {
+     "km": 50.8,
+     "name": "Mad Creek",
+     "source": "mrds"
+    },
+    "parts": {
+     "finds": 0.0,
+     "rock": 1.0,
+     "ground": 0.54,
+     "dumps": null
+    },
+    "road_km": 3.08,
+    "road": "Stehekin Valley Rd (a dirt track (4WD))",
+    "road_class": "a dirt track (4WD)",
+    "town": "Stehekin",
+    "town_km": 3.3,
+    "spokane_km": 249,
+    "land": "likely",
+    "grade": 2,
+    "legal": "river_grey",
+    "state": "WA",
+    "rank_sd": 0.004,
+    "known_find_here": false,
+    "support": "guess",
+    "access": {
+     "diggable": false,
+     "crest": false,
+     "cliff": false
+    },
+    "why": [
+     "the geology recipe for this stone scores it in its top 10%",
+     "water at the surface",
+     "the satellite land-cover fingerprint (AlphaEarth) resembles known sites",
+     "far from dikes"
+    ],
+    "area_km2": 1.0,
+    "nearest_find_km": 50.8,
+    "landmark": null,
+    "also": [],
+    "look": [
+     {
+      "k": "gravel_bar",
+      "label": "gravel bar",
+      "km": 1.66,
+      "dir": "W",
+      "lat": 48.28787,
+      "lon": -120.65613,
+      "a": 464,
+      "g": 2
+     },
+     {
+      "k": "creek_bed",
+      "label": "dry creek bed",
+      "km": 0.13,
+      "dir": "E",
+      "lat": 48.28307,
+      "lon": -120.63307,
+      "a": 304,
+      "g": 5
      }
     ]
    },
@@ -37550,124 +37859,6 @@
     ]
    },
    {
-    "lat": 48.58931,
-    "lon": -120.4896,
-    "score": 99,
-    "hot": 99,
-    "finds_2km": 0,
-    "model_rank": 0.983,
-    "recipe_rank": 0.992,
-    "nearest_find": {
-     "km": 29.6,
-     "name": "Farrar Placer",
-     "source": "mrds"
-    },
-    "parts": {
-     "finds": 0.0,
-     "rock": 0.98,
-     "ground": 0.79,
-     "dumps": null
-    },
-    "road_km": 0.17,
-    "road": "Hwy 20 (a state highway)",
-    "road_class": "a state highway",
-    "town": "Mazama",
-    "town_km": 6.4,
-    "spokane_km": 250,
-    "land": "go",
-    "grade": 1,
-    "legal": "ok",
-    "state": "WA",
-    "rank_sd": 0.007,
-    "known_find_here": false,
-    "support": "guess",
-    "access": {
-     "diggable": true,
-     "crest": false,
-     "cliff": false
-    },
-    "why": [
-     "the geology recipe for this stone scores it in its top 10%",
-     "far from dikes",
-     "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
-    ],
-    "area_km2": 1.0,
-    "nearest_find_km": 29.6,
-    "landmark": null,
-    "also": [],
-    "look": []
-   },
-   {
-    "lat": 48.17727,
-    "lon": -121.02109,
-    "score": 99,
-    "hot": 99,
-    "finds_2km": 0,
-    "model_rank": 0.993,
-    "recipe_rank": 0.982,
-    "nearest_find": {
-     "km": 52.9,
-     "name": "Mad Creek",
-     "source": "mrds"
-    },
-    "parts": {
-     "finds": 0.0,
-     "rock": 0.99,
-     "ground": 0.61,
-     "dumps": null
-    },
-    "road_km": 6.46,
-    "road": "no mapped road within 2 mi",
-    "road_class": null,
-    "town": "Trinity",
-    "town_km": 17.0,
-    "spokane_km": 274,
-    "land": "go",
-    "grade": 1,
-    "legal": "ok",
-    "state": "WA",
-    "rank_sd": 0.005,
-    "known_find_here": false,
-    "support": "guess",
-    "access": {
-     "diggable": true,
-     "crest": false,
-     "cliff": false
-    },
-    "why": [
-     "the geology recipe for this stone scores it in its top 10%",
-     "water at the surface",
-     "the satellite land-cover fingerprint (AlphaEarth) resembles known sites",
-     "far from dikes"
-    ],
-    "area_km2": 1.0,
-    "nearest_find_km": 52.9,
-    "landmark": null,
-    "also": [],
-    "look": [
-     {
-      "k": "gravel_bar",
-      "label": "gravel bar",
-      "km": 0.11,
-      "dir": "NE",
-      "lat": 48.17797,
-      "lon": -121.01995,
-      "a": 8448,
-      "g": 1
-     },
-     {
-      "k": "creek_bed",
-      "label": "dry creek bed",
-      "km": 0.27,
-      "dir": "SE",
-      "lat": 48.17555,
-      "lon": -121.01854,
-      "a": 4480,
-      "g": 1
-     }
-    ]
-   },
-   {
     "lat": 48.74704,
     "lon": -119.42365,
     "score": 99,
@@ -37727,37 +37918,37 @@
     ]
    },
    {
-    "lat": 48.92814,
-    "lon": -118.74519,
-    "score": 98,
-    "hot": 98,
+    "lat": 46.61822,
+    "lon": -111.70726,
+    "score": 99,
+    "hot": 99,
     "finds_2km": 0,
-    "model_rank": 0.974,
-    "recipe_rank": 0.993,
+    "model_rank": 0.995,
+    "recipe_rank": 0.978,
     "nearest_find": {
-     "km": 17.5,
-     "name": "Singer Placer",
+     "km": 9.1,
+     "name": "Ruth Placer",
      "source": "mrds"
     },
     "parts": {
      "finds": 0.0,
-     "rock": 0.97,
+     "rock": 0.99,
      "ground": 1.0,
      "dumps": null
     },
-    "road_km": 0.14,
-    "road": "Co Hwy 530 (a local road)",
+    "road_km": 0.02,
+    "road": "W Shore Dr (a local road)",
     "road_class": "a local road",
-    "town": "Toroda",
-    "town_km": 2.0,
-    "spokane_km": 172,
-    "land": "likely",
-    "grade": 2,
-    "legal": "river_grey",
-    "state": "WA",
-    "rank_sd": 0.016,
+    "town": "Cavetown",
+    "town_km": 4.0,
+    "spokane_km": 448,
+    "land": "ask",
+    "grade": 3,
+    "legal": "state_permit",
+    "state": "MT",
+    "rank_sd": 0.004,
     "known_find_here": false,
-    "support": "near",
+    "support": "proven",
     "access": {
      "diggable": true,
      "crest": false,
@@ -37765,26 +37956,15 @@
     },
     "why": [
      "the geology recipe for this stone scores it in its top 10%",
-     "far from dikes",
+     "water at the surface",
      "the satellite land-cover fingerprint (AlphaEarth) resembles known sites",
-     "high elevation"
+     "deep gravity high"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 17.5,
+    "nearest_find_km": 9.1,
     "landmark": null,
     "also": [],
-    "look": [
-     {
-      "k": "gravel_bar",
-      "label": "gravel bar",
-      "km": 0.03,
-      "dir": "N",
-      "lat": 48.92839,
-      "lon": -118.74533,
-      "a": 1332,
-      "g": 2
-     }
-    ]
+    "look": []
    },
    {
     "lat": 46.14182,
@@ -37878,114 +38058,6 @@
     ],
     "area_km2": 1.0,
     "nearest_find_km": 23.8,
-    "landmark": null,
-    "also": [],
-    "look": []
-   },
-   {
-    "lat": 46.0386,
-    "lon": -117.47442,
-    "score": 98,
-    "hot": 98,
-    "finds_2km": 0,
-    "model_rank": 0.965,
-    "recipe_rank": 0.999,
-    "nearest_find": {
-     "km": 49.6,
-     "name": "Pomeroy",
-     "source": "mrds"
-    },
-    "parts": {
-     "finds": 0.0,
-     "rock": 0.96,
-     "ground": 0.89,
-     "dumps": null
-    },
-    "road_km": 0.09,
-    "road": "NFS Rd 4039 (a local road)",
-    "road_class": "a local road",
-    "town": "Grouse",
-    "town_km": 5.0,
-    "spokane_km": 180,
-    "land": "go",
-    "grade": 1,
-    "legal": "ok",
-    "state": "WA",
-    "rank_sd": 0.019,
-    "known_find_here": false,
-    "support": "guess",
-    "access": {
-     "diggable": true,
-     "crest": false,
-     "cliff": false
-    },
-    "why": [
-     "the geology recipe for this stone scores it in its top 10%",
-     "far from dikes",
-     "pillow basalt",
-     "copper carbonates (malachite, azurite) seen by the EMIT spectrometer"
-    ],
-    "area_km2": 1.0,
-    "nearest_find_km": 49.6,
-    "landmark": null,
-    "also": [],
-    "look": [
-     {
-      "k": "creek_bed",
-      "label": "dry creek bed",
-      "km": 0.67,
-      "dir": "W",
-      "lat": 46.03659,
-      "lon": -117.48266,
-      "a": 212,
-      "g": 1
-     }
-    ]
-   },
-   {
-    "lat": 46.3799,
-    "lon": -113.55785,
-    "score": 98,
-    "hot": 98,
-    "finds_2km": 0,
-    "model_rank": 0.983,
-    "recipe_rank": 0.977,
-    "nearest_find": {
-     "km": 6.6,
-     "name": "Upper Willow Creek Placer",
-     "source": "mrds"
-    },
-    "parts": {
-     "finds": 0.0,
-     "rock": 0.98,
-     "ground": 0.75,
-     "dumps": null
-    },
-    "road_km": 0.09,
-    "road": "a service road",
-    "road_class": "a service road",
-    "town": "Corral",
-    "town_km": 15.2,
-    "spokane_km": 326,
-    "land": "go",
-    "grade": 1,
-    "legal": "ok",
-    "state": "MT",
-    "rank_sd": 0.006,
-    "known_find_here": false,
-    "support": "proven",
-    "access": {
-     "diggable": true,
-     "crest": false,
-     "cliff": false
-    },
-    "why": [
-     "the geology recipe for this stone scores it in its top 10%",
-     "the satellite land-cover fingerprint (AlphaEarth) resembles known sites",
-     "deep gravity high"
-    ],
-    "area_km2": 1.0,
-    "nearest_find_km": 6.6,
     "landmark": null,
     "also": [],
     "look": []
@@ -38390,8 +38462,8 @@
     "recipe_rank": 0.999,
     "nearest_find": {
      "km": 4.9,
-     "name": "Sunset Mine",
-     "source": "mrds"
+     "name": "Sunset Mine, Trout Creek, Index Mining District, Snohomish County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -39427,8 +39499,8 @@
     "recipe_rank": 0.983,
     "nearest_find": {
      "km": 16.9,
-     "name": "Unnamed Deposit",
-     "source": "mrds"
+     "name": "Unnamed Feldspar Deposit (MRDS - 10270038), Mineral Hill Mining District (Pony Mining District), Madison County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -39787,9 +39859,9 @@
     "model_rank": 0.987,
     "recipe_rank": 0.972,
     "nearest_find": {
-     "km": 2.0,
-     "name": "Blacktail Asbestos Prospect",
-     "source": "mrds"
+     "km": 2.1,
+     "name": "Blacktail Asbestos Prospect, Harpster Mining District, Idaho County, Idaho, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -39821,7 +39893,7 @@
      "schist, gneiss or marble"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 2.0,
+    "nearest_find_km": 2.1,
     "landmark": null,
     "also": [],
     "look": [
@@ -40131,29 +40203,29 @@
     "look": []
    },
    {
-    "lat": 45.4527,
-    "lon": -111.65953,
+    "lat": 45.4524,
+    "lon": -111.66205,
     "score": 96,
     "hot": 96,
     "finds_2km": 0,
     "model_rank": 0.994,
     "recipe_rank": 0.935,
     "nearest_find": {
-     "km": 20.0,
-     "name": "Ennis Prospect",
-     "source": "mrds"
+     "km": 19.8,
+     "name": "Ennis Prospect, Madison County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
      "rock": 0.99,
-     "ground": 0.99,
+     "ground": 1.0,
      "dumps": null
     },
-    "road_km": 0.14,
+    "road_km": 0.11,
     "road": "N Ennis Lake Rd (a local road)",
     "road_class": "a local road",
     "town": "Watkins",
-    "town_km": 3.5,
+    "town_km": 3.4,
     "spokane_km": 504,
     "land": "ask",
     "grade": 3,
@@ -40173,7 +40245,7 @@
      "schist, gneiss or marble"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 20.0,
+    "nearest_find_km": 19.8,
     "landmark": null,
     "also": [],
     "look": []
@@ -41124,9 +41196,9 @@
     "model_rank": 0.999,
     "recipe_rank": 0.999,
     "nearest_find": {
-     "km": 30.3,
-     "name": "Old Faithful and Little Bimbo",
-     "source": "igs"
+     "km": 30.1,
+     "name": "Old Faithful and Little Bimbo Occurrence, Idaho County, Idaho, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -41158,7 +41230,7 @@
      "schist, gneiss or marble"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 30.3,
+    "nearest_find_km": 30.1,
     "landmark": null,
     "also": [],
     "look": [
@@ -41382,7 +41454,7 @@
     "nearest_find": {
      "km": 10.6,
      "name": "Stocking Meadows",
-     "source": "mrds"
+     "source": "igs"
     },
     "parts": {
      "finds": 0.0,
@@ -41657,8 +41729,8 @@
     "recipe_rank": 0.992,
     "nearest_find": {
      "km": 38.6,
-     "name": "Lost Lake",
-     "source": "mrds"
+     "name": "Lost Lake Andalusite Occurrence, Metaline Mining District, Pend Oreille County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -41705,8 +41777,8 @@
     "recipe_rank": 0.989,
     "nearest_find": {
      "km": 10.3,
-     "name": "Bass Creek Sillimanite",
-     "source": "mrds"
+     "name": "Bass Creek Sillimanite Occurrence, Ravalli County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -41794,8 +41866,8 @@
     "recipe_rank": 0.976,
     "nearest_find": {
      "km": 41.8,
-     "name": "Bresnahan and Fenner",
-     "source": "mrds"
+     "name": "Bresnahan and Fenner Occurrence, Olson Gulch Mining District, Deer Lodge County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -41842,8 +41914,8 @@
     "recipe_rank": 0.977,
     "nearest_find": {
      "km": 166.5,
-     "name": "Bass Creek Sillimanite",
-     "source": "mrds"
+     "name": "Bass Creek Sillimanite Occurrence, Ravalli County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -41889,9 +41961,9 @@
     "model_rank": 0.999,
     "recipe_rank": 0.975,
     "nearest_find": {
-     "km": 39.8,
-     "name": "Unnamed Kyanite Occurrence",
-     "source": "mrds"
+     "km": 39.9,
+     "name": "Unnamed Kyanite occurrence [3], Beaverhead County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -41923,7 +41995,7 @@
      "the unit description mentions garnet"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 39.8,
+    "nearest_find_km": 39.9,
     "landmark": null,
     "also": [],
     "look": []
@@ -42081,9 +42153,9 @@
     "model_rank": 0.996,
     "recipe_rank": 0.976,
     "nearest_find": {
-     "km": 52.3,
-     "name": "Bass Creek Sillimanite",
-     "source": "mrds"
+     "km": 52.2,
+     "name": "Bass Creek Sillimanite Occurrence, Ravalli County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -42115,7 +42187,7 @@
      "the unit description mentions garnet"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 52.3,
+    "nearest_find_km": 52.2,
     "landmark": null,
     "also": [],
     "look": []
@@ -42130,8 +42202,8 @@
     "recipe_rank": 0.976,
     "nearest_find": {
      "km": 117.2,
-     "name": "Lost Lake",
-     "source": "mrds"
+     "name": "Hall Mountain Andalusite Occurrence, Metaline Mining District, Pend Oreille County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -42189,8 +42261,8 @@
     "recipe_rank": 0.978,
     "nearest_find": {
      "km": 50.6,
-     "name": "Bresnahan and Fenner",
-     "source": "mrds"
+     "name": "Bresnahan and Fenner Occurrence, Olson Gulch Mining District, Deer Lodge County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -42237,8 +42309,8 @@
     "recipe_rank": 0.973,
     "nearest_find": {
      "km": 429.1,
-     "name": "Washougal River",
-     "source": "mrds"
+     "name": "North Fork Washougal River, Washougal River, Washougal Mining District, Skamania County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -42334,8 +42406,8 @@
     "recipe_rank": 0.972,
     "nearest_find": {
      "km": 420.9,
-     "name": "Washougal River",
-     "source": "mrds"
+     "name": "North Fork Washougal River, Washougal River, Washougal Mining District, Skamania County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -42982,8 +43054,8 @@
     "recipe_rank": 1.0,
     "nearest_find": {
      "km": 2.2,
-     "name": "Crystal Mine",
-     "source": "mrds"
+     "name": "Crystal Mine, Egypt Mining District, Lincoln County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -43101,9 +43173,9 @@
     "model_rank": 0.999,
     "recipe_rank": 0.998,
     "nearest_find": {
-     "km": 5.1,
-     "name": "Sager-Murphy Prospect",
-     "source": "mrds"
+     "km": 5.0,
+     "name": "Sager-Murphy Prospect, Olson Gulch Mining District, Deer Lodge County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -43136,7 +43208,7 @@
      "high aluminum in creek mud"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 5.1,
+    "nearest_find_km": 5.0,
     "landmark": null,
     "also": [],
     "look": [
@@ -43350,9 +43422,9 @@
     "model_rank": 0.999,
     "recipe_rank": 0.997,
     "nearest_find": {
-     "km": 23.6,
-     "name": "Holden Mine",
-     "source": "mrds"
+     "km": 23.5,
+     "name": "Holden Mine, Railroad Creek Mining District, Chelan County, Washington, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -43385,7 +43457,7 @@
      "limestone, marble or calc-silicate named"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 23.6,
+    "nearest_find_km": 23.5,
     "landmark": null,
     "also": [],
     "look": [
@@ -43520,8 +43592,8 @@
     "recipe_rank": 0.999,
     "nearest_find": {
      "km": 17.2,
-     "name": "South Vein",
-     "source": "igs"
+     "name": "South Lead Lode Occurrence (Lode No. 3), Gravel Range Mining District (Singheiser Mining District), Lemhi County, Idaho, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -43617,9 +43689,9 @@
     "model_rank": 0.997,
     "recipe_rank": 0.997,
     "nearest_find": {
-     "km": 12.7,
-     "name": "Crystle Nos 1 - 17 , 23 - 26",
-     "source": "mrds"
+     "km": 12.8,
+     "name": "Crystle Nos. 1 - 17 ; 23 - 26, Gravel Range Mining District (Singheiser Mining District), Lemhi County, Idaho, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -43652,7 +43724,7 @@
      "metasedimentary under thin cover"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 12.7,
+    "nearest_find_km": 12.8,
     "landmark": null,
     "also": [],
     "look": []
@@ -43715,9 +43787,9 @@
     "model_rank": 0.996,
     "recipe_rank": 0.998,
     "nearest_find": {
-     "km": 26.6,
-     "name": "Unnamed Fluorite Deposit",
-     "source": "mrds"
+     "km": 26.7,
+     "name": "Unnamed Fluorspar-Th prospect [1], Deer Creek Mining District, Beaverhead County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -43750,7 +43822,7 @@
      "jarosite (acid sulfate weathering of sulfides) seen by the EMIT spectrometer"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 26.6,
+    "nearest_find_km": 26.7,
     "landmark": null,
     "also": [],
     "look": []
@@ -43765,8 +43837,8 @@
     "recipe_rank": 0.999,
     "nearest_find": {
      "km": 8.2,
-     "name": "Normandy",
-     "source": "mrds"
+     "name": "Normandy Occurrence, Broadwater County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -43873,9 +43945,9 @@
     "model_rank": 0.994,
     "recipe_rank": 0.999,
     "nearest_find": {
-     "km": 2.6,
-     "name": "Mc Cabe Prospect",
-     "source": "mrds"
+     "km": 2.5,
+     "name": "McCabe Prospect, Silver Lake Mining District, Deer Lodge County, Montana, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -43908,7 +43980,7 @@
      "limestone, marble or calc-silicate named"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 2.6,
+    "nearest_find_km": 2.5,
     "landmark": null,
     "also": [],
     "look": []
@@ -43973,7 +44045,7 @@
     "nearest_find": {
      "km": 25.7,
      "name": "Ida-Ski",
-     "source": "mrds"
+     "source": "igs"
     },
     "parts": {
      "finds": 0.0,
@@ -44840,9 +44912,9 @@
     "model_rank": 0.901,
     "recipe_rank": 0.981,
     "nearest_find": {
-     "km": 4.0,
-     "name": "Woolf Tungsten",
-     "source": "mrds"
+     "km": 4.1,
+     "name": "Woolf Tungsten Occurrence, Gold Hill Mining District, Jackson County, Oregon, USA",
+     "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
@@ -44875,7 +44947,7 @@
      "far from dikes"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 4.0,
+    "nearest_find_km": 4.1,
     "landmark": null,
     "also": [],
     "look": []
@@ -45244,8 +45316,8 @@
     "recipe_rank": 0.997,
     "nearest_find": {
      "km": 6.5,
-     "name": "Girds Creek Road, Twickenham, Wheeler County, Oregon, USA",
-     "source": "mindat"
+     "name": "Girds Creek",
+     "source": "currently_rockhounding"
     },
     "parts": {
      "finds": 0.0,
@@ -45284,6 +45356,55 @@
     "look": []
    },
    {
+    "lat": 46.03008,
+    "lon": -122.64094,
+    "score": 100,
+    "hot": 100,
+    "finds_2km": 0,
+    "model_rank": 0.996,
+    "recipe_rank": 0.998,
+    "nearest_find": {
+     "km": 16.0,
+     "name": "Roadcuts, Kalama area, Cowlitz County, Washington, USA",
+     "source": "mindat"
+    },
+    "parts": {
+     "finds": 0.0,
+     "rock": 1.0,
+     "ground": 0.67,
+     "dumps": null
+    },
+    "road_km": 0.24,
+    "road": "Royal Coachman Ln (a local road)",
+    "road_class": "a local road",
+    "town": "Pigeon Springs",
+    "town_km": 2.9,
+    "spokane_km": 436,
+    "land": "likely",
+    "grade": 2,
+    "legal": "river_grey",
+    "state": "WA",
+    "rank_sd": 0.008,
+    "known_find_here": false,
+    "support": "near",
+    "access": {
+     "diggable": true,
+     "crest": false,
+     "cliff": false
+    },
+    "why": [
+     "the geology recipe for this stone scores it in its top 10%",
+     "rhyolite or dacite named in the unit",
+     "basalt under thin cover",
+     "interbeds, tuffaceous or lake-bed layers between flows"
+    ],
+    "area_km2": 1.0,
+    "nearest_find_km": 16.0,
+    "landmark": null,
+    "also": [],
+    "look": []
+   },
+   {
     "lat": 44.74138,
     "lon": -120.11297,
     "score": 100,
@@ -45293,8 +45414,8 @@
     "recipe_rank": 0.995,
     "nearest_find": {
      "km": 4.1,
-     "name": "Girds Creek Road, Twickenham, Wheeler County, Oregon, USA",
-     "source": "mindat"
+     "name": "Girds Creek",
+     "source": "currently_rockhounding"
     },
     "parts": {
      "finds": 0.0,
@@ -45475,55 +45596,6 @@
     ],
     "area_km2": 1.0,
     "nearest_find_km": 6.5,
-    "landmark": null,
-    "also": [],
-    "look": []
-   },
-   {
-    "lat": 46.09395,
-    "lon": -122.64041,
-    "score": 100,
-    "hot": 100,
-    "finds_2km": 0,
-    "model_rank": 0.994,
-    "recipe_rank": 0.999,
-    "nearest_find": {
-     "km": 12.6,
-     "name": "Baird Creek Quarry, Wolf Point, Cowlitz County, Washington, USA",
-     "source": "mindat"
-    },
-    "parts": {
-     "finds": 0.0,
-     "rock": 0.99,
-     "ground": 1.0,
-     "dumps": null
-    },
-    "road_km": 0.1,
-    "road": "a local road",
-    "road_class": "a local road",
-    "town": "Pigeon Springs",
-    "town_km": 4.7,
-    "spokane_km": 433,
-    "land": "go",
-    "grade": 1,
-    "legal": "ok",
-    "state": "WA",
-    "rank_sd": 0.009,
-    "known_find_here": false,
-    "support": "near",
-    "access": {
-     "diggable": true,
-     "crest": true,
-     "cliff": false
-    },
-    "why": [
-     "the geology recipe for this stone scores it in its top 10%",
-     "rhyolite or dacite named in the unit",
-     "basalt under thin cover",
-     "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
-    ],
-    "area_km2": 1.0,
-    "nearest_find_km": 12.6,
     "landmark": null,
     "also": [],
     "look": []
@@ -45725,37 +45797,37 @@
     "look": []
    },
    {
-    "lat": 46.00691,
-    "lon": -122.56029,
+    "lat": 44.4729,
+    "lon": -122.4494,
     "score": 100,
     "hot": 100,
     "finds_2km": 0,
-    "model_rank": 0.994,
-    "recipe_rank": 0.998,
+    "model_rank": 0.998,
+    "recipe_rank": 0.993,
     "nearest_find": {
-     "km": 15.9,
-     "name": "Elk Mountain, Toutle, Cowlitz County, Washington, USA",
+     "km": 8.4,
+     "name": "Green Peter Dam, Quartzville Mining District, Linn County, Oregon, USA",
      "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
-     "rock": 0.99,
-     "ground": 0.93,
+     "rock": 1.0,
+     "ground": 0.88,
      "dumps": null
     },
-    "road_km": 0.03,
+    "road_km": 0.1,
     "road": "a local road",
     "road_class": "a local road",
-    "town": "Ariel",
-    "town_km": 5.6,
-    "spokane_km": 431,
-    "land": "go",
-    "grade": 1,
-    "legal": "ok",
-    "state": "WA",
-    "rank_sd": 0.011,
+    "town": "Cascadia",
+    "town_km": 8.8,
+    "spokane_km": 525,
+    "land": "ask",
+    "grade": 3,
+    "legal": "state_permit",
+    "state": "OR",
+    "rank_sd": 0.003,
     "known_find_here": false,
-    "support": "near",
+    "support": "proven",
     "access": {
      "diggable": true,
      "crest": false,
@@ -45764,11 +45836,11 @@
     "why": [
      "the geology recipe for this stone scores it in its top 10%",
      "rhyolite or dacite named in the unit",
-     "basalt under thin cover",
-     "interbeds, tuffaceous or lake-bed layers between flows"
+     "intermediate volcanic under thin cover",
+     "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 15.9,
+    "nearest_find_km": 8.4,
     "landmark": null,
     "also": [],
     "look": []
@@ -45871,40 +45943,40 @@
     "look": []
    },
    {
-    "lat": 42.1871,
-    "lon": -121.11078,
+    "lat": 48.04816,
+    "lon": -123.63443,
     "score": 100,
     "hot": 100,
     "finds_2km": 0,
-    "model_rank": 0.999,
-    "recipe_rank": 0.991,
+    "model_rank": 0.993,
+    "recipe_rank": 0.998,
     "nearest_find": {
-     "km": 36.6,
-     "name": "Drews Reservoir, Lakeview, Lake County, Oregon, USA",
+     "km": 47.1,
+     "name": "State Lease Prospect, Clallam County, Washington, USA",
      "source": "mindat"
     },
     "parts": {
      "finds": 0.0,
-     "rock": 1.0,
-     "ground": 1.0,
+     "rock": 0.99,
+     "ground": 0.8,
      "dumps": null
     },
-    "road_km": 0.05,
-    "road": "a local road",
+    "road_km": 2.03,
+    "road": "Eagles Nest Ln (a local road)",
     "road_class": "a local road",
-    "town": "Haynesville",
-    "town_km": 11.5,
-    "spokane_km": 674,
+    "town": "Elwha",
+    "town_km": 3.3,
+    "spokane_km": 465,
     "land": "go",
     "grade": 1,
     "legal": "ok",
-    "state": "OR",
-    "rank_sd": 0.002,
+    "state": "WA",
+    "rank_sd": 0.008,
     "known_find_here": false,
     "support": "guess",
     "access": {
-     "diggable": true,
-     "crest": false,
+     "diggable": false,
+     "crest": true,
      "cliff": false
     },
     "why": [
@@ -45914,7 +45986,7 @@
      "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
     ],
     "area_km2": 1.0,
-    "nearest_find_km": 36.6,
+    "nearest_find_km": 47.1,
     "landmark": null,
     "also": [],
     "look": []
@@ -46072,7 +46144,7 @@
       "lat": 47.67756,
       "lon": -116.8101,
       "a": 576,
-      "g": 4
+      "g": 1
      }
     ]
    },
@@ -46500,6 +46572,75 @@
     "look": []
    },
    {
+    "lat": 47.76993,
+    "lon": -116.73093,
+    "score": 96,
+    "hot": 96,
+    "finds_2km": 0,
+    "model_rank": 0.926,
+    "recipe_rank": 1.0,
+    "nearest_find": {
+     "km": 50.6,
+     "name": "Silver Hill Mine, Silver Hill, Silver Hill Mining District, Spokane County, Washington, USA",
+     "source": "mindat"
+    },
+    "parts": {
+     "finds": 0.0,
+     "rock": 0.93,
+     "ground": 0.88,
+     "dumps": null
+    },
+    "road_km": 0.08,
+    "road": "N Split Rock Rd (a local road)",
+    "road_class": "a local road",
+    "town": "Clarksville",
+    "town_km": 1.8,
+    "spokane_km": 53,
+    "land": "go",
+    "grade": 1,
+    "legal": "river_open",
+    "state": "ID",
+    "rank_sd": 0.037,
+    "known_find_here": false,
+    "support": "guess",
+    "access": {
+     "diggable": true,
+     "crest": false,
+     "cliff": false
+    },
+    "why": [
+     "the geology recipe for this stone scores it in its top 10%",
+     "basalt under thin cover",
+     "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
+    ],
+    "area_km2": 1.0,
+    "nearest_find_km": 50.6,
+    "landmark": null,
+    "also": [],
+    "look": [
+     {
+      "k": "crag",
+      "label": "rock outcrop",
+      "km": 0.04,
+      "dir": "N",
+      "lat": 47.7703,
+      "lon": -116.73103,
+      "a": 2180,
+      "g": 1
+     },
+     {
+      "k": "road_cut",
+      "label": "road cut",
+      "km": 1.08,
+      "dir": "E",
+      "lat": 47.76848,
+      "lon": -116.71663,
+      "a": 504,
+      "g": 1
+     }
+    ]
+   },
+   {
     "lat": 44.77795,
     "lon": -114.00488,
     "score": 96,
@@ -46547,65 +46688,6 @@
     "landmark": null,
     "also": [],
     "look": []
-   },
-   {
-    "lat": 47.54114,
-    "lon": -116.82601,
-    "score": 96,
-    "hot": 96,
-    "finds_2km": 0,
-    "model_rank": 0.952,
-    "recipe_rank": 0.968,
-    "nearest_find": {
-     "km": 37.9,
-     "name": "Silver Hill Mine, Silver Hill, Silver Hill Mining District, Spokane County, Washington, USA",
-     "source": "mindat"
-    },
-    "parts": {
-     "finds": 0.0,
-     "rock": 0.95,
-     "ground": 1.0,
-     "dumps": null
-    },
-    "road_km": 0.06,
-    "road": "W Sandpoint Ln (a local road)",
-    "road_class": "a local road",
-    "town": "Len Landing",
-    "town_km": 1.7,
-    "spokane_km": 47,
-    "land": "go",
-    "grade": 1,
-    "legal": "river_open",
-    "state": "ID",
-    "rank_sd": 0.025,
-    "known_find_here": false,
-    "support": "guess",
-    "access": {
-     "diggable": true,
-     "crest": false,
-     "cliff": false
-    },
-    "why": [
-     "the geology recipe for this stone scores it in its top 10%",
-     "basalt under thin cover",
-     "the satellite land-cover fingerprint (AlphaEarth) resembles known sites"
-    ],
-    "area_km2": 1.0,
-    "nearest_find_km": 37.9,
-    "landmark": null,
-    "also": [],
-    "look": [
-     {
-      "k": "crag",
-      "label": "rock outcrop",
-      "km": 0.09,
-      "dir": "E",
-      "lat": 47.54097,
-      "lon": -116.82482,
-      "a": 1424,
-      "g": 1
-     }
-    ]
    },
    {
     "lat": 45.32161,

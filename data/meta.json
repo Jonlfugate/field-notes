@@ -1378,27 +1378,27 @@
   "zeolites": "finds_zeolites.geojson"
  },
  "counts": {
-  "agate_jasper": 309,
-  "geode_thunderegg": 58,
-  "quartz_crystal": 217,
-  "petrified_wood": 94,
-  "fossils": 1690,
-  "opal": 201,
-  "garnet": 695,
-  "pegmatite_gems": 2000,
-  "copper_minerals": 1264,
-  "uv_minerals": 1169,
-  "placer_gold": 3030,
-  "lode_gold": 24835,
-  "lead_zinc_silver": 4635,
-  "calcite_barite": 1410,
-  "iron_minerals": 762,
-  "molybdenite": 563,
-  "epidote": 428,
-  "staurolite_kyanite": 184,
-  "serpentine_jade": 725,
-  "fluorite": 632,
-  "zeolites": 466
+  "agate_jasper": 329,
+  "geode_thunderegg": 54,
+  "quartz_crystal": 215,
+  "petrified_wood": 90,
+  "fossils": 1650,
+  "opal": 203,
+  "garnet": 730,
+  "pegmatite_gems": 1924,
+  "copper_minerals": 1145,
+  "uv_minerals": 1017,
+  "placer_gold": 2440,
+  "lode_gold": 18069,
+  "lead_zinc_silver": 4093,
+  "calcite_barite": 1923,
+  "iron_minerals": 931,
+  "molybdenite": 518,
+  "epidote": 402,
+  "staurolite_kyanite": 165,
+  "serpentine_jade": 692,
+  "fluorite": 540,
+  "zeolites": 432
  },
  "targets": {
   "agate_jasper": {
@@ -1654,5 +1654,5 @@
   }
  },
  "area": "Washington, Idaho, Montana and Oregon",
- "built": "2026-10-31"
+ "built": "2026-11-01"
 }
