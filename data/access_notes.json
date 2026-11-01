@@ -1,0 +1,62 @@
+[
+ {
+  "name": "Loon Lake copper mine",
+  "lat": 48.14379,
+  "lon": -117.63774,
+  "radius_km": 1.5,
+  "level": "closed",
+  "note": "No longer open to the public, per the guide that used to list it. Old reports and Mindat records still point here: don't go without the owner's OK.",
+  "source": "https://currentlyrockhounding.com/loon-lake-copper-mine/",
+  "date": "2026-10-24"
+ },
+ {
+  "name": "Diatomaceous Earth mine (Saddle Mountains opal wood)",
+  "lat": 47.052156,
+  "lon": -119.971648,
+  "radius_km": 2.0,
+  "level": "closed",
+  "note": "No longer open to the public, per the guide that used to list it. The famous opalized wood here is on a working mine claim.",
+  "source": "https://currentlyrockhounding.com/diatomaceous-earth-mine/",
+  "date": "2026-10-24"
+ },
+ {
+  "name": "Mica Mountain",
+  "lat": 46.8873,
+  "lon": -116.5755,
+  "radius_km": 1.5,
+  "level": "private",
+  "note": "Private land, per the guide that used to list it. Ask the owner first.",
+  "source": "https://currentlyrockhounding.com/mica-mountain/",
+  "date": "2026-10-24"
+ },
+ {
+  "name": "Solo Creek quartz dig",
+  "lat": 48.47581,
+  "lon": -117.05982,
+  "radius_km": 1.0,
+  "level": "closed",
+  "note": "USFS temporarily closed the 5-acre quartz dig in Oct 2023 (hazard trees and open holes). Check with the Colville National Forest before going.",
+  "source": "https://currentlyrockhounding.com/solo-creek/",
+  "date": "2023-10"
+ },
+ {
+  "name": "Rock N Tomahawk Ranch",
+  "lat": 47.17146,
+  "lon": -120.63339,
+  "radius_km": 2.0,
+  "level": "check",
+  "note": "Fee-dig ranch for Ellensburg blue agate, reported closed permanently to the public (one Reddit report, 2025, unverified). Call before going; everything around it is private.",
+  "source": "reddit",
+  "date": "2025"
+ },
+ {
+  "name": "Emerald Creek Garnet Area",
+  "lat": 47.06852,
+  "lon": -116.32488,
+  "radius_km": 2.0,
+  "level": "closed",
+  "note": "USFS fee site CLOSED for the rest of 2026: the excavated garnet supply ran out. Huckleberry Garnet Mine nearby is the private alternative.",
+  "source": "https://www.fs.usda.gov/r01/idahopanhandle/recreation/emerald-creek-garnet-area",
+  "date": "2026"
+ }
+]
