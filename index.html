@@ -1,19 +1,22 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" data-theme="light">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <meta name="robots" content="noindex, nofollow" />
-    <meta name="theme-color" content="#1a2023" />
+    <meta name="theme-color" content="#ffffff" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap" rel="stylesheet" />
     <link rel="icon" type="image/svg+xml" href="favicon.svg" />
     <link rel="apple-touch-icon" href="icon-192.png" />
-    <title>Rockhound Atlas</title>
-    <script type="module" crossorigin src="./assets/index-CW6vNWaq.js"></script>
-    <link rel="stylesheet" crossorigin href="./assets/index-BUucdw_q.css">
+    <title>Field Notes</title>
+    <script type="module" crossorigin src="./assets/index-BrR1QkaG.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-BI0hX7IN.css">
   <link rel="manifest" href="./manifest.webmanifest"></head>
   <body>
     <div class="app">
-      <nav class="cats" id="cats" aria-label="What to look for"></nav>
+      <div class="topbar" id="topbar"></div>
       <div id="map" role="application" aria-label="Map"></div>
       <button id="nav" class="nav" hidden aria-live="polite" aria-label="Distance to the selected spot. Tap to show you both on the map.">
         <svg class="nav-arrow" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2 20 21 12 16.5 4 21Z" /></svg>
@@ -34,6 +37,7 @@
           <button role="tab" data-tab="guide">Guide</button>
         </div>
         <div class="panes">
+          <section class="pane" data-pane="home" hidden><div id="home" class="home"></div></section>
           <section class="pane" data-pane="spot"><div id="favbox"></div><div id="info"></div></section>
           <section class="pane" data-pane="favs" hidden><div id="favs"></div></section>
           <section class="pane" data-pane="layers" hidden><div id="layers"></div></section>
@@ -46,6 +50,8 @@
           <section class="pane read" data-pane="guide" hidden><div id="guide"></div></section>
         </div>
       </aside>
+      <div id="screen" class="screen" hidden></div>
+      <nav id="bnav" class="bnav" aria-label="Main"></nav>
     </div>
   </body>
 </html>
